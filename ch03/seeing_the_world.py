@@ -1,0 +1,30 @@
+# Exercise 3-8 seeing the world: Think of at least five places in the world you'd like to visit
+# Store the locations in a list. Make sure the list is not in alphabetical order
+# print your list in its original order. Don't worry about printing the list neatly; just print it as a raw Pytho list
+# use sorted() to print your list in alphabetical order without modifying the actual list
+ 
+
+
+places = ['turkey', 'bahamas', 'italy', 'norway']
+print("\nHere is the original list:")
+print(places)
+print("\nHere is the sorted list:")
+print(sorted(places))
+print("Here is the original list again:")
+print(places)
+print("\nHere is the sorted list in reverse-order:")
+print(sorted(places, reverse=True))
+print("\nHere is the orginal list again:")
+print(places)
+print("\nHere is the original list in reverse order:")
+places.reverse()
+print(places)
+print("\nHere is the list after reverting to original order:")
+places.reverse()
+print(places)
+print("\nHere is the list sorted alphabetically:")
+places.sort()
+print(places)
+print("\nHere is the list sorted in reverse-alphabetical order:")
+places.sort(reverse=True)
+print(places)
