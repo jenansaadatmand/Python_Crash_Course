@@ -1,7 +1,7 @@
 # Guest: write a program that prompts the user for their name
 # When they respond, write their name to a file called guest.txt
 
-#prompt = 'What is your name? '
+#Prompt = 'What is your name? '
 #message = input(prompt)
 #filename = 'text_files/guest.txt'
 #with open(filename, 'a') as file_object:
