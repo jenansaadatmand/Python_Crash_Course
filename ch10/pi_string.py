@@ -1,6 +1,6 @@
 # Working with a File's contents
 # After reading a file into memory, we can do whatever we want with the data
-# program to explore the digits of pi
+# Program to explore the digits of pi
 # build a single string containing all the digits in the file with no white space
 filename = 'text_files/pi_digits.txt'
 with open(filename) as file_object: # open the file 
