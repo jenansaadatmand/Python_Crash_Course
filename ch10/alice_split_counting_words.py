@@ -1,4 +1,4 @@
-# split method : counting the words in alice in wonderland file alice.txt
+# Split method : counting the words in alice in wonderland file alice.txt
 
 filename = 'text_files/alice.txt'
 try:
