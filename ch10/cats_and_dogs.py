@@ -1,4 +1,4 @@
-# cats and dogs:
+# Cats and dogs:
 # make two files, cats.txt and dogs.txt
 # Store at least three names of cats in the first file
 # and three names of dogs in the second file
