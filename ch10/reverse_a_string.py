@@ -7,7 +7,7 @@
 txt = "Hello world"[::-1]
 print(txt)
 
-# creating a function that reverses a string
+# Creating a function that reverses a string
 def my_function(x): # a function that takes a string as an argument
     """reverse a string"""
     return x[::-1] # slice the string starting at the end of the string and move backwards, return the backward string
