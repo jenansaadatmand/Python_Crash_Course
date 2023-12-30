@@ -1,5 +1,5 @@
 # Reverse a string in python
-# we have a string and we want to reverse it
+# We have a string and we want to reverse it
 # use a slice that steps backwards, -1
 # create a slice that starts at the end of the slice, and moves backwards
 # [::-1] means start at the end of the string and end at position 0, move with the step -1, negative one, which means one step backwards
