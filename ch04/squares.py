@@ -5,7 +5,7 @@
 import statistics
 squares = []
 for value in range(1, 11):
-    square = value ** 2             # each value in the loop is raised to the second power and assigned to the variable square
+    square = value ** 2             # Each value in the loop is raised to the second power and assigned to the variable square
     squares.append(square)
 print(squares)
 print("\n\n")
