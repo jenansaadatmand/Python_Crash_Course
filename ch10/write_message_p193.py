@@ -1,4 +1,4 @@
-# append mode: 'a' is used when you want to add content to a file instead of writing over existing content.
+# Append mode: 'a' is used when you want to add content to a file instead of writing over existing content.
 # python does not erase the contents of the file before running the file object, lines will be added to the end of the file
 # modifying write_message.py by adding some new reasons we love programming to the existing file programming.txt
 filename = 'text_files/programming.txt'
