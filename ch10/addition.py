@@ -1,4 +1,4 @@
-# addition: one common problem when prompting for numerical input occurs when people provide text instead of numbers
+# Addition: one common problem when prompting for numerical input occurs when people provide text instead of numbers
 # When you try to convert the input to an int, you'll get a ValueError
 # write a program that prompts for two numbers
 # add them together and print the results
