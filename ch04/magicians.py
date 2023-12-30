@@ -10,7 +10,7 @@ for magician in magicians:  # Defining a for loop, pull a name from the list and
     
 # Python will repeat the last two lines, iterating through the list
 
-for magician in magicians: # add as many repetitive tasks under the for loop
+for magician in magicians: # Add as many repetitive tasks under the for loop
     print(f"\n{magician.title()}, that was a great trick!")
     print(f"I can't wait for your next trick {magician.title()}.\n") # \n adds a new line after each pass through the loop creating  as set of neatly grouped messages 
 print("Thank you, everyone. That was a great magic show!")
