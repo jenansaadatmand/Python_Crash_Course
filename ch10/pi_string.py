@@ -1,4 +1,4 @@
-# working with a File's contents
+# Working with a File's contents
 # after reading a file into memory, we can do whatever we want with the data
 # program to explore the digits of pi
 # build a single string containing all the digits in the file with no white space
