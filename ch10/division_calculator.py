@@ -6,7 +6,7 @@
 
 # Handling the zeroDivisionError exception
 # simple error that causes Python to raise an exception
-# It is impossible to divide a number by zero, but lets ask python to do it anyways
+# It is impossible to divide a number by zero, but let's ask python to do it anyways
 
 #print(5/0)
 # the error ZeroDivisionError reported in the traceback is an exception object
