@@ -29,7 +29,7 @@
 
 #print("\n")
 
-# solution 2: pass the exception and do nothing
+# Solution 2: pass the exception and do nothing
 # This solution only examines one text, 
 # but the function can be applied to any number of texts.
 
