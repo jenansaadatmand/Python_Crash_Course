@@ -9,7 +9,7 @@
 # json.dump(data piece to store, file object to store the data) takes two arguments 
 
 # program with json.dump() to store a list of numbers
-# first import the json module
+# First import the json module
 
 #import json # import json module
 #numbers = [1, 3, 5, 7, 11, 13]  # create a list of numbers
