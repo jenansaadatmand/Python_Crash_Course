@@ -43,7 +43,7 @@ print(favorite_language) # When asking the value of variable again, it is the sa
 print()
 
 # To remove the whitespace from right permanently 
-# you have to associate the stripped value with the variable name
+# You have to associate the stripped value with the variable name
 # Changing the variable's value and updating it as program is executed or in response to user input
 
 
