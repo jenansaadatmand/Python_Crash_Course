@@ -2,7 +2,7 @@
 # Refactoring makes code cleaner, easier to understand and to extend
 # Let's refactor remember_me.py on p206 by moving the bulk of its logic into one or more functions
 # Focus of remember_me.py is on greeting the user, 
-# so let's move all of our existing code into a function called greet_user()
+# So let's move all of our existing code into a function called greet_user()
 
 import json
 def greet_user(): # we are using a function now, greeting the user and retrieving a stored username if one exist and prompting for a new username if one doesn't exist
