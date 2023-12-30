@@ -18,6 +18,6 @@ while True:
     try:
         answer = int(first_number) / int(second_number)
     except ZeroDivisionError: # tells Python how to respond when an error arises
-        print("You cannot divide by 0!") # If the try block doesn’t succeed because of a division by zero error, we print a friendly message telling the user how to avoid this kind of error and the program continues to run
-    else: # any code that depends on the try block executing successfully goes in the else block
+        print("You cannot divide by 0!") # If the try block doesn’t succeed because of a division by zero error, we print a friendly message telling the user how to avoid this kind of error, and the program continues to run
+    else: # any code that depends on the try block executing successfully goes into the else block
         print(answer)  # If the division operation is successful, we use the else block to print the results
