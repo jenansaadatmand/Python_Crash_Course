@@ -1,4 +1,4 @@
-# learning C: You can use replace() method to replace any word in a string with a different word
+# Learning C: You can use replace() method to replace any word in a string with a different word
 # Here's a quick example showing how to replace 'dog' with 'cat' in a sentence:
 #>>> message = "I really like dogs."
 #>>> message.replace('dog', 'cat')
