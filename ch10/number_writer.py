@@ -8,7 +8,7 @@
 # Store data using json.dump() and reads back into memory using json.load()
 # json.dump(data piece to store, file object to store the data) takes two arguments 
 
-# program with json.dump() to store a list of numbers
+# Program with json.dump() to store a list of numbers
 # First import the json module
 
 #import json # import json module
