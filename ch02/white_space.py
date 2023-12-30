@@ -35,7 +35,7 @@ print()
 # python looks for extra space on the right or left of a string
 
 # use rstrip() method to ensure no extra whitespace exists on the right side of a string
-# to see the action of this code, need to type it in python terminal
+# To see the action of this code, need to type it in python terminal
 favorite_language = 'python '
 favorite_language.rstrip() # removes space from right temporarily 
 print(favorite_language) # when ask the value of variable again, it is the same with space on right of string
