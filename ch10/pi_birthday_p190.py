@@ -1,6 +1,6 @@
 # Is your birthday contained in pi?
 # Program to find out if someone's birthday appears anywhere in the first million digits of pi
-# first express each birthday as a string of digits and see if that string appears anywhere in pi_string
+# First express each birthday as a string of digits and see if that string appears anywhere in pi_string
 
 filename = 'text_files/pi_million_digits.txt'
 with open(filename) as file_object:
