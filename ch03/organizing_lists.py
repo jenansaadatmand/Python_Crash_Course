@@ -1,4 +1,4 @@
-# organizing a list:
+# Organizing a list:
 # Sorting lists alphabetically and permanently using sort() method
 # Sorting lists in reverse-alphabetical order and permanently
 # by passing the reverse = True argument in sort(reverse=True) method
