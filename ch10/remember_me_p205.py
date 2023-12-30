@@ -4,7 +4,7 @@
 # If the file username.json does not exist, we'll have the except block prompt for a username and store it in username.json for next time
 
 import json
-# load the username, if the username has been stored previously.
+# Load the username, if the username has been stored previously.
 # otherwise, prompt for the username and store it
 
 filename = 'username.json'
