@@ -1,15 +1,15 @@
-# creating and using a class
-# you can model anything using classes
-# writing a simple class, Dog that represents any god
-# we know that all dogs have information such as name and age, and behaviors such as sit and roll over.
+# Creating and using a class
+# You can model anything using classes
+# Writing a simple class, Dog that represents any god
+# We know that all dogs have information such as name and age, and behaviors such as sit and roll over.
 # This class will tell python how to make an object representing a dog.
-# first we write the class, then we use it to make individual instances, each of which represents one specific dog
-# every method call associated with an instance automatically passes self, which is a reference to the instance itself, it gives the individual instance access to the attributes and methods in the class
+# First we write the class, then we use it to make individual instances, each of which represents one specific dog
+# Every method call associated with an instance automatically passes self, which is a reference to the instance itself, it gives the individual instance access to the attributes and methods in the class
 # _init_() method, a function that is part of a class called method, python runs, automatically when we create a new instance based on the Dog class, has two leading underscores and two trailing underscores, two underscores on each side of the init, takes three parameters: self(required and must come first), name and age. Pythons calls this method to create an instance of class and automatically pass the self argument
 # First, creating the Dog class
-# each instance created from the dog class will store a name and an age, and we'll give each dog the ability to sit() and roll_over():
+# Each instance created from the dog class will store a name and an age, and we'll give each dog the ability to sit() and roll_over():
 
-# when we make an instance of Dog, python will call the __ini__() method from the Dog class
+# When we make an instance of Dog, python will call the __ini__() method from the Dog class
 
 class Dog:  # define a class called Dog, by convension capitalized names refer to classes, no parenthesis () in classes
     """A simple attempt to model a dog.""" # a docstring describing what this class does
@@ -27,13 +27,13 @@ class Dog:  # define a class called Dog, by convension capitalized names refer t
         """Simulate rolling over in response to a command."""
         print(f"{self.name} rolled over!")
 
-# second, making an instance from a class 
-# a class is a set of instructions for how to make an instance
-# the class Dog is a set of instructions that tells Python how to make individual instances representing specific dogs
-# making an instance representing dog
+# Second, making an instance from a class 
+# A class is a set of instructions for how to make an instance
+# The class Dog is a set of instructions that tells Python how to make individual instances representing specific dogs
+# Making an instance representing dog
 
 # Tell python to create a dog whose name is 'Willie' and whose age is 6 years.
-# outcome, python returns an instance representing this dog using the attributes provided
+# Outcome, python returns an instance representing this dog using the attributes provided
 
 my_dog = Dog('Willie', 6) # we don't pass self as an argument but we pass attributes willie and 6 here in the call, we assign this instance to my_dog variable. convension naming is capitalized name for class and lowercase name my_dog refer to single instance created from a class
 print(f"My dog's name is {my_dog.name}.") # accessing the value of the attribute name within the my_dog instance in the Dog class
@@ -48,7 +48,7 @@ print(my_dog.age)
 
 # Third, calling methods, after creating an instance from the class Dog, using dot notation to call any mthod defined in Dog class
 # syntax: instance name.method
-# let's make our dog sit and roll over
+# Let's make our dog sit and roll over
 
 my_dog.sit() # calling sit() method from class Dog and runs on my_dog instance, no arguments passed, syntax: instance name.method
 my_dog.roll_over() # calling roll_over method
@@ -57,7 +57,7 @@ print("\n")
 # In this program, attributes: name and age and methods: sit and roll_over
 
 # Creating multiple instances from a class:
-# let's create a second dog called your_dog
+# Let's create a second dog called your_dog
 # We create a dog nammed Jimmy and a dog nammed Lucy. Each dog is a separate instance with its own attributes, capable of the same set of actions
 
 my_dog = Dog('Jimmy', 13)
