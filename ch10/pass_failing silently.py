@@ -8,7 +8,7 @@ def count_words(filename): # indentation matters in the next lines
     try:
         with open(filename, encoding = 'utf=8') as f:
             contents = f.read()
-    except FileNotFoundError: # tell python to fail silently using a pass statement
+    except FileNotFoundError: # Tell python to fail silently using a pass statement
         pass # the code in the except block runs but nothing happens
     else:
         words = contents.split()
