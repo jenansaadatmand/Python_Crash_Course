@@ -34,7 +34,7 @@ print(places)
 # Notes:
 
 # Use sort() to print your list in alphabetical order without modifying the actual list.
-# show that your list is still in its original order by printing it.
+# Show that your list is still in its original order by printing it.
 # use sorted() to print your list in reverse-alphabetical order without changing the order of the original list
 # show that your list is still in its original order by printing it again
 # use sorted() to print your list in reverse-alphabetical order without changing the order of the original list
