@@ -5,4 +5,4 @@
 # Then write one sentence describing what the program does.  
 
 # Answer: 
-# This is a comment and all the above are a comments
+# This is a comment and all the above are a comment
