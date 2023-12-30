@@ -55,3 +55,6 @@ print(sum(digits))
 print()
 
 
+# List comprehension: to generate lists using one line
+
+
