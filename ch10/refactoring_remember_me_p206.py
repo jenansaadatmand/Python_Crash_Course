@@ -1,4 +1,4 @@
-# refactoring or code compartmentalization using a series of functions
+# Refactoring or code compartmentalization using a series of functions
 # refactor greet_user() function p_206 so its not doing many tasks
 # move the code of retrieving a stored username to a separate function
 
