@@ -28,7 +28,7 @@ print()
 # Manipulating strings via Stripping methods rstrip(), lstrip(), strip()
 # Used to clean up user input before storing it in a program
 
-# stripping whitespace eg. 'python' and 'python '
+# Stripping whitespace eg. 'python' and 'python '
 # important when comparing two strings to be the same or not
 # example checking people's usernames when logging in to a website 
 # Python makes it easy to eliminate extra whitespace from data that people enter
