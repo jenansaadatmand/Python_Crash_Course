@@ -14,7 +14,7 @@ try: # Try to open the file username.json. if the file exists, we read the usern
 except FileNotFoundError: # If this is the firsttime the user runs the program, username.json does not exist, exception error is raised, handled by except block prompt user to enter their username
     username = input("What is your name?") 
     with open(filename, 'w') as f:
-        json.dump(username, f) # store username and print greetings
+        json.dump(username, f) # Store username and print greetings
     print(f"We'll remember you when you come back, {username}!")
 else: 
     print(f"Welcome back, {username}!")
