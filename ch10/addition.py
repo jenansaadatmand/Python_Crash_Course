@@ -23,7 +23,7 @@
 #    else:
 #        print(answer)
 
-# solution 2 there is no quit here but the program ends
+# Solution 2 there is no quit here but the program ends
 
 try:
     x = input("Give me a number: ")
