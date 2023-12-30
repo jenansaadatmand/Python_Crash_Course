@@ -26,7 +26,7 @@ print("Languages\n\tPython\n\tC\n\tJavascript")
 print()
 
 # Manipulating strings via Stripping methods rstrip(), lstrip(), strip()
-# used to clean up user input before storing them in a program
+# used to clean up user input before storing it in a program
 
 # stripping whitespace eg. 'python' and 'python '
 # important when comparing two strings to be the same or not
