@@ -1,13 +1,13 @@
-# storing your functions in modules
-# functions separate blocks of code from your main program.
-# using descriptive function name makes your program easier to follow
-# storing your function in a seprate file called module and then importing that module into your main program.
-# an import statement tells python to make the code in a module available in the currently running program file.
-# storing function in module allows you to use your function in different programs
-# also allows you to hide the details of your function code and focus on higher logic level programs
-# also you can share function modules with others withour having to share entire program.
+# Storing your functions in modules
+# Functions separate blocks of code from your main program.
+# Using descriptive function name makes your program easier to follow
+# Storing your function in a seprate file called module and then importing that module into your main program.
+# An import statement tells python to make the code in a module available in the currently running program file.
+# Storing function in module allows you to use your function in different programs
+# Also allows you to hide the details of your function code and focus on higher logic level programs
+# Also you can share function modules with others withour having to share entire program.
 # knowing how to import functions also allows you to use libraries of functions that other programmers have written
-# there are several ways to import a module as follows: 
+# There are several ways to import a module as follows: 
 # 1. importing entire module, 
 #import module 
 #import module
@@ -29,8 +29,8 @@
 
 
 #1. Importing an Entire modules using the dot notation
-# first create a module, then import it to your program file
+# First create a module, then import it to your program file
 
 # A module is a file ending in .py that contains the code you want to import into your program
-# let's make a module that contains the function make_pizza(), call it pizza_mod.py
-# now we make a separate file called making_pizzas.py in the same directory as pizza_mod.py
+# Let's make a module that contains the function make_pizza(), call it pizza_mod.py
+# Now we make a separate file called making_pizzas.py in the same directory as pizza_mod.py
