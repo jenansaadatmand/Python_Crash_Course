@@ -1,6 +1,6 @@
 # Saving and Reading User-Generated Data using json
 # Prompt user for their name the first time they run the program and then remember their name when they run the program again 
-# start by storing the username
+# Start by storing the username
 
 import json
 username = input("What is your name? ") # prompt for a username to store in the username variable
