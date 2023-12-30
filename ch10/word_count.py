@@ -14,7 +14,7 @@ def count_words(filename): # Create a function, containing a try-except-else blo
         num_words = len(words)
         print(f"The file {filename} has about {num_words} words.")
 filename = 'text_files/alice.txt'
-count_words(filename) # calling the functin on the filename
+count_words(filename) # Calling the functin on the filename
 
 # Write a simple loop to count the words in any text we want to analyze
 # Do this by storing all the names of files to be analyzed in a list and then we call count_words() function for each file in the list.
