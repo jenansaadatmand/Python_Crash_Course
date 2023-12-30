@@ -19,6 +19,14 @@ for value in range(1, 11):
 print(squares)
 print("\n\n")
 
+# Solution 3:
+# using list comprehension: 
+# creating a list of square numbers
+
+squares = [value **2 for value in range(1, 11)]
+print(squares)
+
+
 
 # Simple statistics functions minimum, maximum, sum of a list of numbers
 
