@@ -1,6 +1,6 @@
 # Storing Data/information into data structures (lists and dictionaries). eg: from user input, user preferencesin game, profivde data for visualizaton
 # Use JASON module (Javascript object notation format).
-# when user close a program, he saves the information entered 
+# When user close a program, he saves the information entered 
 # json module allows you to dump simple python data structures into a file and load the data from that file next time the program runs
 # json module can be used to share data between different python programs
 # json module, share data between other programming languages
