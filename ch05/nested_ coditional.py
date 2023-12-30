@@ -1,4 +1,4 @@
-# if statement in a loop, writing conditional tests allowing to check any condition of interest
+# If statement in a loop, writing conditional tests allowing to check any condition of interest
 cars = ['audi', 'bmw', 'subaru', 'toyota']
 
 for car in cars:
@@ -8,7 +8,7 @@ for car in cars:
         print(car.title())
 print("\n")
 
-# another example
+# Another example
 for i in cars:
     if i  == "toyota":
         print(i.upper())
