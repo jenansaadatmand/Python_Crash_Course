@@ -5,7 +5,8 @@
 motorcycles = ['honda', 'suzuki', 'ducati', 'harly']
 print(motorcycles)
 
-#excersize 3-9
+
+# Excersize 3-9
 guests = ["jimmy", "jenan", "nana", "tifany"]
 print(guests)
 print(f"Hello {guests[0]}, you are invited to dinner.")
