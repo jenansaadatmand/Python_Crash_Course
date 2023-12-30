@@ -27,7 +27,7 @@ favorite_num()
 
 
 
-# program refactoring with three functions:
+# Program refactoring with three functions:
 #import json
 #filename = 'favorite_num.json'
 #num = input("What is your favourite number? ")
