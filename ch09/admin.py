@@ -66,7 +66,7 @@ class Admin(User):
 #jimmy.greet_user()
 #print()
 
-# create an instance of Admin and calling the method
+# Create an instance of Admin and calling the method
 
 jenan = Admin('jenan', 'saadatmand', 'jsaad', 'jenansaad@yahoo.com', 'canada') 
 
@@ -76,7 +76,7 @@ jenan.privileges = ['can reset passwords', 'can moderate discussions','can suspe
 
 jenan.show_privileges()
 
-# if you forget the () brackets after the method, you are not excuting the method so you get bound error
+# If you forget the () brackets after the method, you are not excuting the method so you get bound error
 
 
 
