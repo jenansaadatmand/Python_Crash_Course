@@ -13,7 +13,7 @@
 #    print("Thanks! I'll rememmber that.")
 
 
-# program that Reads user's favourite number
+# Program that Reads user's favourite number
 import json
 filename = 'favorite_num.json'
 with open(filename) as f:     
