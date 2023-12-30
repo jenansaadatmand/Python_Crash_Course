@@ -4,7 +4,7 @@
 # Write a program that reads the file and prints what you wrote three times
 # Print the contents once by reading the entire file, 
 # Once by looping over the file object
-# and once by storing the lines in a list and then working with them outside the with block
+# And once by storing the lines in a list and then working with them outside the with block
 
 
 filename = 'text_files/learning_python.txt'
