@@ -2,7 +2,7 @@
 # Make a list of people who should take the favourite languages poll
 # Include some names that are already in the dictionsry 
 # and some names that are not
-# loop through the lidt of people who should take the poll
+# Loop through the lidt of people who should take the poll
 # If they have already taken the poll, print a mesage thanking them for reponding
 # If they have not yet taken the poll, print a message inviting them to take the poll
 
