@@ -44,7 +44,7 @@
 #show_messages(messages) # because the list is empty, there are no messages to be printed
 #show_messages(sent_messages) # all messages should be moved to this list
 
-# solution 2 book
+# Solution 2 book
 def show_messages(messages):
     """Prints all messages in the list."""
     print("Showing all messages: ")
