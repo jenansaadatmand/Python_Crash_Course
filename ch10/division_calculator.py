@@ -2,7 +2,7 @@
 # Whenever an error occurs that makes python unsure what to do next, it creates an exception object
 # If you write a code that handles the exception, the program will continue to run, otherwise it will halt and show a traceback of the exception that was raised
 # try-except block is used to handle exceptions, it asks python to do something, but it also tells python what to do if an exception is raised
-# instead of traceback, users will see a friendly error message and your program will continue to run
+# Instead of traceback, users will see a friendly error message and your program will continue to run
 
 # Handling the zeroDivisionError exception
 # simple error that causes python to raise an exception
