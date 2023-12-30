@@ -7,5 +7,5 @@
 filename = 'text_files/programming.txt'
 with open(filename, 'w') as file_object: # call to open() in this example has two arguments (filename we want to open, write mode)
     file_object.write("I love programming.\n") # Use write() method on object file to write a string to the file
-    file_object.write("3\n") # numerical values must be convereted into strings using str()
+    file_object.write("3\n") # numerical values must be converted into strings using str()
     file_object.write("I love creating new games.\n")
