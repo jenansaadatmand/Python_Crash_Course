@@ -25,7 +25,7 @@ def get_new_username(): # Prompting for a new username if one doesn't exist
 def greet_user(): # We are using a function for greeting the user by name
     """Greet the user by name."""
     username = get_stored_username()
-    if username: # print msg back to user if attempt to retrieve a username was successful
+    if username: # Print msg back to user if attempt to retrieve a username was successful
         print(f"Welcome back, {username}!")
     else: # if unsuccessful, prompt for new username
         username = get_new_username()
