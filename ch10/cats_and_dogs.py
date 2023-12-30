@@ -27,7 +27,7 @@
 
 # Move one of the files to a different location on your system, and make sure the code in the except block executes properly
 
-# solution 2
+# Solution 2
 
 filenames = ['text_files/cats.txt', 'text_files/dogs.txt']
 
