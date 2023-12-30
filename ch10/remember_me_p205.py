@@ -5,7 +5,7 @@
 
 import json
 # Load the username, if the username has been stored previously.
-# otherwise, prompt for the username and store it
+# Otherwise, prompt for the username and store it
 
 filename = 'username.json'
 try: # try to open the file username.json. if the file exists, we read the username back into memory and print a message welcoming back the user in the else block
