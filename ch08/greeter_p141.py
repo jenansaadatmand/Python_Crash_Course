@@ -1,5 +1,5 @@
-# greeter program: use a function with a while loop to greet users more formally
-# first attempt at greeting people using their first and last names:
+# Greeter program: use a function with a while loop to greet users more formally
+# First attempt at greeting people using their first and last names:
 
 def get_formatted_name(first_name, last_name):
     """Return a full name, neatly formatted."""
@@ -17,7 +17,7 @@ while True:  # while loop asks the user to enter their name, and we prompt for t
         break
     formatted_name = get_formatted_name(f_name, l_name)
     print(f"\nHello, {formatted_name}!")
-# quit condition (break statement to exit the loop) needed when you ask for a series of inputs
-# user to be able to quit as easily as possible, so each prompt should offer a way to quit.
-# break statement to exit the loop can be placed at either prompt
-# message that informs the user how to quit, and then we break out of the loop if the user enters the quit value at either prompt.
+# Quit condition (break statement to exit the loop) needed when you ask for a series of inputs
+# User to be able to quit as easily as possible, so each prompt should offer a way to quit.
+# Break statement to exit the loop can be placed at either prompt
+# Message that informs the user how to quit, and then we break out of the loop if the user enters the quit value at either prompt.
