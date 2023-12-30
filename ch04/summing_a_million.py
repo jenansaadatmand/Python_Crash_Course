@@ -4,5 +4,5 @@
 
 numbers = list(range(1, 1_000_000))
 print(min(numbers))
-print(max(numbers)) # not inclusive of 1_000_000 
+print(max(numbers)) # Not inclusive of 1_000_000 
 print(sum(numbers))
