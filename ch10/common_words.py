@@ -31,7 +31,7 @@
 
 # Solution 2: pass the exception and do nothing
 # This solution only examines one text, 
-# but the function can be applied to any number of texts.
+# But the function can be applied to any number of texts.
 
 def count_common_words(filename, word):
     """count how many times word appears in the text."""
