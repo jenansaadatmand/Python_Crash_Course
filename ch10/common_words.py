@@ -2,7 +2,7 @@
 # And find a few texts you’d like to analyze. 
 # Download the text files for theseworks, or copy the raw text from your browser into a text file on your computer.
 # You can use the count() method to find out how many times a word or phrase in a string.
-# for example, the following code counts the number of times 'row' appears in a string
+# For example, the following code counts the number of times 'row' appears in a string
 
 #line = "Row, row, row your boat"
 #print(line.count('row'))
