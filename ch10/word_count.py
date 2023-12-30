@@ -27,4 +27,4 @@ filenames = ['text_files/alice.txt', 'text_files/siddhartha.txt', 'text_files/mo
 for filename in filenames: # using a for loop to loop through the list
     count_words(filename) # calling the defined function for each item in the list
 
-# the missing siddhartha.txt file has no effect on the rest of the program's execution because python can handle the error within the function
+# The missing siddhartha.txt file has no effect on the rest of the program's execution because python can handle the error within the function
