@@ -55,7 +55,7 @@ print()
 
 
 # Strip whitespace from left of string using lstrip() method
-# strip whitespace from both sides at once strip() method
+# Strip whitespace from both sides at once strip() method
 favorite_language = ' python '
 favorite_language.rstrip()
 favorite_language.lstrip()
