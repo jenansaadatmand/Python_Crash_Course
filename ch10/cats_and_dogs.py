@@ -25,7 +25,7 @@
     
 #read_files(filename)
 
-# move one of the files to a different location on your system, and make sure the code in the except block executes properly
+# Move one of the files to a different location on your system, and make sure the code in the except block executes properly
 
 # solution 2
 
