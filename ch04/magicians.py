@@ -5,8 +5,9 @@
 magicians = ["alice", "david", "carolina" ] # defining a list
 print(magicians)
 
-for magician in magicians:  # Defining a for loop, pull a name from the list and associate it with temporary variable magician then title it
+for magician in magicians:  # Defining a for loop, pull a name from the list and associate it with a temporary variable magician then title it
     print(magician.title()) # print the names asscoiated with the variable magician 
+    
 # python will repeat the last two lines, iterating through the list
 
 for magician in magicians: # add as many repetitive tasks under the for loop
