@@ -11,7 +11,7 @@
 #print(5/0)
 # The error ZeroDivisionError reported in the traceback is an exception object
 # use this information to modify our program by telling Python what to do when this kind of exception occurs
-# using try-except blocks for handling ZerroDivisionError exception 
+# Using try-except blocks for handling ZerroDivisionError exception 
 
 try: # Put the line that caused the error inside a try block
     print(5/0)  # If the code in a try block works, python skips over the except block
