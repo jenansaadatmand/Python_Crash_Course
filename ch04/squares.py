@@ -15,7 +15,7 @@ print()
 
 squares = []
 for value in range(1, 11):
-    squares.append(value ** 2)      # each value in the loop is raised to the second power and appended directly to the list
+    squares.append(value ** 2)      # Each value in the loop is raised to the second power and appended directly to the list
 print(squares)
 print("\n\n")
 
