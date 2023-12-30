@@ -1,6 +1,13 @@
 # Using single and double quotes correctly
 # Apostrophe appears inside a set of double quotes
-# Syntax error: if you use single quotes, python can't identify where the string should end
-message = 'One of Python's strength is its diverse community.'
+
+message = "One of Python's strength is its diverse community."
 print(message)
+
+
+# Note:
+
+# Syntax error: if you use single quotes, python can't identify where the string should end
+# message = 'One of Python's strength is its diverse community.'
+# print(message)
 
