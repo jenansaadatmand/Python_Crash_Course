@@ -5,7 +5,7 @@
 # Instead of traceback, users will see a friendly error message and your program will continue to run
 
 # Handling the zeroDivisionError exception
-# simple error that causes python to raise an exception
+# simple error that causes Python to raise an exception
 # It is impossible to divide a number by zero, but lets ask python to do it anyways
 
 #print(5/0)
