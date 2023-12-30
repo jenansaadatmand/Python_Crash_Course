@@ -8,7 +8,7 @@ print(magicians)
 for magician in magicians:  # Defining a for loop, pull a name from the list and associate it with a temporary variable magician then title it
     print(magician.title()) # print the names associated with the variable magician 
     
-# python will repeat the last two lines, iterating through the list
+# Python will repeat the last two lines, iterating through the list
 
 for magician in magicians: # add as many repetitive tasks under the for loop
     print(f"\n{magician.title()}, that was a great trick!")
