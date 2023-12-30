@@ -44,7 +44,7 @@ print()
 
 # To remove the whitespace from right permanently 
 # you have to associate the stripped value with the variable name
-# Changing variable's value and updating it as program is executed or in response to user input
+# Changing the variable's value and updating it as program is executed or in response to user input
 
 
 favorite_language = 'python '
