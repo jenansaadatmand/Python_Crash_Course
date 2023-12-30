@@ -1,6 +1,6 @@
 # Programming poll: write a while loop that asks people why they like programming
 # Each time someone enters a reason
-# add their reason to a file that stores all the responses
+# Add their reason to a file that stores all the responses
 
 #prompt = 'Why do you like programming? '
 #prompt += "Please enter 'quit' when you are finished."
