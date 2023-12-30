@@ -7,7 +7,7 @@
 # Print a friendly message if a file is missing.
 # Move one of the files to a different location on your system, and make sure the code in the except block executes properly
 
-# Solution 1 with defined function that is recalled
+# Solution 1 with a defined function that is recalled
 
 #filenames = ['text_files/cats.txt', 'text_files/dogs.txt']
 #for filename in filenames:
