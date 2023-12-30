@@ -1,13 +1,13 @@
 # Nesting a dictionary inside a dictionary
-# several users for a website, each with unique usernames
-# use usernames as keys in a dictionary and store user information in dictionary as a value
-# store three pieces of information about each user:
-# username, last name and location
-# access this information by looping through the usernames and the dictionary associated with each username
+# Several users for a website, each with unique usernames
+# Use usernames as keys in a dictionary and store user information in dictionary as a value
+# Store three pieces of information about each user:
+# Username, last name and location
+# Access this information by looping through the usernames and the dictionary associated with each username
 
 
-# define a dictionary called users with two keys: one each for the usernames 'aeinstein' and 'mcurie'.
-# value associated with each key is a dictionary that includes each user’s first name, last name, and location
+# Define a dictionary called users with two keys: one each for the usernames 'aeinstein' and 'mcurie'.
+# Value associated with each key is a dictionary that includes each user’s first name, last name, and location
 users = {
         'aeinstein':{
                     'first':'albert',
