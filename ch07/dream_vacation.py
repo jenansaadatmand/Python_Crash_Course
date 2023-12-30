@@ -1,6 +1,6 @@
 # Dream vacation: write a program that polls users about their dream vacation
-# write a prompt similar to if you could visit one place in the world, where would you go?
-# include a block of code that prints the results of the poll
+# Write a prompt similar to if you could visit one place in the world, where would you go?
+# Include a block of code that prints the results of the poll
 
 responses = {}
 polling_active = True
