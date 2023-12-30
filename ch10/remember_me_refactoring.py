@@ -1,7 +1,7 @@
 # Refactoring: breaking up code into a series of functions. improving the code by breaking it up into a series of functions that have specific jobs
 # Refactoring makes code cleaner, easier to understand and to extend
 # Let's refactor remember_me.py on p206 by moving the bulk of its logic into one or more functions
-# focus of remember_me.py is on greeting the user, 
+# Focus of remember_me.py is on greeting the user, 
 # so let's move all of our existing code into a function called greet_user()
 
 import json
