@@ -19,7 +19,7 @@
 
 # program has no output, but open file numbers.json (stored in the same directory as chapter_10) to see the list of numbers stored in it
 
-# program with json.load() to read the file or list back into memory
+# Program with json.load() to read the file or list back into memory
 
 import json
 filename = 'numbers.json' # read from the same file we wrote 
