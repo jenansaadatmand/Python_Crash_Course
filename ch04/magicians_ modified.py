@@ -1,4 +1,4 @@
-# for loop
+# A for loop
 
 magicians = ["alice", "david", "carolina"]
 print(f"\n{magicians}\n")
