@@ -1,4 +1,4 @@
-# saving data and writing to an empty file
+# Saving data and writing to an empty file
 # To write text to a file, you need to call open() with a second argument telling Python that you want to write to the file.
 # program writes a simple message and stores it in a file instead of printing it to screen
 # you can open a file in 'r' read, 'w' write, 'a' append, 'r+' read and write modes
