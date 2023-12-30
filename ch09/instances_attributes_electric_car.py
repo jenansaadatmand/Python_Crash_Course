@@ -1,11 +1,11 @@
- # inhertance: parent and child class
-# writing a new class (child) based on an existing class (parent)
-# need to call the __init__() method from the parent class, to initialize any attributes that were defined in the parent ___init__() method and make them available in the child class
-# model an electric car, a specific kind of car, based on car class, p162
+# Inhertance: parent and child class
+# Writing a new class (child) based on an existing class (parent)
+# Need to call the __init__() method from the parent class, to initialize any attributes that were defined in the parent ___init__() method and make them available in the child class
+# Model an electric car, a specific kind of car, based on car class, p162
 # Then we'll only have to write code for the attributes and behavior specific to electric cars
-# simple version of ElectricCar class, which does everything the car class does
+# Simple version of ElectricCar class, which does everything the car class does
 
-class Car:  # start with defining the parent class, must appear in the current .py file when making a child class
+class Car:  # Start with defining the parent class, must appear in the current .py file when making a child class
     """A simple attempt to represent a car."""
 
     def __init__(self, make, model, year):
@@ -41,7 +41,7 @@ class Car:  # start with defining the parent class, must appear in the current .
         """Cars need gas in tanks."""
         print("This car need gas in tank!")
         
-class Battery:  # define a new class Battery that does't inherit from any other classs
+class Battery:  # define a new class Battery that doesn't inherit from any other classs
     """A simple attempt to model a battery for an electric car."""
 
     def __init__(self, battery_size=75): # optional parameter sets the battery's size to 75 if no value is provided
@@ -70,8 +70,8 @@ class ElectricCar(Car): # define child class, the name of the parent class must 
         Initialize attributes of the parent class.
         Then initializa attributes specific to an electric car.
         """
-        super().__init__(make, model, year) # inheritance, super().__init__() function allows to call a method from the parent class, tells python to call the __init__() method from Car, which gives an ElectricCar instance all the attributes defined in that method. Superclass (Parent class) and subclass (child class) convension. no : at the end
-        self.battery = Battery()  # add a new attribute called self.battery, this line tells python to create a new instance of Battery (with default size of 75, because we're not specifying a value) and assing that instance to the attribute self.battery. eg of an instance from another class used as an attribute
+        super().__init__(make, model, year) # inheritance, super().__init__() function allows to call a method from the parent class, tells Python to call the __init__() method from Car, which gives an ElectricCar instance all the attributes defined in that method. Superclass (Parent class) and subclass (child class) convension. no : at the end
+        self.battery = Battery()  # add a new attribute called self.battery, this line tells Python to create a new instance of Battery (with default size of 75, because we're not specifying a value) and assign that instance to the attribute self.battery. eg of an instance from another class used as an attribute
         # attribute = instance # assign that instance Battery() to the attribute self.battery. This happens everytime the __init__() method is called, any ElectricCar instance will now have a Battery instance created automatically
     
     def fill_gas_tank(self):
@@ -79,28 +79,28 @@ class ElectricCar(Car): # define child class, the name of the parent class must 
         print("This car doesn't need a gas tank!")
 
 
-# aside from the __init__() method there are no attrbutes that are particulr to ElectricCar child class, we just made sure that the elecrtic car has the appropriate Car behavior
+# Aside from the __init__() method there are no attributes that are particular to ElectricCar child class, we just made sure that the elecrtic car has the appropriate Car behavior
 
-my_tesla = ElectricCar('tesla', 'model s', 2019) #creating an ElectricCar instance and assign it to variable my_tesla, test the inheritance is working, by trying to create an electric car with the same kind of information we'd provide when making a regular car. make instance ElectricCar and assing it to my_tesla. This line calls the __init__() method defined in ElectricCar child class, which in trun tells python to call the __init__() method defined in the parent class Car.
+my_tesla = ElectricCar('tesla', 'model s', 2019) #creating an ElectricCar instance and assigning it to variable my_tesla, test the inheritance is working, by trying to create an electric car with the same kind of information we'd provide when making a regular car. make an instance ElectricCar and assign it to my_tesla. This line calls the __init__() method defined in ElectricCar child class, which in trun tells Python to call the __init__() method defined in the parent class Car.
 print(my_tesla.get_descriptive_name())
 print()
 
 # Instances as Attributes: defining battery class lines 44-53 and using instance as attributes line 65, 112
-# when modeling somthing from real world in code, you might find that you're adding more and more detail to a classs, a growing list of attributes and methods and you files becomes lengthy
-# In these situation, you might recognize that part of one class can be written as a separate class
+# when modeling something from real world in code, you might find that you're adding more and more detail to a classs, a growing list of attributes and methods and you files become lengthy
+# In these situations, you might recognize that part of one class can be written as a separate class
 # break large class into smaller classes that work together
 # eg. if we continue adding detail to ElectricCar classs, we might add many attributes and methods specific to the car's battery.
 # when we see this happening we stop and move those attributes and methods to a seprarate class called battery.
 # Then we use battery instance as an attribute in the ElectricCar class:
 
 # describing the battery of an electricCar instance by working through the car's battery attribute
-my_tesla.battery.describe_battery() # create an electric car and assign it to the variable my_tesla. When we want to describe the battery, we need to work through the car's battery attribute
+my_tesla.battery.describe_battery() # Create an electric car and assign it to the variable my_tesla. When we want to describe the battery, we need to work through the car's battery attribute
 print()
 
 # let's add another method to a Battery that reports the range of the car based on the battery size:
 # see code line 55-62 and line 103
 
-my_tesla.battery.get_range() # when we want to use this method, we again call it through the car's battery attribute 
+my_tesla.battery.get_range() # When we want to use this method, we again call it through the car's battery attribute 
 
 
 
