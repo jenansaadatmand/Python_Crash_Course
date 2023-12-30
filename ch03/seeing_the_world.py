@@ -1,7 +1,7 @@
-# Exercise 3-8 seeing the world: Think of at least five places in the world you'd like to visit
+# Exercise 3-8: Seeing the world: Think of at least five places in the world you'd like to visit
 # Store the locations in a list. Make sure the list is not in alphabetical order
-# print your list in its original order. Don't worry about printing the list neatly; just print it as a raw Pytho list
-# use sorted() to print your list in alphabetical order without modifying the actual list
+# Print your list in its original order. Don't worry about printing the list neatly; just print it as a raw Pytho list
+# Use sorted() to print your list in alphabetical order without modifying the actual list
  
 
 
