@@ -4,7 +4,7 @@
 # And three names of dogs in the second file
 # Write a program that tries to read these files and print the content of the file to the screen
 # Wrap your code in a try-except block to catch the FileNotFound error, and 
-# print a friendly message if a file is missing.
+# Print a friendly message if a file is missing.
 # move one of the files to a different location on your system, and make sure the code in the except block executes properly
 
 # solution 1 with defined function that is recalled
