@@ -1,5 +1,5 @@
 # Adding white space to strings with Tabs or Newlines
-# white space any nonprinting characters
+# White space any nonprinting characters
 # spaces, tabs, and end-of-line symbols
 
 print()
