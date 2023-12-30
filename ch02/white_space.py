@@ -64,7 +64,7 @@ favorite_language.strip()
 print()
 
 # Removing a prefix from string
-# example: removing a URL prefix http:// to focus on URL part only that users need to enter into an address bar
+# Example: removing a URL prefix http:// to focus on URL part only that users need to enter into an address bar
 
 nostarch_url = 'https://nostarch.com'
 nostarch_url.removeprefix('https://')
