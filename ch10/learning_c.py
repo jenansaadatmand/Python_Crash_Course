@@ -5,7 +5,7 @@
 # 'I really like cats.'
 # Read in each line from the file you just created, learning_python.txt,
 # And replace the word Python with the name of another language, such as C
-# print each modified line to the screen.
+# Print each modified line to the screen.
 
 filename = 'text_files/learning_python.txt'
 with open(filename) as file_object:
