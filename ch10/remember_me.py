@@ -1,5 +1,5 @@
 # Saving and Reading User-Generated Data using json
-# prompt user for their name the first time they run the program and then remember their name when they run the program again 
+# Prompt user for their name the first time they run the program and then remember their name when they run the program again 
 # start by storing the username
 
 import json
