@@ -38,4 +38,10 @@ for value in range(1, 11): # loop through the numbers 1, 10 using the range() fu
 print(squares)
 print()
 
+# writing the raising a value to the second power code more conceisly
+squares = []
+for value in range(1, 11):
+    squares.append(value**2)
+print(squares)
+
 
