@@ -1,9 +1,9 @@
-# 7-6 Three exits: write diffrerent versions of either excersize 7-4 or exercise 7-5 that do each of the following at least once:
+# Exercise 7-6: Three exits: write diffrerent versions of either excersize 7-4 or exercise 7-5 that do each of the following at least once:
 # Use a conditional test in the while statement to stop the loop.
 # Use an active variable to control how long the loop runs
 # Use a break statement to exit the loop when the user enter a 'quit' value
 
-#original exercise 7-4: 
+#Original exercise 7-4: 
 #prompt = "\nWhat topping would like on your pizza?"
 #prompt += "\nEnter 'quit' when you are finished:"
 #while True: 
@@ -44,7 +44,7 @@
 #    else: 
 #        print(f"I'll add {topping.title()} to your pizza.")
 
-# original excersize 7-5 movie tickets:
+# Original excersize 7-5 movie tickets:
 #prompt = "\nHow old are you?"
 #prompt += "\nEnter 'quit' after you finished:"
 
