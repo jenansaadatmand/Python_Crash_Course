@@ -54,7 +54,7 @@ print(favorite_language) # stripped permanently due to reassingment of variable
 print()
 
 
-# strip whitespace from left of string using lstrip() method
+# Strip whitespace from left of string using lstrip() method
 # strip whitespace from both sides at once strip() method
 favorite_language = ' python '
 favorite_language.rstrip()
