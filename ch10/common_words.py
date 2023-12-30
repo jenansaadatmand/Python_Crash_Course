@@ -8,7 +8,7 @@
 #print(line.count('row'))
 #print(line.lower().count('row')) # disregards case sensitivity or formatting
 # Notice that converting the string to lowercase using lower() catches all appearances of the word you're looking for, regardless of how it's formatted
-# write a program that reads the files you found at Project Gutenberg 
+# Write a program that reads the files you found at Project Gutenberg 
 # and determines how many times the word 'the' appears in each text.  
 # This will be an approximation because it will also count words such as 'then' and 'there'
 # Try counting 'the', with a space in the string, and see how much lower your count is.
