@@ -25,7 +25,7 @@ print()
 for guest in guest_list: 
     print(f"Hello {guest.title()}, I am sorry but I can invite only two people for dinner.")
 print()
-# use pop() to remove guests from list one at a time
+# Use pop() to remove guests from list one at a time
 print("This is the original guest list:")
 print(guest_list) # printing original guest list
 print()
