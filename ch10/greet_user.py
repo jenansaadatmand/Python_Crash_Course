@@ -1,4 +1,4 @@
-# program that greets a user whose name has already been stored
+# Program that greets a user whose name has already been stored
 
 import json
 filename = 'username.json'
