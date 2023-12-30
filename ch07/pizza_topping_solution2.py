@@ -1,4 +1,4 @@
-# 7-4 pizza topping solution 2
+# Exercise 7-4 Pizza topping solution 2
 prompt = "\nWhat topping would you like on your pizza?"
 prompt += "\nEnter 'quit' when you are finished:"
 
