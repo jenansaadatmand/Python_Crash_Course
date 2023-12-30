@@ -3,7 +3,7 @@
 # Save the file as learning_python.text in the same directory as your exercises from this chapter
 # Write a program that reads the file and prints what you wrote three times
 # Print the contents once by reading the entire file, 
-# once by looping over the file object
+# Once by looping over the file object
 # and once by storing the lines in a list and then working with them outside the with block
 
 
