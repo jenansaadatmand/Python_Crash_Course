@@ -1,7 +1,7 @@
 # Learning Python: open a blank file in your text editor and write a few lines summarizing what you've learned about python so far
 # Start each line with the phrase In Python you can .... 
 # Save the file as learning_python.text in the same directory as your exercises from this chapter
-# write a program that reads the file and prints what you wrote three times
+# Write a program that reads the file and prints what you wrote three times
 # print the contents once by reading the entire file, 
 # once by looping over the file object
 # and once by storing the lines in a list and then working with them outside the with block
