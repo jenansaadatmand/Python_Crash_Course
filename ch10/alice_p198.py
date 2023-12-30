@@ -1,4 +1,4 @@
-# exception handling helps when you are working with more than one file and one file does not exist
+# Exception handling helps when you are working with more than one file and one file does not exist
 # analyzing data or files containing entire book
 # pull alice in wonderland book from project Gutenberg
 # try to count the number of words in the text
