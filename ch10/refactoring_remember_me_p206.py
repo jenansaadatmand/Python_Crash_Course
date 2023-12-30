@@ -27,7 +27,7 @@ def greet_user(): # We are using a function for greeting the user by name
     username = get_stored_username()
     if username: # Print msg back to user if attempt to retrieve a username was successful
         print(f"Welcome back, {username}!")
-    else: # if unsuccessful, prompt for new username
+    else: # If unsuccessful, prompt for new username
         username = get_new_username()
         filename = 'username.json'
         with open(filename, 'w') as f:
