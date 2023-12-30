@@ -1,4 +1,4 @@
-# is your birthday contained in pi?
+# Is your birthday contained in pi?
 # program to find out if someone's birthday appears anywhere in the first million digits of pi
 # first express each birthday as a string of digits and see if that string appears anywhere in pi_string
 
