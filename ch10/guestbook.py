@@ -1,7 +1,7 @@
 # Guestbook: write a while loop that prompts users for their name
 # When they enter their name, print a greeting to the screen
 # and add a line recording their visit in a file called guest_book.txt
-# make sure each entry appears on a new line in the file
+# Make sure each entry appears on a new line in the file
 
 filename = 'text_files/guest_book.txt'
 print("Please enter 'quit' when you are finished.")
