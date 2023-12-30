@@ -3,8 +3,8 @@
 # Think of five programming words you've learned about the previous chapters
 # Use these words as the keys in your glossary
 # and store their meanings as values
-# print each word and its meaning as neatly formatted output
-# you might print the word followed by a colon and then its meaning
+# Print each word and its meaning as neatly formatted output
+# You might print the word followed by a colon and then its meaning
 # or print the word on one line and then print its meaning indented on a second line
 # Use the newline character (\n) to insert a blank line between each word-meaning pair in your output
 
@@ -45,7 +45,7 @@ print(f"\t {glossary['constant']}\n")
 print("Conditional test")
 print(f"\t {glossary['conditional test']}\n")
 
-# solution 4
+# Solution 4
 word = 'variable'
 print(f"\n{word.title()}: {glossary[word]}")
 word = 'list'
