@@ -4,7 +4,7 @@
 # Try to count the number of words in the text
 # use a string method split(), which builds a list of words from a string
 # string() method separates a string into parts wherever it finds space and stores all the parts of a string in a list
-# To count the number of words, we will use split() to separate string into words in a list then count them with len()
+# To count the number of words, we will use split() to separate strings into words in a list then count them with len()
 title = 'Alice in wonderland'
 list_of_words = title.split()
 print(title) # output original string
