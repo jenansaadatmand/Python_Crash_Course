@@ -29,7 +29,7 @@ print(even_numbers)
 print()
 
 # Using a range() function to make a list of numbers
-# raising a value to the second power
+# Raising a value to the second power
 
 squares = []  # start with an empty list
 for value in range(1, 11): # loop through the numbers 1, 10 using the range() function
