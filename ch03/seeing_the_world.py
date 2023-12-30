@@ -44,5 +44,5 @@ print(places)
 # use sort() to change your list so its stored in alphabetical order.
 # print the list to show that its order has changed
 # use sort() to change your list so its stored in reverse-alphabetical order.
-# print the list to show that its order has changed
+# Print the list to show that its order has changed
 
