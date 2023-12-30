@@ -1,4 +1,4 @@
-# working with multiple files, adding more books to analyze
+# Working with multiple files, adding more books to analyze
 # let's move the bulk of this program to a function called count_words()
 # by using a predefined function, it will be easier to run the analysis for multiple books
 
