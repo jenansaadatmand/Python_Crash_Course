@@ -1,6 +1,6 @@
 # Refactoring or code compartmentalization using a series of functions
 # Refactor greet_user() function p_206 so its not doing many tasks
-# move the code of retrieving a stored username to a separate function
+# Move the code of retrieving a stored username to a separate function
 
 import json
 def get_stored_username(): # retrieving a stored username if one exist 
