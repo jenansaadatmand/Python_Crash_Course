@@ -9,7 +9,7 @@
 # It is impossible to divide a number by zero, but let's ask python to do it anyways
 
 #print(5/0)
-# the error ZeroDivisionError reported in the traceback is an exception object
+# The error ZeroDivisionError reported in the traceback is an exception object
 # use this information to modify our program by telling Python what to do when this kind of exception occurs
 # using try-except blocks for handling ZerroDivisionError exception 
 
