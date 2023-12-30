@@ -31,7 +31,7 @@ print()
 # stripping whitespace eg. 'python' and 'python '
 # important when comparing two strings to be the same or not
 # example checking people's usernames when logging in to a website 
-# python makes it easy to eliminate extra whitespace from data that people enter
+# Python makes it easy to eliminate extra whitespace from data that people enter
 # python looks for extra space on the right or left of a string
 
 # use rstrip() method to ensure no extra whitespace exists on the right side of a string
