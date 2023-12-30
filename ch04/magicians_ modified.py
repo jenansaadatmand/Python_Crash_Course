@@ -19,3 +19,4 @@ for i in magicians:
         print(f"{magicians[1].title()}, that was a great trick!.")
     else: 
         print(f"{magicians[2].title()}, that was a great trick!.\n")
+
