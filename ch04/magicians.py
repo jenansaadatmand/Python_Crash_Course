@@ -19,5 +19,5 @@ print()
 # Solution 2: Replace magician with i or any letter x etc
 
 for i in magicians: # Define a for loop, pull a name from list and associate it with temporary variable i  
-    print(i.title()) # print the names associated with i  
+    print(i.title()) # Print the names associated with i  
 # Python will repeat the last two lines, iterating through the list 
