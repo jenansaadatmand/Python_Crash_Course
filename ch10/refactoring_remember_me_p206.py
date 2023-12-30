@@ -34,7 +34,7 @@ def greet_user(): # We are using a function for greeting the user by name
             json.dump(f)
             print(f"We'll remember you when you come back, {username}!")
     
-greet_user()  # call greet_user(), that function prints an appropriate messages: it either welcomes back an existing user or greets a new user.
+greet_user()  # Call greet_user(), that function prints an appropriate messages: it either welcomes back an existing user or greets a new user.
 
 # greet_user() does this by calling get_stored_username(), which is responsible only for retrieving a stored username if one exists
 # and greet_user() also calls get_new_username() if necessary, which is responsible only for getting a new username and storing it.
