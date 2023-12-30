@@ -3,7 +3,7 @@
 # The except block tells Python what to do in case a certain exception arises when it tries to run the code in the try block
 # The program continues to run and becomes resistant to innocent user input mistakes and malicious attacks
 # making the division_calculator_p195.py program more error-resistant by wrapping the line that might produce errors in a try-except block.  The error on the line that performs the division, so that's where we will put the try-except block.
-# This example also  includes an else block. Any code that depends on the try block executing successfully goes in the else block
+# This example also  includes an else block. Any code that depends on the try block executing successfully goes into the else block
 
 print("Give me two numbers, and I'll divide them.")
 print("Enter 'q' to quit.") 
