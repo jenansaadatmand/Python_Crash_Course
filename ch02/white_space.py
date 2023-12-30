@@ -6,7 +6,7 @@ print()
 
 print("Python")
 
-# to add a tab use \t at the begining 
+# To add a tab use \t at the begining 
 print("\tPython")  # adds a tab at the begining 
 print("Python\t")  # no tab
 
