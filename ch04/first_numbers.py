@@ -38,3 +38,4 @@ for value in range(1, 11): # loop through the numbers 1, 10 using the range() fu
 print(squares)
 print()
 
+
