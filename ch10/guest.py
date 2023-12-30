@@ -2,7 +2,7 @@
 # When they respond, write their name to a file called guest.txt
 
 #Prompt = 'What is your name? '
-#message = input(prompt)
+Mmessage = input(prompt)
 #filename = 'text_files/guest.txt'
 #with open(filename, 'a') as file_object:
 #    file_object.write(f"\n{message.title()}")
