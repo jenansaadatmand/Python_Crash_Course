@@ -1,7 +1,7 @@
 # Failing silently: telling python not report the exception error it catches using a pss statement
 # We will not report to the user the exception we catch
 # Let the program fail silently when an exception occurs and continue on as if nothing happened
-# to make the program fail silently, we write the try block as usual, but explicitly tell python to do nothing in the except block using the pass statement.
+# To make the program fail silently, we write the try block as usual, but explicitly tell python to do nothing in the except block using the pass statement.
 
 def count_words(filename): # indentation matters in the next lines
     """Count the approximate number of words in a file."""
