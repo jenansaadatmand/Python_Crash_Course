@@ -28,7 +28,7 @@ even_numbers = list(range(2, 11, 2))
 print(even_numbers)
 print()
 
-# using a range() function to make a list of numbers
+# Using a range() function to make a list of numbers
 # raising a value to the second power
 
 squares = []  # start with an empty list
