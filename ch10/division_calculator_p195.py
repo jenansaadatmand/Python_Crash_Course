@@ -1,7 +1,7 @@
 # Example where catching an error can allow a program to continue running
 # Using exceptions to prevent crashes
 # Useful when programs prompt users for input, handling error when the program responds to invalid input appropriately, it can prompt for more valid input instead of crashing or stop running
-# simple calculator that does only division
+# Simple calculator that does only division
 
 print("Give me numbers, and I'll divide them.")
 print("Enter 'q' to quit.")
