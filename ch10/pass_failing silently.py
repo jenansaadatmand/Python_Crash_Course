@@ -1,5 +1,5 @@
 # Failing silently: telling python not report the exception error it catches using a pss statement
-# we will not report to the user the exception we catch
+# We will not report to the user the exception we catch
 # let the program fail silently when an exception occurs and continue on as if nothing happened
 # to make the program fail silently, we write the try block as usual, but explicitly tell python to do nothing in the except block using the pass statement.
 
