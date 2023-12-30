@@ -1,17 +1,17 @@
 # Modifying elements in a list
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
-# modify element at index 0 to dukati
+# Modify element at index 0 to dukati
 motorcycles[0]='ducati'
 print(motorcycles)
 
-# adding elements to the end of a list  using .append() method
+# Adding elements to the end of a list  using .append() method
 motorcycles.append('ninja')
 print(motorcycles)
 print()
 
 # Appending elements to the end of a list
-# start with an empty list and then use append() method to add items
+# Start with an empty list and then use append() method to add items
 motor = []
 motor.append('honda')
 motor.append('yamaha')
