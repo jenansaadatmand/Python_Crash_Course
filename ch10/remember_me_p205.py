@@ -1,5 +1,5 @@
 # Combining storing and reading/recovering data using json in one program or file
-# when someone runs remember_me.py, we want to retrieve their username from memory if possible
+# When someone runs remember_me.py, we want to retrieve their username from memory if possible
 # start with a try block that attempts to recover the username
 # If the file username.json does not exist, we'll have the except block prompt for a username and store it in username.json for next time
 
