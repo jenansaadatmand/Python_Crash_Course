@@ -1,5 +1,5 @@
 # Common words: visit Gutenberg (https://gutenberg.org/ )
-# and find a few texts you’d like to analyze. 
+# And find a few texts you’d like to analyze. 
 # Download the text files for theseworks, or copy the raw text from your browser into a text file on your computer.
 # you can use the count() method to find out how many times a word or phrase in a string.
 # for example, the following code counts the number of times 'row' appears in a string
