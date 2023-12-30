@@ -1,6 +1,6 @@
 # Working with multiple files, adding more books to analyze
 # Let's move the bulk of this program to a function called count_words()
-# by using a predefined function, it will be easier to run the analysis for multiple books
+# By using a predefined function, it will be easier to run the analysis for multiple books
 
 def count_words(filename): # create a function, containing a try-except-else block
     """Count the approximate number of words in a file."""
