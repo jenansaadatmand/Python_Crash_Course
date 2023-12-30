@@ -2,7 +2,7 @@
 # Use json.dump() to store this number in a file
 # Write a separate program that reads in this value and prints the message, "I know your favourite number! it's -----"
 
-# program that prompts for user favorite number
+# Program that prompts for user favorite number
 #import json
 
 #filename = 'favorite_num.json'
