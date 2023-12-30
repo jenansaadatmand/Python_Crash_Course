@@ -7,8 +7,8 @@
 # Print each return value to show that the the dictionaries are storing the album information correctly
 # Use None to add an optional parameter to make_album() that allow you to store the number of songs on an album
 # If calling line includes a value for the number of songs, 
-# add that value to the album's dictionary
-# make at least one new function call that includes the number of songs on an album
+# Add that value to the album's dictionary
+# Make at least one new function call that includes the number of songs on an album
 
 #def make_album(artist, title):
 #    """Builds a dictionary containing information about an album."""
