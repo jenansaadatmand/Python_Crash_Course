@@ -1,12 +1,12 @@
-# excersize 9-3 Users: make a class called user
+# Excersize 9-3 Users: make a class called user
 # Create two attributes called first_name and last_name,
-# and then create sevral other attributes that are typically stored in a user profile.
-# Make a method caled describe_user() that
-# prints a summary of the user's information.
+# and then create several other attributes that are typically stored in a user profile.
+# Make a method called describe_user() that
+# Print a summary of the user's information.
 # Make another method called greet_user() that
-# prints a personalized greeting to the user
+# Prints a personalized greeting to the user
 # Create several instances representing different users, and
-# call both methods for each user.
+# Call both methods for each user.
 
 
 class User:
@@ -36,7 +36,7 @@ class User:
         #print(f"Welcome back, {self.first_name}{self.last_name}!") can use this code for full name 
         print(f"Welcome back, {self.username}!") # use this code for userame
 
-# creating several instances representing different users:
+# Creating several instances representing different users:
 jenan = User('jenan', 'saadatmand', '47', 'f', 'Canadian', 'jsaad', 'jenan@yahoo.com', 'canada') # alternatively, can use username_1 for the object or instance name instead of jenan 
 jimmy = User('jimmy', 'saadatmand', '13', 'm', 'Canadian', 'jimsaad', 'jimmy@yahoo.com', 'canada')
 soso = User('soso', 'Kawi', '35', 'f', 'Chinese', 'skaw', 'skawi@yahoo.com', 'China')
