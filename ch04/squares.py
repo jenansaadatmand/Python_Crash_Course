@@ -40,4 +40,4 @@ print("\n")
 
 # print(stdev(digits))  # Standard Deviation is a measure of measure confidence in statistical calculations and spread in Statistics. It is used to quantify the measure of spread, variation of a set of data values
 
-print(statistics.stdev(digits))  #  standard deviation is the square root of the average square deviation (computed from the mean)
+print(statistics.stdev(digits))  #  Standard deviation is the square root of the average square deviation (computed from the mean)
