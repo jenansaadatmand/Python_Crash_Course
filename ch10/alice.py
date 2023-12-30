@@ -1,6 +1,6 @@
 # Handling the FileNotFoundError Exception: using a try-except block
 # Handling missing files, different location, misspelled filename or does not exist at all
-# let's try to read a file that does not exist
+# Let's try to read a file that does not exist
 # program tries to read in the contents of Alice in wonderland, but we have'nt saved the file alice.txt in the same directory as alice.py
 
 # use of f to represent the file object, common convension
