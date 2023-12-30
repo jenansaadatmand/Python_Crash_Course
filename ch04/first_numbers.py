@@ -56,5 +56,4 @@ print()
 
 
 # List comprehension: to generate lists using one line
-
-
+# it combines a for loop and the creation of a new elements in one line
