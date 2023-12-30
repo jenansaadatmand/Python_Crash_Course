@@ -1,5 +1,5 @@
 # Exercise 3-7 shrinking guet list: you just found out that your new dinner table won't arrive in time for diner
-# and now you have space for only two guests
+# And now you have space for only two guests
 # Start with your program from exercise 3-6
 # Add a new line that printss a ssage saying that you invite only two people for dinner
 # Use pop() remove guests from your list one at a time until only two names remain in your list
