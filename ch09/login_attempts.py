@@ -1,11 +1,11 @@
 # Login attempts: Add an attribute called login_attempts to your User class from excersize 9-3(page 162)
-# write a method called increment_login_attempts() that increments the value of login attempts by 1
-# write another method called reset_login_attempts() that resets the value of login_attempts to 0
+# Write a method called increment_login_attempts() that increments the value of login attempts by 1
+# Write another method called reset_login_attempts() that resets the value of login_attempts to 0
 # Make an instance of the user class and 
-# call increment_login_attempts() several times
-# print the value of login_attempts to make sure it was incremented properly, and
-# call reset_login_attempts()
-# print login_attempts again to make sure it was reset to 0
+# Call increment_login_attempts() several times
+# Print the value of login_attempts to make sure it was incremented properly, and
+# Call reset_login_attempts()
+# Print login_attempts again to make sure it was reset to 0
 
 class User:
     """Represents as imple user profile."""
