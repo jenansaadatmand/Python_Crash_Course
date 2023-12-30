@@ -1,5 +1,5 @@
 # Handling the FileNotFoundError Exception: using a try-except block
-# Handling missing files, different locations, misspelled filename or does not exist at all
+# Handling missing files, different locations, misspelled filename, or does not exist at all
 # Let's try to read a file that does not exist
 # program tries to read in the contents of Alice in wonderland, but we haven't saved the file alice.txt in the same directory as alice.py
 
