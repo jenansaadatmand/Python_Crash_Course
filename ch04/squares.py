@@ -20,7 +20,7 @@ print(squares)
 print("\n\n")
 
 # Solution 3:
-# using list comprehension: 
+# Using list comprehension: 
 # creating a list of square numbers
 
 squares = [value **2 for value in range(1, 11)]
