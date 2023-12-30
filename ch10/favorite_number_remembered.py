@@ -5,7 +5,7 @@
 
 # Program using try-except-else block in a function
 import json
-def favorite_num(): # We are using a function to ask the user for favorite number, store it and retrieve a stored favorite number if one exist and prompt for a new favorite number if one doesn't exist and store it
+def favorite_num(): # We are using a function to ask the user for favorite number, store it and retrieve a stored favorite number if one exist and prompt for a new favorite number if one doesn't exist and store it.
     """prompt user for favorite number."""
     filename = 'favorite_num.json'
     try:
