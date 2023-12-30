@@ -1,7 +1,7 @@
-# working with classes and instances, p162
-# modifying attributes associated with instances in a class
-# you can modify attributes of an instance directly or write methods that update attributes in specific ways
-# new class representing car. Car will store information about the kind of the car and it will have a method that summarizes this information
+# Working with classes and instances, p162
+# Modifying attributes associated with instances in a class
+# You can modify attributes of an instance directly or write methods that update attributes in specific ways
+# New class representing car. Car will store information about the kind of the car and it will have a method that summarizes this information
 
 
 #class Car:
@@ -22,12 +22,12 @@
 #my_new_car = Car('audi', 'a4', 2019) # making a new car instance from Car class ans assign it to the variable my_new_car, we give it attributes, these attributes will be asociated with parameters in the __init__() method
 #print(my_new_car.get_descriptive_name()) # printing the calling of the get_descriptive_name() method (because it only return a value and does not print)to show what kind of car we have.
 
-# adding an attribute that changes over time
-# we will add an attribute that stores the car's overlall mileage
-# setting a Default Value for an Attribute
-# when an instance is created, attributes can be defined without being passed in as parameters
+# Adding an attribute that changes over time
+# We will add an attribute that stores the car's overlall mileage
+# Setting a Default Value for an Attribute
+# When an instance is created, attributes can be defined without being passed in as parameters
 # These attributes can be defined in the __init__() method, where they are assigned a default value.
-# let's add an attribute called odometer_reading that always starts with a value of 0
+# Let's add an attribute called odometer_reading that always starts with a value of 0
 # We'll also add a method read_odometer() that help us read each car's odometer
 
 class Car:
@@ -84,29 +84,29 @@ my_new_car = Car('audi', 'a4', 2019)  # we cannot add odometer attribute here, i
 print(my_new_car.get_descriptive_name())
 my_new_car.read_odometer() 
 
-# many cars are sold with exactly 0 miles on the odometer, so we need a way to change the value of this attribute
+# Many cars are sold with exactly 0 miles on the odometer, so we need a way to change the value of this attribute
 # Modifying an attribute's value directly
-# you can change an attribute's value in three ways:
+# You can change an attribute's value in three ways:
 # 1. by changing the value directly through an instance, 
 # 2. set the value through a method, method will update it internally
 # 3. or increment the value (add a certain amount to it) through a method
 
-# 1. modifying an attribute value by accessing it directly through an instance:
-# let's set the odometer reading to 23 directly
+# 1. Modifying an attribute value by accessing it directly through an instance:
+# Let's set the odometer reading to 23 directly
 
 my_new_car.odometer_reading = 23 # use dot notation to access the car's odometer attribute and set its value to 23. tells python to take the instance my_new_car, find the attribute odometer associated with it and set the value of that attribute to 23
 my_new_car.read_odometer()
 print()
 
-# you can do the same for other defined attributes not just the default value
+# You can do the same for other defined attributes not just the default value
 #my_new_car.make = 'bmw'
 #print(my_new_car.get_descriptive_name())
 #print("\n")
 
 # 2. Modifying an attribute's value through a method. by writing a method that updates the value for you
-# methods that update certain attributes for you is very helpful, instead of accessing it directly, you pass a new value to a method that will handle the updating internally
+# ethods that update certain attributes for you is very helpful, instead of accessing it directly, you pass a new value to a method that will handle the updating internally
 
-# creating a method called update_odometer()
+# Creating a method called update_odometer()
 
 # This code works with lines 52, 53, and 54 being uncommented
 
@@ -114,18 +114,18 @@ my_new_car.update_odometer(23)  # call the method and pass 23 as an argument(cor
 my_new_car.read_odometer() # read_odometer() prints the reading
 print()
 
-# 2. continue modifying attribute value with a method
+# 2. Continue modifying attribute value with a method
 # Let's extend the method update_odometer() to do additional work everytime the odometer reading is modified as a check for security measure
-# uncomment code lines 57, to 65, for the below code to work, we will add little logic to make sure no one tires to roll back the odometer reading:
+# Uncomment code lines 57, to 65, for the below code to work, we will add little logic to make sure no one tires to roll back the odometer reading:
 
 my_new_car.update_odometer(8) # outcome, you cannot roll back an odometer
 my_new_car.read_odometer()
 print()
 
 #3. Incrementing an attribute's value (add a certain amount to it) through a method
-# sometimes we want to increment an attribute's value rather than setting an attribute's entirely new value
-# we buy a used car and put 100 miles on it between the time we buy it and the time we register it
-# uncomment method on line 67-69, a method that allows us to pass this incremental amount and add that value to the odometer reading
+# Sometimes we want to increment an attribute's value rather than setting an attribute's entirely new value
+# We buy a used car and put 100 miles on it between the time we buy it and the time we register it
+# Uncomment method on line 67-69, a method that allows us to pass this incremental amount and add that value to the odometer reading
 
 
 
@@ -139,9 +139,9 @@ my_used_car.increment_odometer(100)   # call increment_odometer() and pass it 10
 my_used_car.read_odometer() # outcome is 23,600
 print()
 
-# you can easily modify this increment_odometer() method to reject negative increments so no one uses this function to roll back an odometer. (checks as security measure)
+# You can easily modify this increment_odometer() method to reject negative increments so no one uses this function to roll back an odometer. (checks as security measure)
 
-# method is on lines  
+# Method is on lines  
 
 my_used_car.increment_odometer(-1)  # because of the previous addition on line 138, the odometer currently is set on 23,600
 my_used_car.read_odometer() # negative number can't set back the odometer
