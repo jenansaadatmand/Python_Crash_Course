@@ -1,4 +1,4 @@
-# addition calculator: wrap your code from Excersize 10-6 in a while loop so the user can continue entering numbers even if they make a mnistake and enter text instead.
+# Addition calculator: wrap your code from Excersize 10-6 in a while loop so the user can continue entering numbers even if they make a mnistake and enter text instead.
 
 print("Enter 'q' to quit.\n")
 
