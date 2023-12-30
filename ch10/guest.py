@@ -1,4 +1,4 @@
-# guest: write a program that prompts the user for their name
+# Guest: write a program that prompts the user for their name
 # when they respond, write their name to a file called guest.txt
 
 #prompt = 'What is your name? '
