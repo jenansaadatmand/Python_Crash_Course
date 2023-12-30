@@ -1,6 +1,6 @@
 # Large files: One million digits
 # If we start with a text file that contains pi to 1,000,000 decimal places instead of 30 
-# program to create a single string containing all these digits
+# Program to create a single string containing all these digits
 # use the same program as pi_string.py but pass it a different text file that contains the pi to 1,000,000
 # we will just print the fist 50 decimal places
 
