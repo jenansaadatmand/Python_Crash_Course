@@ -1,6 +1,6 @@
 # Addition: one common problem when prompting for numerical input occurs when people provide text instead of numbers
 # When you try to convert the input to an int, you'll get a ValueError
-# write a program that prompts for two numbers
+# Write a program that prompts for two numbers
 # add them together and print the results
 # catch the ValuError if either input value is not a number, 
 # and print a friendly error message
