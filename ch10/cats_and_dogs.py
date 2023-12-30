@@ -2,7 +2,7 @@
 # Make two files, cats.txt and dogs.txt
 # Store at least three names of cats in the first file
 # And three names of dogs in the second file
-# write a program that tries to read these files and print the content of the file to the screen
+# Write a program that tries to read these files and print the content of the file to the screen
 # wrap your code in a try-except block to catch the FileNotFound error, and 
 # print a friendly message if a file is missing.
 # move one of the files to a different location on your system, and make sure the code in the except block executes properly
