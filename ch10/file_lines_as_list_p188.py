@@ -1,7 +1,7 @@
 # Making a list of lines from a file
 # When you use with block, the file object returned by open() is only available inside the with block that contains it
 # To retain access to a file's content outside the with block, you store the file's line in a list inside the block and then work with that list
-# program stores the lines of pi_digits.txt in alist inside the with block and then prints the lines outside the with block
+# Program stores the lines of pi_digits.txt in alist inside the with block and then prints the lines outside the with block
 
 filename = 'text_files/pi_digits.txt'
 with open(filename) as file_object:
