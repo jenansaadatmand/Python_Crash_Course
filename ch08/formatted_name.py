@@ -1,5 +1,5 @@
-# a function returning a value
-# you store a first and last names separately and then call this function to display a neatly formatted full name 
+# A function returning a value
+# You store a first and last names separately and then call this function to display a neatly formatted full name 
 def get_formatted_name(first_name, last_name):
     """Return a full name, neatly formatted."""
     full_name = f"{first_name} {last_name}"  #  function body assigned to variable
@@ -8,11 +8,11 @@ musician = get_formatted_name('jimi', 'hendrix')  # call the function, the retur
 print(musician)  # output neatly formatted name
 print()
 
-# we could have used regular print function only
+# We could have used regular print function only
 print('Jimi Hendrix')
 print()
 
-# we could have used the calling function only
+# We could have used the calling function only
 def get_formatted_name(first_name, last_name):
     """Return a full name, neatly formatted."""
     full_name = f"{first_name} {last_name}"
@@ -21,9 +21,9 @@ get_formatted_name(first_name='Jimi', last_name='Hendrix')
 print()
 
 
-# making an argument optional, so people using the function can choose to provide extra information only if they want to
-# expand get_formatted_name() to handle middle names as well
-# this function always requires middle name argument
+# Making an argument optional, so people using the function can choose to provide extra information only if they want to
+# Expand get_formatted_name() to handle middle names as well
+# This function always requires middle name argument
 def get_formatted_name(first_name, middle_name, last_name):
         """Return a full name, nestly formatted"""
         full_name= f"{first_name} {middle_name} {last_name}"
@@ -31,9 +31,9 @@ def get_formatted_name(first_name, middle_name, last_name):
 musician = get_formatted_name('john','lee','hooker')
 print(musician)
 print()
-# this functon does not always require middle name argument
-# making the middle name optional by giving them middle name argument an empty value
-# set the dfault value of middle_name to an empty string and move it to the end of the llist of parameters
+# This functon does not always require middle name argument
+# Making the middle name optional by giving them middle name argument an empty value
+# Set the dfault value of middle_name to an empty string and move it to the end of the llist of parameters
 def get_formatted_name(first_name, last_name, middle_name=''):
     """Return a full name, neatly formatted."""
     if middle_name: # if test to check to see if middle name has been provided
