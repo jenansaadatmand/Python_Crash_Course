@@ -35,7 +35,7 @@
 
 def count_common_words(filename, word):
     """count how many times the word appears in the text."""
-    # Note this is a really simple approximation, and the number returnes 
+    # Note this is a really simple approximation, and the number returned 
     # will be higher than the actual count.
 
     try: 
