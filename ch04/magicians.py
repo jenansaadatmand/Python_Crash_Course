@@ -1,6 +1,6 @@
 # Looping is important to automate repetitive tasks
 # Iteration with a for loop: (instead of retrieving or accessing each name one by one using index magicians[0] etc)
-# for every magician in the list of magicians, print the magician's name
+# For every magician in the list of magicians, print the magician's name
 
 magicians = ["alice", "david", "carolina" ] # defining a list
 print(magicians)
