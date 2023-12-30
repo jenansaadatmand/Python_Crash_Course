@@ -1,6 +1,6 @@
 # Three Restaurants: start with your calss from exercise 9-1.
 # Create three different instances from the class, and 
-# call describe_restaurant() for each instance
+# Call describe_restaurant() for each instance
 
 class Restaurant:
     """A class representing or modeling a Restaurant."""
@@ -28,7 +28,7 @@ india_town = Restaurant('india town', 'Indian')
 seaside = Restaurant('seaside', 'Seafood')
 italiano = Restaurant('italiano', 'Pizza')
 
-# using describe_restaurant() for each instance
+# Using describe_restaurant() for each instance
 india_town.describe_restaurant()
 seaside.describe_restaurant()
 italiano.describe_restaurant()
