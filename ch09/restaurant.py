@@ -1,12 +1,12 @@
-# restaurant: Make a class called restaurant
+# Restaurant: Make a class called restaurant
 # The __init__() for restaurant should store two attributes:
-# a restaurant name and a cuisine_type
-# make a method called describe_restaurant() 
+# A restaurant name and a cuisine_type
+# Make a method called describe_restaurant() 
 
-# that print these two pieces of information, and a
-# method called open_restaurant() that prints a message indicating that the restaurant is open
-# make an instance called restaurant from your class
-# print the two attributes individually, and then call both methods
+# That print these two pieces of information, and a
+# Method called open_restaurant() that prints a message indicating that the restaurant is open
+# Make an instance called restaurant from your class
+# Print the two attributes individually, and then call both methods
 
 class Restaurant:
     """A class representing or modeling a restaurant"""
