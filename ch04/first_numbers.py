@@ -14,7 +14,7 @@ for x in range(6): # it will start at 0 and end at 5, prints 0 through 5
     print(x)
 print()
 
-# using range to make alist of numbers using list(range(start, end))
+# Using range to make alist of numbers using list(range(start, end))
 numbers = list(range(1, 6))
 print(numbers)
 
