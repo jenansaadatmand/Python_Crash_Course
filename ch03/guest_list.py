@@ -13,3 +13,12 @@ print()
 # using a for loop
 for guest in guest_list:
     print(f"Hello {guest.title()}, you are invited to dinner.")
+
+# Solution 3: 
+
+guests = ['jimmy', 'tiffany', 'spoiler']
+msg = ", you are invited to dinner!"
+print(f'{guests[0].title()}{msg}')
+print(f'{guests[1].title()}{msg}')
+print(f'{guests[2].title()}{msg}')
+print()
