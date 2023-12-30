@@ -25,6 +25,6 @@ import json
 filename = 'numbers.json' # read from the same file we wrote 
 with open(filename) as f: # open in read mode by default or use 'r'
     numbers = json.load(f) # json.load() function to load information stored in numbers.json, assign it to variable numbers
-print(numbers) # print recovered list of numbers
+print(numbers) # Print recovered list of numbers
 
 # This is a simple way to share data between programs
