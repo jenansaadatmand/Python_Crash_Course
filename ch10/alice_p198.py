@@ -1,6 +1,6 @@
 # Exception handling helps when you are working with more than one file and one file does not exist
 # analyzing data or files containing the entire book
-# pull alice in wonderland book from project Gutenberg
+# Pull alice in wonderland book from project Gutenberg
 # try to count the number of words in the text
 # use a string method split(), which build a list of words from a string
 # string() method separates a string into parts wherever it finds a space and stores all the parts of a string in a list
