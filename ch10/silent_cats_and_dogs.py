@@ -1,5 +1,5 @@
 # Silent cats and dogs: 
-# modify your except block in excersize 10-8 to fail silently if either file is missing
+# Modify your except block in excersize 10-8 to fail silently if either file is missing
 
 filenames = ['text_files/cats.txt', 'text_files/dogs.txt']
 for filename in filenames:
