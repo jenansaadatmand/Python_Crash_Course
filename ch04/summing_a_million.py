@@ -1,6 +1,6 @@
 # Exercise 4-5 Summming a milllion: make a list of the mumbers from one to one millio
 # and then use min() and max() to make sure your list actually starts at one and ends at one million
-# also, use the sum() function to see how quickly Python can add a million numbers
+# Also, use the sum() function to see how quickly Python can add a million numbers
 
 numbers = list(range(1, 1_000_000))
 print(min(numbers))
