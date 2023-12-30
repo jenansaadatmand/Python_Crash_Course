@@ -20,5 +20,5 @@ while True:
         print("You can't divide by zero!")
 
  # This program does nothing to handle errors, so asking it to divide by zero causes it to crash
- # add try-except block to handle the error
+ # Add try-except block to handle the error
     
