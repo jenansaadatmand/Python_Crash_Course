@@ -1,7 +1,7 @@
 # Glossar 2: Now that you know how to loop through a dictionary
-# clean up the code from excersize 6-3 (page 99) by replacing your series of print() calls with a loop that runs through the dictionary's keys and values
-# when you're sure that your loop works, add five more python terms to your glossary
-# when you run your program again, these new words and meanings should automatically be included in the output
+# Clean up the code from excersize 6-3 (page 99) by replacing your series of print() calls with a loop that runs through the dictionary's keys and values
+# When you're sure that your loop works, add five more python terms to your glossary
+# When you run your program again, these new words and meanings should automatically be included in the output
 
 glossary = {
     'variable': 'store data',
@@ -15,12 +15,13 @@ for word, definition in glossary.items():
     print(f"Definition: {definition}")   
 print()
 
-# solution 2
+# Solution 2
 for word, definition in glossary.items():
     print(f"\n{word.title()}; {definition} ")
 print()
 
 # Adding 5 new words and meanings
+
 glossary['floating point'] = 'numerical value with a decimal point' 
 glossary['key'] = 'The first item in a key-value pair in a dictionary'   
 glossary['string'] = ' a series of characters'
