@@ -43,6 +43,6 @@ print(places)
 # Use reverse() to change the order of your list again. Print the list to show its back to its original order
 # use sort() to change your list so it's stored in alphabetical order.
 # print the list to show that its order has changed
-# Use sort() to change your list so its stored in reverse-alphabetical order.
+# Use sort() to change your list so it's stored in reverse-alphabetical order.
 # Print the list to show that its order has changed
 
