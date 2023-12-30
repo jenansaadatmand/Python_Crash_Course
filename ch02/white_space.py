@@ -34,7 +34,7 @@ print()
 # Python makes it easy to eliminate extra whitespace from data that people enter
 # Python looks for extra space on the right or left of a string
 
-# use rstrip() method to ensure no extra whitespace exists on the right side of a string
+# Use rstrip() method to ensure no extra whitespace exists on the right side of a string
 # To see the action of this code, need to type it in the Python terminal
 favorite_language = 'python '
 favorite_language.rstrip() # removes space from right temporarily 
