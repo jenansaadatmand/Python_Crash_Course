@@ -3,7 +3,7 @@
 # and store all three dictionaries in a list called people. 
 # Loop through your list of people.
 # As you loop through the list, 
-# print everything you know about each person.
+# Print everything you know about each person.
 
 people = []
 person = {
