@@ -1,7 +1,7 @@
 # User albums: start with your program from Exercise 8-7.
-# write a while loop that allows users to enter an album's artist and title
-# once you have that information, call make_album() with the user's input and print the dictionary that's created
-# be sure to include a quit value in the while loop
+# Write a while loop that allows users to enter an album's artist and title
+# Once you have that information, call make_album() with the user's input and print the dictionary that's created
+# Be sure to include a quit value in the while loop
 
 def make_album(artist, title, tracks = '0'):
     """Builds a dictionary containing information about an album."""
@@ -28,9 +28,9 @@ def make_album(artist, title, tracks = '0'):
 #print("\nThanks for responding!")
 
         
-# solution 2
+# Solution 2
 
-#Prepare the prompts.
+# Prepare the prompts.
 title_prompt = "\nWhat album are you thinking of? "
 artist_prompt = "Who's the artist?"
 
@@ -49,7 +49,7 @@ while True:
 print("\nThanks for responding!")
 
 
-# solution 3
+# Solution 3
 
 #while True: # this is an infinite loop
 
@@ -68,7 +68,7 @@ print("\nThanks for responding!")
 #print("\nThanks for responding!")
         
 
-# solution 4 
+# Solution 4 
 
 #prompt = "Enter " # assign a prompt as constant
 
