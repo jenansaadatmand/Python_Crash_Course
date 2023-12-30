@@ -1,4 +1,4 @@
-# favourite number: write a program that prompts for the user's favourite number
+# Favourite number: write a program that prompts for the user's favourite number
 # use json.dump() to store this number in a file
 # write a separate program that reads in this value and prints the message, "I know your favourite number! it's -----"
 
