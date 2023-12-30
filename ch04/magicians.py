@@ -20,4 +20,4 @@ print()
 
 for i in magicians: # define a for loop, pull a name from list and associate it with temporary variable i  
     print(i.title()) # print the names associated with i  
-# python will repeat the last two lines, iterating through the list 
+# Python will repeat the last two lines, iterating through the list 
