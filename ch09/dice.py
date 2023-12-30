@@ -1,7 +1,7 @@
 # Dice: make a class Die with one attribute called sides,
-# which has a default value of 6
-# write a method called roll_die() 
-# that prints a random number between 1 and the number of sides the die has
+# Which has a default value of 6
+# Write a method called roll_die() 
+# That prints a random number between 1 and the number of sides the die has
 # Make a 6 sided die and roll it 10 times
 
 
