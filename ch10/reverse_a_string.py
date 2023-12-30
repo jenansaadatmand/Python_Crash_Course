@@ -2,7 +2,7 @@
 # We have a string and we want to reverse it
 # Use a slice that steps backward, -1
 # Create a slice that starts at the end of the slice, and moves backwards
-# [::-1] means start at the end of the string and end at position 0, move with the step -1, negative one, which means one step backwards
+# [::-1] means start at the end of the string and end at position 0, move with the step -1, negative one, which means one step backward
 # Slice represented as [start:stop:step] 
 txt = "Hello world"[::-1]
 print(txt)
