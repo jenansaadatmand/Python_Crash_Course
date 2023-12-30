@@ -2,7 +2,7 @@
 # Let's move the bulk of this program to a function called count_words()
 # By using a predefined function, it will be easier to run the analysis for multiple books
 
-def count_words(filename): # create a function, containing a try-except-else block
+def count_words(filename): # Create a function, containing a try-except-else block
     """Count the approximate number of words in a file."""
     try:
         with open(filename, encoding='utf-8') as f:
