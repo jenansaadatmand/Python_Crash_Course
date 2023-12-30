@@ -47,7 +47,7 @@ print()
 for guest in guest_list: 
     print(f"Hello {guest.title()}, you are still invited for diner.")
 
-# using del statement to remove permenantly the last two names
+# Using del statement to remove permenantly the last two names
 del guest_list[0]
 del guest_list[0]
 print("This is the empty list:")
