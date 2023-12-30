@@ -23,7 +23,7 @@ for line in lines:
     print(line.replace('Python', 'C'))
 
 print("\nsolution 3: chaning method, using rstrip() and replace() on the sameline")
-# the newline is stripped from the end of the line and then python is replaced by C
+# The newline is stripped from the end of the line and then python is replaced by C
 with open(filename) as f: 
     lines = f.readlines()
 for line in lines:
