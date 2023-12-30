@@ -1,4 +1,4 @@
-# Reverse a string in python
+# Reverse a string in Python
 # We have a string and we want to reverse it
 # Use a slice that steps backward, -1
 # create a slice that starts at the end of the slice, and moves backwards
