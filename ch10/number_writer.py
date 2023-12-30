@@ -5,7 +5,7 @@
 # json module can be used to share data between different python programs
 # json module, share data between other programming languages
 # Program stores a set of numbers and another program that reads these numbers back into memory
-# Store data using json.dump() and reads back into memory using json.load()
+# Store data using json.dump() and read back into memory using json.load()
 # json.dump(data piece to store, file object to store the data) takes two arguments 
 
 # Program with json.dump() to store a list of numbers
