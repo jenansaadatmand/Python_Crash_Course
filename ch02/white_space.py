@@ -13,7 +13,7 @@ print("Python\t")  # no tab
 print()
 
 
-# to add a newline in a string use \n
+# To add a newline in a string use \n
 print("Languages:\nPython\nC\nJavascript")
 print()
 
