@@ -3,7 +3,7 @@
 # Write a program that prompts for two numbers
 # Add them together and print the results
 # Catch the ValuError if either input value is not a number, 
-# and print a friendly error message
+# And print a friendly error message
 # Test your program by entering two numbers, and then entering some text instead of a number
 
 # solution has a quit option and a while loop to continue entering numbers even if mistake occured
