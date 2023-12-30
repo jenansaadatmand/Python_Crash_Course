@@ -15,7 +15,7 @@
 
 try: # Put the line that caused the error inside a try block
     print(5/0)  # if the code in a try block works, python skips over the except block
-except ZeroDivisionError:  # if the code in the try block causes an error, tell python what to do, python looks for an except block whose error matches the one that was raised and runs the code in that block
+except ZeroDivisionError:  # if the code in the try block causes an error, tell Python what to do, python looks for an except block whose error matches the one that was raised and runs the code in that block
     print("You can't divide by zero!") # the user sees a friendly error message on the screen instead of a traceback
 # if more code is added after the try-except block, the program continue running because we told python how to handle the error
     print("program is still active!")    
