@@ -22,3 +22,8 @@ print(f'{guests[0].title()}{msg}')
 print(f'{guests[1].title()}{msg}')
 print(f'{guests[2].title()}{msg}')
 print()
+
+
+# use len() to print a message indicating the number of people you're inviting to dinner
+
+print(f"The number of peoeple invited to dinner is {len(guests)}.")
