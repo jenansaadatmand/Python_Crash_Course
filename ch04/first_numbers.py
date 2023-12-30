@@ -18,5 +18,14 @@ print()
 numbers = list(range(1, 6))
 print(numbers)
 
+# passing range() one arrgument only, it will start at 0 and end at the provided value-1
+for value in range(6):
+    print(value)
+print()
+
 # skip numbers in a list using a step size and passing third argument within range()
+even_numbers = list(range(2, 11, 2))
+print(even_numbers)
+print()
+
 
