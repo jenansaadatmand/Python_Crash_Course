@@ -6,7 +6,7 @@
 # And print a friendly error message
 # Test your program by entering two numbers, and then entering some text instead of a number
 
-# Solution has a quit option and a while loop to continue entering numbers even if a mistake occured
+# Solution has a quit option and a while loop to continue entering numbers even if a mistake occurred
 #print("Give me two numbers, and I'll add them.")
 #print("Enter 'q' to quit.")
 #while True:
