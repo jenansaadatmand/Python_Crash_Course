@@ -1,4 +1,5 @@
 # range() function to generate or print a series of numbers
+# off-by-one behavior 
 
 for value in range(1,5): # only will print up to 5 not including 5, off-by one behavior
     print(value)
