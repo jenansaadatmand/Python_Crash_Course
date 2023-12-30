@@ -20,7 +20,7 @@ count_words(filename) # calling the functin on the filename
 # Do this by storing all the names of files to be analyzed in a list and then we call count_words() function for each file in the list.
 # We will analyze/count words for files:
 #alice in wonderland, moby dick, little women, and siddhartha.read
-# we will intentionally leave out siddhartha.txt from the directory containing the word_count.py, to see how well the program handles a missing file
+# We will intentionally leave out siddhartha.txt from the directory containing the word_count.py, to see how well the program handles a missing file
 print("\n")
 
 filenames = ['text_files/alice.txt', 'text_files/siddhartha.txt', 'text_files/moby_dick.txt', 'text_files/little_women.txt']
