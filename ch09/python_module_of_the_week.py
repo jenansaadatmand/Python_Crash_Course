@@ -1,8 +1,8 @@
-# 9-16 Python Module of the Week:
+# Exercise 9-16 Python Module of the Week:
 # One excellent resource for exploring the Python standard library is a site called Python Module of the Week. 
 # Go to https://pymotw.com/ and look at the table of contents.
 # Find a module that looks interesting to you and read about it,
-# perhaps starting with the random module
+# Perhaps starting with the random module
 
 
 # random module provides a fast pseudorandom number generator based on the Mersenne Twister algorithm. Originally developed to produce inputs for Monte Carlo simulations, Mersenne Twister generates numbers with nearly uniform distribution and a large period, making it suited for a wide range of applications.
