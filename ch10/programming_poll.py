@@ -17,7 +17,7 @@
 #        break
 
 
-# solution 2
+# Solution 2
 filename = 'text_files/responses.txt'
 responses = []
 while True:
