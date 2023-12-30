@@ -37,7 +37,7 @@ for pet in pets: # displays information about each pet
 
 print()
 
-# solution # 2: 
+# Solution # 2: 
 for pet in pets: 
     print(f"\nHere's what I  know about {pet['name'].title()}:")
 for key, value in pet.items():
