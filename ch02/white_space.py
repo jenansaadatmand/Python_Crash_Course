@@ -38,7 +38,7 @@ print()
 # To see the action of this code, need to type it in the Python terminal
 favorite_language = 'python '
 favorite_language.rstrip() # removes space from right temporarily 
-print(favorite_language) # When ask the value of variable again, it is the same with space on right of string
+print(favorite_language) # When asking the value of variable again, it is the same with space on right of string
 
 print()
 
