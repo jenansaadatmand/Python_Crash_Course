@@ -72,7 +72,7 @@ print(nostarch_url)
 print(nostarch_url.removeprefix('https://'))
 print()
 # removeprefix() leaves the original string unchanged 
-# reassign the new value to the original variable or assign it to a new variable to keep the new value without the prefix
+# Reassign the new value to the original variable or assign it to a new variable to keep the new value without the prefix
 # when you see a URL with http is not shown, the browser is using a removeprefix() method behind the scenes 
 
 nostarch_url = nostarch_url.removeprefix('https://')
