@@ -10,6 +10,6 @@ while msg != 'quit':
     if msg != 'quit':  # this if test prevents the word quit to be printed on the screen but it allows the while loop to quit
         print(msg)  # prints input or quit as actual message if you don't include an if test prior to it
 
-# in line 10 a modified version with if test is added 
-# now the program makes a quick check before displaying the message and only prints the message if it does not match the quit value
+# In line 10 a modified version with if test is added 
+# Now the program makes a quick check before displaying the message and only prints the message if it does not match the quit value
 
