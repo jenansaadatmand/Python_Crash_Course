@@ -16,7 +16,7 @@ def count_words(filename): # Create a function, containing a try-except-else blo
 filename = 'text_files/alice.txt'
 count_words(filename) # calling the functin on the filename
 
-# write a simple loop to count the words in any text we want to analyze
+# Write a simple loop to count the words in any text we want to analyze
 # do this by storing all the names of files to be analyzed in a list and then we call count_words() function for each file in the list.
 # we will analyze/count words for files:
 #alice in wonderland, moby dick, little women, and siddhartha.read
