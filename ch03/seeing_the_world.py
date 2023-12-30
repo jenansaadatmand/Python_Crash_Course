@@ -40,7 +40,7 @@ print(places)
 # Use sorted() to print your list in reverse-alphabetical order without changing the order of the original list
 # Show that your list is still in its original order by printing it again
 # Use reverse() to change the order of your list. print the list to show that its order has changed
-# use reverse() to change the order of your list again. Print the list to show its back to its original order
+# Use reverse() to change the order of your list again. Print the list to show its back to its original order
 # use sort() to change your list so its stored in alphabetical order.
 # print the list to show that its order has changed
 # Use sort() to change your list so its stored in reverse-alphabetical order.
