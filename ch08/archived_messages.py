@@ -1,5 +1,5 @@
 # Archived messages:
-# Start with your work from exercise 8-10
+# Start with your work from exercise 8-10.
 # Call the function send_messages() with a copy of the list of messages.
 # After calling the function, print both your lists to show that the original list has retained its messages.
 
