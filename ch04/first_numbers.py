@@ -18,7 +18,7 @@ print()
 numbers = list(range(1, 6))
 print(numbers)
 
-# passing range() one arrgument only, it will start at 0 and end at the provided value-1
+# Passing range() one arrgument only, it will start at 0 and end at the provided value-1
 for value in range(6):
     print(value)
 print()
