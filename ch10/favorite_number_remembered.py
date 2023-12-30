@@ -3,7 +3,7 @@
 # If not, prompt for the user's favorite number and store in a file
 # Run the program twice to see that it works.
 
-# program using try-except-else block in a function
+# Program using try-except-else block in a function
 import json
 def favorite_num(): # we are using a function to ask the user for favorite number, store it and retrieve a stored favorite number if one exist and prompt for a new favorite number if one doesn't exist and store it
     """prompt user for favorite number."""
