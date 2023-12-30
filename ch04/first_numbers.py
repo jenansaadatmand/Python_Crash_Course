@@ -56,7 +56,7 @@ print()
 
 
 # List comprehension: to generate lists using one line
-# it combines a for loop and the creation of a new elements in one line
+# It combines a for loop and the creation of a new elements in one line
 # and automatically appends each new element
 # building a list of square numbers using list comprehension: 
 squares = [value **2 for value in range(1, 11)]
