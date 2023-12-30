@@ -8,7 +8,7 @@ if number % 10 == 0:
 else:
     print(f"You're number provided {number} is not a multiple of ten")
 
-# solution 2 
+# Solution 2 
 number = input("Give me a number, please: ")
 number = int(number)
 
