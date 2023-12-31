@@ -33,7 +33,7 @@
 #    else: 
 #        print(f"I'll add {message} to your pizza.")
 
-# Use a break statement to exit the loop when the user enter a 'quit' value
+# Use a break statement to exit the loop when the user enters a 'quit' value
 
 #prompt = "\nWhat topping would like on your pizza?"
 #prompt += "\nEnter 'quit' when you are finished:"
