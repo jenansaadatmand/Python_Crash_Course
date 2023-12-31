@@ -1,6 +1,6 @@
 # While loop runs as long as, or while a certain condition is true
 # The for loop takes a collection of items and executes a block of code once for each item in the collection.
-# Use while loop to count up through a series of numbers
+# Use a while loop to count up through a series of numbers
 # Program of while loop counts from 1 to 5
 
 current_number = 1 # assigning variable to 1 to start counting
