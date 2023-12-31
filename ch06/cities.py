@@ -28,6 +28,7 @@ for name in cities.items():
 print()
 
 # Solution 2: 
+
 for city, city_info in cities.items():
     country = city_info['country'].title() 
     population = city_info ['population']
