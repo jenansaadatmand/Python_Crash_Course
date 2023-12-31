@@ -1,5 +1,5 @@
 # Exercise 3-10 Every function: Think of things you could store in a list
-# for example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you'd like
+# For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you'd like
 # write a program that creates a list containing these items and n uses each function 
 # in this chapter at leasdt once
 
