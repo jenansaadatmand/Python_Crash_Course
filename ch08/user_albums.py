@@ -56,7 +56,7 @@ print("\nThanks for responding!")
 #    prompt = "Enter artist name, "
 #    prompt += "(Enter 'q' to quit):"
     
-#    artist = input(prompt) # concatenate both prompts in one
+#    artist = input(prompt) # Concatenate both prompts in one
 
 #    if artist == 'q':
 #        break
