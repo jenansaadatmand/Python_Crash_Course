@@ -9,7 +9,7 @@
 #def make_pizza(*toppings):  # The * asterick allows the function to accept arbitrary number of parameters that allow passing an arbitrary number of arguments 
 #    """Print the list of toppings that have been requested."""
 #    print(toppings)
-#make_pizza('pepperoni') # only one value in the argument
+#make_pizza('pepperoni') # Only one value in the argument
 #make_pizza('mushrooms', 'green peppers', 'extra cheese') # Passing arbitrary number of arguments or values in the calling of the function
 
 # Now we can replace the print() call with a loop that runs through the list of toppings and describes the pizza being ordered
