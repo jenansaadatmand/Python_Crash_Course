@@ -4,7 +4,7 @@
 message = "Hello Python World ! "
 print(message)
 
-# associating a different value to the variable
+# Associating a different value to the variable
 message = "Hello Python Crash Course World !"
 print(message)
 
