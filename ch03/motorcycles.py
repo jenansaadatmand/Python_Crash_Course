@@ -20,7 +20,7 @@ print(motor)
 print()
 
 
-# inserting elements into a list using insert(index of new element, new value) method
+# Inserting elements into a list using insert(index of new element, new value) method
 # this operation shifts every value one position to the right
 motorcycles.insert(0, 'ducati2')
 print(motorcycles)
