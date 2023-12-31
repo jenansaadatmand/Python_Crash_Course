@@ -24,7 +24,7 @@ print("Replacing items using index:")
 languages[0]= 'italian'
 print(languages)
 print()
-# adding elements to a list 
+# Adding elements to a list 
 # appending elements to the end of a list
 print("Appending item using append():")
 languages.append('russian')
