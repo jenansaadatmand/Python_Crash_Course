@@ -46,7 +46,7 @@ print(motorcycles) # removed last item from list
 print(popped_motorcycle) # to prove that we still have access to the removed value 
 print()
 
-# imagine the motorcycles are arranged in a chronological order
+# Imagine the motorcycles are arranged in a chronological order
 # print a statement about the last motorcycle owned
 
 last_owned = motorcycles.pop()
