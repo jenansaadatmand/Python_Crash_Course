@@ -1,6 +1,6 @@
 # Album: write a function called make_album() that builds a dictionary describing a music album
 # The function should take in an artist's name and an album title
-# and it should return a dictionary containing these two pieces of information
+# And it should return a dictionary containing these two pieces of information
 
 
 # Use the function to make three dictionaries representing different albums
