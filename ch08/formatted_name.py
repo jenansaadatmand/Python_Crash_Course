@@ -1,5 +1,5 @@
 # A function returning a value
-# You store a first and last names separately and then call this function to display a neatly formatted full name 
+# You store first and last names separately and then call this function to display a neatly formatted full name 
 def get_formatted_name(first_name, last_name):
     """Return a full name, neatly formatted."""
     full_name = f"{first_name} {last_name}"  #  function body assigned to variable
