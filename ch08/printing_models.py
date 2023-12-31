@@ -17,7 +17,7 @@ completed_models = []
 while unprinted_designs:
     current_design = unprinted_designs.pop() # pop each entry from the end from unprinted_designs, and store them in current_designs
     print(f"Printing model: {current_design}")
-    completed_models.append(current_design) # adds the design to the completed_model list
+    completed_models.append(current_design) # Adds the design to the completed_model list
 
 # Displays all completed models.
 print("\nThe following models have been printed")
