@@ -5,7 +5,7 @@
 # An import statement tells Python to make the code in a module available in the currently running program file.
 # Storing function in module allows you to use your function in different programs
 # Also allows you to hide the details of your function code and focus on higher logic level programs
-# Also you can share function modules with others without having to share entire program.
+# Also you can share function modules with others without having to share the entire program.
 # knowing how to import functions also allows you to use libraries of functions that other programmers have written
 # There are several ways to import a module as follows: 
 # 1. importing entire module, 
