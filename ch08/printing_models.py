@@ -27,7 +27,7 @@ for completed_model in completed_models: # a for loop, will print each one alone
 print("\n")
 
 
-# Solution 2: restructuring/reorganizing this code using two predefined functions, easier to understand and easier to maintain
+# Solution 2: Restructuring/reorganizing this code using two predefined functions, easier to understand and easier to maintain
 
 # First function will handle printing the design
 # Second function will summarize the prints that have been made
