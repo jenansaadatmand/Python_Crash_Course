@@ -25,7 +25,7 @@
 # Use an active variable (flag) to control how long the loop runs
 #prompt = "\nWhat topping would like on your pizza?"
 #prompt += "\nEnter 'quit' when you are finished:"
-#active = True # program starts in active state
+#active = True # Program starts in active state
 #while active:
 #    message = input(prompt)
 #    if message == 'quit':
