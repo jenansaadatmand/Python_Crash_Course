@@ -59,10 +59,10 @@ show_completed_models(completed_models) # Pass one parameter when calling the fu
 
 # If we need to print more designs we simply call print_models() again
 
-# In line 53, replace with line 60, if you don't want to empty the original unprinted_designs list and keep it for your record, then pass a copy of the list when you call it. This can be done using slicing notation [:] from begining to end
+# In line 53, replace with line 60, if you don't want to empty the original unprinted_designs list and keep it for your record, then pass a copy of the list when you call it. This can be done using slicing notation [:] from beginning to end
 
 # Print_models(unprinted_designs[:], completed_models)  # passing a copy using slicing, the original list will not be emptied or affected 
-print(f"\n{unprinted_designs}") # to verify if the original list has been emptied [] if you use line 53 command or if you replace line 53 by line 60, list will be unchanged 
+print(f"\n{unprinted_designs}") # to verify if the original list has been emptied [] if you use the line 53 command or if you replace line 53 with line 60, the list will be unchanged 
 
 print(completed_models)
 
