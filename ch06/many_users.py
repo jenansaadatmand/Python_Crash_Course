@@ -26,7 +26,7 @@ for username, user_info in users.items():
     print(f"\nUsername: {username}")  # Once inside the main dictionary loop, we print the username
 
 # Start accessing the inner dictionary
-# variable user_info, which contains the dictionary of user information, has three keys: 'first','last', and 'location'.
+# Variable user_info, which contains the dictionary of user information, has three keys: 'first','last', and 'location'.
 # use each key to generate a neatly formatted full name and location for each person,
     full_name = f"{user_info['first']} {user_info['last']}"
     location = user_info['location']
