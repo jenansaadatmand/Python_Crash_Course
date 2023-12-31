@@ -15,7 +15,7 @@ print()
 for guest in guest_list: 
     print(f"Hello {guest.title()}, I have found a bigger table.")
 print()
-guest_list.insert(0, 'nana') # adding one guest to the beginning of list
+guest_list.insert(0, 'nana') # Adding one guest to the beginning of list
 print(guest_list)
 guest_list.insert(2, 'soso') # Adding one guest in the middle of list
 print(guest_list)
