@@ -14,7 +14,7 @@ print(d)
 e = "One of Python's strengths is its diverse and supportive community."
 print(e)
 # Changing Case in a string with Methods
-# Simplest task to do with strings is change the case of the words in a string
+# Simplest task to do with strings is to change the case of the words in a string
 name = "ada lovelace"
 print(name)
 print(name.title())  # method title() appears after the variable in the print() funtion call, title() method changes each word to title case
