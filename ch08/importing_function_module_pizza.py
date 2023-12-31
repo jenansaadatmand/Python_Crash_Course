@@ -12,7 +12,7 @@
 #import module 
 #import module
 #module_name.function_name() # call the function using dot notation
-# 2. importing specific functions, 
+# 2. Importing specific functions, 
 #from module_name import function_name
 # function_name() to call the function
 # 3. using as to give a function an Alias,
