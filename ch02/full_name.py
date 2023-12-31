@@ -1,5 +1,5 @@
 # Using variables in string , using f-string, f for format
-# python replaces the name of any variable in braces with its value
+# Python replaces the name of any variable in braces with its value
 first_name = "ada"
 last_name = "lovelace"
 full_name = f"{first_name} {last_name}"
