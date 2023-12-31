@@ -6,7 +6,7 @@ print(players[0:3:2]) # Including a third argument to skip a value at index 2
 print()
 # looping through slices within lists
 for player in players[:3]:
-    print(player.title()) # loop through first three players, index 0, 1, 2
+    print(player.title()) # Loop through first three players, index 0, 1, 2
 
 
 
