@@ -1,5 +1,5 @@
 # Multiples of ten:
-# Ask the user for a number, and then report wether the number is a multiple of 10 or not
+# Ask the user for a number, and then report whether the number is a multiple of 10 or not
 
 number = input("Please provide a number?")
 number = int(number)
