@@ -5,7 +5,7 @@
 
 glossary = {
     'variable': 'store data',
-    'list': 'collection of items in particula order',
+    'list': 'collection of items in particular order',
     'dictionary': 'collection of key-value pair',
     'constant': 'All capital letters variable whose value stays the same throughout the life of the program',
     'conditional test': 'expression within if statment that can be evaluated as True or False',
