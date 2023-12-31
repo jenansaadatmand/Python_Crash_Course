@@ -1,5 +1,5 @@
 # Square numbers, make a list of the first 10 square numbers 
-squares = []     # start with an empty list
+squares = []     # Start with an empty list
 for value in range(1, 11):    # loop through each value from 1 to 10 using the range() function
     square = value**2 # assigning to a variable & raising the value to the second power and assign to a variable 
     squares.append(square)
