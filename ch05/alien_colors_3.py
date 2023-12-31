@@ -7,6 +7,7 @@
 
 
 # Version if runs  
+
 alien_colors = 'green'
 if alien_colors == 'green':
     print("You just earned 5 points!")
@@ -17,6 +18,7 @@ else:
 print()
 
 # Version elif runs
+
 alien_colors = 'yellow'
 if alien_colors == 'green':
     print("You just earned 5 points!")
@@ -27,6 +29,7 @@ else:
 print()
 
 # Version else runs
+
 alien_colors = 'red'
 if alien_colors == 'green':
     print("You just earned 5 points!")
