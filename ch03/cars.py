@@ -11,7 +11,7 @@ print()
 # Sorted function lets you display your list in a particular order but does not affect the actual order
 cars = ['bmw', 'audi', 'toyota', 'subaru']
 print("Here is the original list:")
-print(cars)                 # original order of list
+print(cars)                 # Original order of list
 print("\nHere is the sorted list:")
 print(sorted(cars))         # ordered list alphabetically and changed temporarily
 print("\nHere is the original list again:")
