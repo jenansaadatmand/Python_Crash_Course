@@ -13,7 +13,7 @@ cars = ['bmw', 'audi', 'toyota', 'subaru']
 print("Here is the original list:")
 print(cars)                 # Original order of list
 print("\nHere is the sorted list:")
-print(sorted(cars))         # ordered list alphabetically and changed temporarily
+print(sorted(cars))         # Ordered list alphabetically and changed temporarily
 print("\nHere is the original list again:")
 print(cars)                 # order of list still unchanged
 print("\n Here is the sorted list in reverse order:")
