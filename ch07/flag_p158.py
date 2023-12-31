@@ -8,7 +8,7 @@
 # Then, all our other tests (to see if an event has occurred that should set the flag to False) can be neatly organized in the rest of the program.
 
 # Adding a flag to parrot.py
-# Flag called active, will monitor wether or not the program should continue running
+# Flag called active, will monitor whether or not the program should continue running
 
 prompt = "\nTell me something, and I will repeat it back to you: "
 prompt += "\nEnter 'quit' to end the program."
