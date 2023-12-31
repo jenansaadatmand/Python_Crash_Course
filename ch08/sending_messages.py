@@ -57,7 +57,7 @@ def send_messages(messages, sent_messages):
     print("\nSending all messages: ")
     while messages:
         current_message = messages.pop()
-        print(current_message) # prints the current_message variable full list before emptying it
+        print(current_message) # Prints the current_message variable full list before emptying it
         sent_messages.append(current_message)
 
 messages = ['hello there', 'how are you', ':)']
