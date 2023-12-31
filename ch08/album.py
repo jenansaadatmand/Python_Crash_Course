@@ -5,7 +5,7 @@
 
 # Use the function to make three dictionaries representing different albums
 # Print each return value to show that the dictionaries are storing the album information correctly
-# Use None to add an optional parameter to make_album() that allow you to store the number of songs on an album
+# Use None to add an optional parameter to make_album() that allows you to store the number of songs on an album
 # If calling line includes a value for the number of songs, 
 # Add that value to the album's dictionary
 # Make at least one new function call that includes the number of songs on an album
