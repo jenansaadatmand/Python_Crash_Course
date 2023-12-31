@@ -1,7 +1,7 @@
 # Lists are collection of items in a particular order
 bicycles = ['treck', 'cannondale', 'redline', 'specialized']
 print(bicycles)
-# accessing items in list using position or index
+# Accessing items in list using position or index
 print(bicycles[0])
 print(bicycles[2])
 print(bicycles[3])
