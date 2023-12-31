@@ -9,7 +9,7 @@
 # Within the function, you can access key-value pairs it recives just as you would for any dictionary.
 
 
-def build_profile(first, last, **user_info): # expects a first and last name, and as many name-value pairs as the user wants to enter, because of ** python stores name-value or key-value pairs in an empty dictionary 
+def build_profile(first, last, **user_info): # Expects a first and last name, and as many name-value pairs as the user wants to enter, because of ** python stores name-value or key-value pairs in an empty dictionary 
     """Build a dictionary containing everything we know about a user."""
     user_info['first_name'] = first # add by accessing dictionary by assigning key to value 
     user_info['last_name'] = last 
