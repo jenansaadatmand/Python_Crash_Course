@@ -3,7 +3,7 @@
 dimensions=(200, 50) # tuples: immutable cannot be changed
 print(dimensions)
 print(dimensions[0]) # Call first index in tuple
-print(dimensions[1]) # call second index in tuple
+print(dimensions[1]) # Call second index in tuple
 
 # Trying to change one item in tuple, impossible
 # dimensions[0] = 250
