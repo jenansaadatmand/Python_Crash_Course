@@ -17,4 +17,3 @@ for new_user in new_users:
         print(f"{new_user} is unavailable, please enter a new username:")
     else:
         print(f"{new_user} username is available")
-
