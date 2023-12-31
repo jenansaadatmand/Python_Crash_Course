@@ -8,7 +8,7 @@
 # Also you can share function modules with others without having to share the entire program.
 # knowing how to import functions also allows you to use libraries of functions that other programmers have written
 # There are several ways to import a module as follows: 
-# 1. importing entire module, 
+# 1. Importing entire module, 
 #import module 
 #import module
 #module_name.function_name() # call the function using dot notation
