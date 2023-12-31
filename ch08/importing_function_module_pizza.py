@@ -21,7 +21,7 @@
 # 4. Using as to give a module an Alias, 
 #import module_name as mn
 # mn.function_name() # to call the function
-# 5. and importing every/all functions in a module. not recommended method because python can confuse or overwrite other functions with the same name in your program
+# 5. and importing every/all functions in a module. not recommended method because Python can confuse or overwrite other functions with the same name in your program
 #from module_name import * 
 #function_name() to call the function
 
