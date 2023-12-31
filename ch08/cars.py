@@ -21,6 +21,7 @@ print(car)
 print("\n")
 
 # Solution 2: 
+
 def make_car(manufacturer, model, **kwargs): # can use **car_info instead
     """Stores information about a car in a dictionary."""
     kwargs['manufacturer'] = manufacturer
@@ -32,7 +33,8 @@ print(car)
 
 print("\n")
 
-# Solution 3
+# Solution 3:
+
 def make_car(manufacturer, model, **options):
     """Make a dictionary representing a car."""
     car_dict = {
