@@ -5,7 +5,7 @@
 #for number in range(1, 1_000_000): # making a list from 1 to 1 million
 #    print(number)
 
-# solution 2: 
+# Solution 2: 
 #numbers = list(range(1, 1_000_000))
 #print(numbers)
 
