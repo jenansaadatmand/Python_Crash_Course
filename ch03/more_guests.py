@@ -22,7 +22,7 @@ print(guest_list)
 guest_list.append('fofo') # Appending one guest to the end of the list
 print(guest_list)
 print()
-# printing new set of invitation messages for each guest 
+# Printing new set of invitation messages for each guest 
 for guest in guest_list:
     print(f"Hello {guest.title()}, you are invited to diner.")
 print()
