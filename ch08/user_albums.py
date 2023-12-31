@@ -39,7 +39,7 @@ print("Enter 'quit' at any time to stop.")
 
 while True:
     title = input(title_prompt)
-    if title == 'quit':  # must type quit not q on the prompt to work
+    if title == 'quit':  # Must type quit not q on the prompt to work
         break
     artist = input(artist_prompt)
     if artist == 'quit':
