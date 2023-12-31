@@ -11,7 +11,7 @@ while message != 'quit':  # compare the value of the message to 'quit',
     if message != 'quit':
         print(message)
 
-# Python has some value stored in message that it can check the first time it reaches the while loop
+# Python has some value stored in the message that it can check the first time it reaches the while loop
 # The first time the program runs and Python reaches the while statement, it needs to compare the value of message to 'quit', but no user input has been entered yet. If Python has nothing to compare, it won’t be able to continue running the program. 
 # To solve this problem, we make sure to give message an initial value. Although it’s just an empty string, it will make sense to Python and allow it to perform the comparison that makes the while loop work.
 # While loop w runs as long as the value of message is not 'quit'.
