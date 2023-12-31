@@ -27,7 +27,7 @@ for username, user_info in users.items():
 
 # Start accessing the inner dictionary
 # Variable user_info, which contains the dictionary of user information, has three keys: 'first','last', and 'location'.
-# use each key to generate a neatly formatted full name and location for each person,
+# Use each key to generate a neatly formatted full name and location for each person,
     full_name = f"{user_info['first']} {user_info['last']}"
     location = user_info['location']
 
