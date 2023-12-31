@@ -14,7 +14,7 @@ def make_album(artist, title, tracks = '0'):
     return album_dict
 
 
-#while True: # this is an infinite loop
+#while True: # This is an infinite loop
 
 #    print("\nEnter 'q' to exit.")
 #    artist = input("\nEnter artist's name: ")
