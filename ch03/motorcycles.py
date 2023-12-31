@@ -81,5 +81,5 @@ motorcycles.remove(too_expensive) # remove the variable
 print(motorcycles)
 print(f"\nA {too_expensive} is too expensive for me.")
 
-# organizing a list: presenting information in a particular order, preserve or change original order of list 
+# Organizing a list: presenting information in a particular order, preserve or change original order of list 
 
