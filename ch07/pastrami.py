@@ -1,5 +1,5 @@
 # No pastrami: using the list sandwich_orders from exercise 7-8
-# Make sure the sandwich 'pastrami' appears in th e list at least three times
+# Make sure the sandwich 'pastrami' appears in the list at least three times
 # Add a code near the beginning of your program to print a message saying the deli has run out of pastrami,
 # and then use a while loop to remove all occurrences of 'pastrami' from sandwich_orders.
 # Make sure no pastrami sandwiches end up in finished_sandwiches
