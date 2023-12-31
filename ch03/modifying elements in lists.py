@@ -56,7 +56,7 @@ motorcycles4.remove('ducati')       # Removing an item by value using remove() m
 print(motorcycles4)
 print()
 
-# you can also use remove() method to work with a value that's being removed from the list
+# You can also use remove() method to work with a value that's being removed from the list
 moto = ['honda', 'yamaha', 'suzuki', 'ducati']
 print(moto)
 too_expensive = 'ducati'   # assign a variable to ducati
