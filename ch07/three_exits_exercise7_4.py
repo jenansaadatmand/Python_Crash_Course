@@ -44,7 +44,7 @@
 #    else: 
 #        print(f"I'll add {topping.title()} to your pizza.")
 
-# Original excersize 7-5 movie tickets:
+# Original exercise 7-5 movie tickets:
 #prompt = "\nHow old are you?"
 #prompt += "\nEnter 'quit' after you finished:"
 
