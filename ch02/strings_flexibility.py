@@ -11,7 +11,7 @@ c = 'I told my friend, "Python is my favorite language!"'
 print(c)
 d = "The language 'Python' is named after Monty Python, not the snake."
 print(d)
-e = "One of Python's strength is its diverse and supportive community."
+e = "One of Python's strengths is its diverse and supportive community."
 print(e)
 # Changing Case in a string with Methods
 # Simplest task to do with strings is change the case of the words in a string
