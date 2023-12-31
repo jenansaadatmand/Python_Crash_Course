@@ -13,7 +13,7 @@ print()
 # 1. Appending elements to end of list using append() method
 # 2. Inserting elements into a list using insert() method
 # 3. Removing elements from a list according to its position in the list using del statement list name[index]
-# 4. removing element according to its position using the pop() method from any position in the list. useful when you want to use the value of an item after you remove it from a list 
+# 4. Removing element according to its position using the pop() method from any position in the list. useful when you want to use the value of an item after you remove it from a list 
 # 5. removing element by value by remove() method
 # organizing a list 
 # 1. sorting permanently with the sort() method
