@@ -22,7 +22,7 @@ def send_messages(messages, sent_messages):
 messages = ['hello there', 'how are you', ':)']
 show_messages(messages)
 sent_messages = []
-send_messages(messages[:], sent_messages) # call the function with a copy of the list of messages
+send_messages(messages[:], sent_messages) # Call the function with a copy of the list of messages
 
 print("\nFinal lists: ")
 print(messages) # prints the original list which shows that it retained its messages
