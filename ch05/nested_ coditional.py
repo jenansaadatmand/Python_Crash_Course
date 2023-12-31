@@ -1,4 +1,5 @@
 # If statement in a loop, writing conditional tests allowing to check any condition of interest
+
 cars = ['audi', 'bmw', 'subaru', 'toyota']
 
 for car in cars:
