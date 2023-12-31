@@ -7,7 +7,7 @@ print(a,b)
 print(b, a)
 print(a+b)
 # Flexibilty allows to use of quotes and apostrophes within a string
-c = 'I told my friend, "python is my favourite language!"'
+c = 'I told my friend, "Python is my favourite language!"'
 print(c)
 d = "The language 'Python' is named after Monty Python, not the snake."
 print(d)
