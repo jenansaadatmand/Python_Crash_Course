@@ -4,7 +4,7 @@
 # Try to modify one of the items, and make sure that Python rejects the change
 # The restaurant changes its menu, replacing two of the items with different foods
 # Add a line that writes the tuple
-# and then use a for loop to print each of the items on the revised menu
+# And then use a for loop to print each of the items on the revised menu
 
 menu_items = ("pizza", "curry", "fish", "chicken", "meat")
 print("You can choose from the following menu items:")
