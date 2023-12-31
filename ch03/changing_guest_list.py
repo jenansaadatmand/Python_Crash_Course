@@ -1,5 +1,5 @@
 # Exercise 3-5: Changing Guest List: you just heard that one of your guests can't make the dinner
-# So you need to send out a new set of invitations. you"ll have to think of someone else to invite
+# So you need to send out a new set of invitations. you"'ll have to think of someone else to invite
 # Start with your program from exercise 3-4.
 # Add a print() call at the end of your program stating the name of the guest who can't make it
 # Modify your list, replacing the name of the guest who can't make it with the name of the new person you are inviting
@@ -28,6 +28,6 @@ print(f"Hello {guest_list[0].title()}, you are still invited to dinner.")
 print(f"Hello {guest_list[1].title()}, you are still invited to dinner.")
 print(f"Hello {guest_list[2].title()}, you are still invited to dinner.")
 print()
-# alternative solution: 
+# Alternative solution: 
 for guest in guest_list:
     print(f"Hello {guest}, you are still invited to dinner.")
