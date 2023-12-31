@@ -1,7 +1,7 @@
 # Function returning a dictionary, takes textual information and returns a data structure
 # Function takes in parts of a name and returns a dictionary representing a person 
 
-def build_person(first_name, last_name): # function takes in first and last name puts them into a dictionary
+def build_person(first_name, last_name): # Function takes in first and last name puts them into a dictionary
     """Return a dictionary of information about a person."""
     person = {'first': first_name, 'last': last_name} # a dictionary is created, value ot first_name stored in first key, value of last_name stored in key last
     return person # entire dictionary returned
