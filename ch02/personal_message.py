@@ -7,5 +7,5 @@ print(f"Hello, {name}, would like to learn some Python today ?")
 
 # Solution # 2:
 name = "Eric"
-message = f"Hello {name}, would you like to learn some python today?"
+message = f"Hello {name}, would you like to learn some Python today?"
 print(message)
