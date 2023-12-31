@@ -17,7 +17,7 @@ print()
 # 5. Removing element by value by remove() method
 # organizing a list 
 # 1. sorting permanently with the sort() method
-# 2. sorting a list temporarily with the sorted() function
+# 2. Sorting a list temporarily with the sorted() function
 # 3. printint a list in Reverse order
 # 4. finding the length of a list
 motorcycles1 =  ['suzuki', 'yamaha', 'Honda']
