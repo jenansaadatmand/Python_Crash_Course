@@ -6,7 +6,7 @@
 prompt = "\nTell me something, and I will repeat it back to you: "
 prompt += "\nEnter 'quit' to end the program."
 message = '' # Set up a variable message to keep track of whatever value the user enters. define message as an empty string, ""
-while message != 'quit':  # compare the value of message to 'quit',
+while message != 'quit':  # compare the value of the message to 'quit',
     message = input(prompt)
     if message != 'quit':
         print(message)
