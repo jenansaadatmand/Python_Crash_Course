@@ -23,7 +23,7 @@ guest_list[2]= 'nana'
 #guest_list.insert(0, 'nana')
 print(guest_list)
 print()
-# printing a second set of invitations
+# Printing a second set of invitations
 print(f"Hello {guest_list[0].title()}, you are still invited to dinner.")
 print(f"Hello {guest_list[1].title()}, you are still invited to dinner.")
 print(f"Hello {guest_list[2].title()}, you are still invited to dinner.")
