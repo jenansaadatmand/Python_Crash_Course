@@ -14,7 +14,7 @@ print(f"Item at last index: {languages[-1].upper()}")
 print(f"Item at index 3: {languages[3].lower()}")
 print(f"Item at index -2: {languages[-2].title()}")
 print()
-# using individual values from a list using f-string to compose a message building sentences
+# using individual values from a list using f-string to compose a message-building sentences
 print("Using f-string to build sentences:")
 print(f"My fist language was {languages[2].title()}")
 print()
