@@ -8,7 +8,7 @@ print("Here is the original list:")
 print(languages)
 print()
 # use each function introduced in Chapter 3 at least once:
-# accessing elements in a list using their index
+# Accessing elements in a list using their index
 print(f"Item at index 5 is: {languages [5].title()}")
 print(f"Item at last index: {languages[-1].upper()}")
 print(f"Item at index 3: {languages[3].lower()}")
