@@ -35,7 +35,7 @@ print("Inserting item using insert():")
 languages.insert(1, 'spanish')
 print(languages)
 print()
-# removing elements permanently from a list from any position using del statement
+# Removing elements permanently from a list from any position using del statement
 print("Deleting item permanently using del statement:")
 del languages[1]
 print(languages)
