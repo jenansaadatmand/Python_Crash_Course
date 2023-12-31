@@ -12,7 +12,7 @@ unprinted_designs = ['phone case', 'root pendant', 'dodecahedron']
 completed_models = []
 
 # Simulate printing each design, until none are left. (use a while loop)
-# Move each desing to completed models after printing.
+# Move each design to completed models after printing.
 
 while unprinted_designs:
     current_design = unprinted_designs.pop() # pop each entry from the end from unprinted_designs, and store them in current_designs
