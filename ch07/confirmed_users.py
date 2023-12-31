@@ -8,7 +8,7 @@
 
 
 # Start with users that need to be verified,
-# and an empty list to hold confirmed users.
+# And an empty list to hold confirmed users.
 unconfirmed_users = ['alice', 'brian', 'candace']  # begin with a list of unconfirmed users
 confirmed_users = []  # an empty list to hold confirmed users
 
