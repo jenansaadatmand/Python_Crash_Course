@@ -14,6 +14,7 @@ else:
 print()
 
 # Version else block runs :
+
 alien_colors = 'yellow'
 if alien_colors == 'green':
     print("You just earned 5 points!")
