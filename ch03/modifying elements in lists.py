@@ -19,7 +19,7 @@ print()
 # 1. Sorting permanently with the sort() method
 # 2. Sorting a list temporarily with the sorted() function
 # 3. Printint a list in Reverse order
-# 4. finding the length of a list
+# 4. Finding the length of a list
 motorcycles1 =  ['suzuki', 'yamaha', 'Honda']
 print(motorcycles1)
 motorcycles1.append('ducati')  # adding new item to end of list using append() method
