@@ -5,7 +5,7 @@
 # Define a prompt that tells the user their two options: entering a message or entering the quit value (in this case, 'quit').
 prompt = "\nTell me something, and I will repeat it back to you: "
 prompt += "\nEnter 'quit' to end the program."
-message = '' # set up a variable message to keep track of whatever value the user enters. define message as an empty string, ""
+message = '' # Set up a variable message to keep track of whatever value the user enters. define message as an empty string, ""
 while message != 'quit':  # compare the value of message to 'quit',
     message = input(prompt)
     if message != 'quit':
