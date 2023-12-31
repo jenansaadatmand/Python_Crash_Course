@@ -21,7 +21,7 @@ print(f"Dictionary; {glossary['dictionary']}")
 print(f"Constant; {glossary['constant']}")
 print(f"Conditional test; {glossary['conditional test']}")
 print()
-# alternative solution 2
+# Alternative solution 2
 value = glossary['variable']
 print(f"Variable; {value}")
 value = glossary['list']
