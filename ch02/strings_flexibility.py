@@ -80,7 +80,7 @@ print("Languages:\n\tPython\n\tC\n\tJavaScript")
 # Stripping Whitespace, Python makes it easy to eliminate extraneous whitespace from data that people enter
 # Example eliminating whitespace from username when users log into the website via a username
 # To ensure that no whitespace exists at the right end of a string, use the rstrip() method
-favourite_language = 'python '  # value of variable contains extra whitespace at end of the string
+favourite_language = 'python '  # value of a variable contains extra whitespace at end of the string
 print(favourite_language)
 favourite_language.rstrip() # action of stripping whitespace from right of string can only can be see in terminal 
 
