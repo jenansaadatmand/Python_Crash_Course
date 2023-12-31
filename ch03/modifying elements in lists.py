@@ -51,7 +51,7 @@ print(popped_motorcycles3) # prints the last item that was removed and proves th
 print()
 motorcycles4 = ['suzuki', 'yamaha', 'honda', 'ducati']      
 print(motorcycles4)
-motorcycles4.remove('ducati')       # removing an item by value using remove() method if you don't know its position in the list
+motorcycles4.remove('ducati')       # Removing an item by value using remove() method if you don't know its position in the list
 
 print(motorcycles4)
 print()
