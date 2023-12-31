@@ -19,7 +19,7 @@ while polling_active:
     # Find out if anyone else is going to take the poll.
     # If they enter yes, the program enters the while loop again.
     repeat = input("Would you like to let another person respond? (yes/no)")
-    if repeat == 'no': # If user enters no, the polling_active flag is set to False, the while loop stops running, and the final code block at x displays the results of the poll.
+    if repeat == 'no': # If the user enters no, the polling_active flag is set to False, the while loop stops running, and the final code block at x displays the results of the poll.
         polling_active = False
 # Polling is complete. Show the results.
 print("\n--- Poll Results ---")
