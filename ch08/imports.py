@@ -1,7 +1,7 @@
 # Exercise 8-16 Imports: using a program you wrote that has one function in it,
 # Store that function in a separate file
 # Import the function into your main program file, 
-# and call the function using each of these approaches:
+# And call the function using each of these approaches:
 # Import module_name
 # From module_name import function_name
 # From module_name import function_name as fn
