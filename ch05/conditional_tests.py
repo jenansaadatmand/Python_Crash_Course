@@ -7,6 +7,7 @@
 #print(car == 'subaru')
 #print("\nIs car == 'audio' ? I predict False.")
 #print(car == 'audi')
+
 # Look closely at your results, and make sure you understand why each line evaluates to True or False
 # Create at least ten tests. 
 # Have at least five tests evaluate to True and another five tests evaluate to False
