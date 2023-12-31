@@ -8,7 +8,7 @@ glossary = {
     'list': 'collection of items in particular order',
     'dictionary': 'collection of key-value pair',
     'constant': 'All capital letters variable whose value stays the same throughout the life of the program',
-    'conditional test': 'expression within if statment that can be evaluated as True or False',
+    'conditional test': 'expression within if statement that can be evaluated as True or False',
     }
 for word, definition in glossary.items(): 
     print(f"\nWord: {word}")
