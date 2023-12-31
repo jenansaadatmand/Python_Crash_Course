@@ -58,7 +58,7 @@ first_owned = motorcycles.pop(0)
 print(f"The first motorcycle I owned was {first_owned.title()}.")
 print()
 
-# removing item by value using remove() method, when index is not known
+# Removing item by value using remove() method, when index is not known
 print(motorcycles) # to show list is empty
 if 'ducati' in motorcycles: # to check if item exists in the list
     motorcycles.remove('ducati')
