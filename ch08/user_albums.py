@@ -51,7 +51,7 @@ print("\nThanks for responding!")
 
 # Solution 3:
 
-#while True: # this is an infinite loop
+#while True: # This is an infinite loop
 
 #    prompt = "Enter artist name, "
 #    prompt += "(Enter 'q' to quit):"
