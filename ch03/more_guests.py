@@ -19,7 +19,7 @@ guest_list.insert(0, 'nana') # Adding one guest to the beginning of list
 print(guest_list)
 guest_list.insert(2, 'soso') # Adding one guest in the middle of list
 print(guest_list)
-guest_list.append('fofo') # appending one guest to the end of the list
+guest_list.append('fofo') # Appending one guest to the end of the list
 print(guest_list)
 print()
 # printing new set of invitation messages for each guest 
