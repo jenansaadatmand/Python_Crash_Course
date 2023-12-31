@@ -1,4 +1,4 @@
-# Alien colors # 1: imagine an alien was just hot down in a game
+# Alien colors # 1: Imagine an alien was just hot down in a game
 # Create a variable called alien_color and 
 # Assign it a value of 'green', 'yellow', or 'red'
 # Write an if statement to test whether the alien's color is green
