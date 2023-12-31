@@ -67,7 +67,7 @@ else:
     print("Item doesn't exist on the list")
 print()
 
-# making a new list: 
+# Making a new list: 
 motorcycles = ["honda", "suzuki", "ducati"]
 print(motorcycles)
 motorcycles.remove('ducati')
