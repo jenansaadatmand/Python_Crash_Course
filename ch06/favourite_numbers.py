@@ -3,7 +3,7 @@
 # Think of a favourite number for each person
 # and store each as a value in your dictionary
 # Print each person's name and their favourite number
-# for even more fun, poll a few friends and get some actual data for your program
+# For even more fun, poll a few friends and get some actual data for your program
 
 favourite_numbers = {
     'jimmy': 3, 
@@ -18,6 +18,7 @@ print(f"Tim's favourite number is: {favourite_numbers['tim']}")
 print(f"Roro's favourite number is: {favourite_numbers['roro']}")
 print(f"Soso's favourite number is: {favourite_numbers['soso']}")
 print()
+
 # Alternative solution
 
 num = favourite_numbers['jimmy']
