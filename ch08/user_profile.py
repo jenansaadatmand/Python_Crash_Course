@@ -1,6 +1,6 @@
-# Using arbitrary keywords arguments
+# Using arbitrary keyword arguments
 # Sometimes you'll want to accept an arbitrary number of arguments, but you won't know ahead of time what kind of information will be passed to the function
-# In this case, you write functions that accepts as many key-value pairs as the calling statement provides
+# In this case, you write functions that accept as many key-value pairs as the calling statement provides
 # Example, building user profiles, you know you will get information about the user profile
 # You know you'll get information about user, but you're not sure what kind of information you'll recieve.
 # The function build_profile() always takes in a first and last name, but it accepts an arbitrary number of keyword arguments as well
