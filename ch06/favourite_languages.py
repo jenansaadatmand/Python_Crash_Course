@@ -21,7 +21,7 @@ for name, language in favourite_languages.items():
     print(f"{name.title()}'s favourite language is {language.title()}")
 print()
 
-# looping through all keys using keys() method
+# Looping through all keys using keys() method
 for name in favourite_languages.keys():
     print(name.title())
 print()
