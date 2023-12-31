@@ -9,7 +9,7 @@
 #numbers = list(range(1, 1_000_000))
 #print(numbers)
 
-# solution 3:
+# Solution 3:
 list_num = list(range(1, 1_000_000))
 for x in list_num:
     print(x)
