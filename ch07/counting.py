@@ -3,7 +3,7 @@
 # Use a while loop to count up through a series of numbers
 # Program of while loop counts from 1 to 5
 
-current_number = 1 # assigning variable to 1 to start counting
+current_number = 1 # assigning a variable to 1 to start counting
 while current_number <=5: # set while loop to keep running as long as the value of current_number is less than or equal to 5
     print(current_number) # prints the value in the variable 
     current_number += 1 # increment/add by 1 each time you go through the loop
