@@ -16,7 +16,7 @@ print()
 # 4. Removing element according to its position using the pop() method from any position in the list. useful when you want to use the value of an item after you remove it from a list 
 # 5. Removing element by value by remove() method
 # Organizing a list 
-# 1. sorting permanently with the sort() method
+# 1. Sorting permanently with the sort() method
 # 2. Sorting a list temporarily with the sorted() function
 # 3. printint a list in Reverse order
 # 4. finding the length of a list
