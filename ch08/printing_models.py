@@ -1,6 +1,6 @@
 # Modifying a list in a function
 # Start with some designs that need to be printed.
-# When passing a list to a function, the function can modify the list contents
+# When passing a list to a function, the function can modify the list's contents
 # Any changes made within the function body are permanent.
 # A company that creates 3D printed models of designs that user submit
 # Consider designs that need to be printed are stored in  a list, and after being printed they're moved to a separate list
