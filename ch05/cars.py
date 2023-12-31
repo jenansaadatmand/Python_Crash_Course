@@ -1,7 +1,10 @@
 # Sorting a list alphabetically and permanently using sort() method
+
 cars=["bmw", 'audi', 'toyota', 'saburu']
 cars.sort()
 print(cars)
+print()
+
 # Sorting the list in reverse-alphabetical order by passing the argument reverse=True in sort() method
 # using sort(reverse=True)
 
@@ -10,7 +13,7 @@ print(cars)
 print()
 
 # Sorting a list temporarily and without affecting the original order
-# use sorted() function
+# Use sorted() function
 
 cars = ['bmw','audi', 'toyota', 'saburu']
 print("Here is the original list:")
