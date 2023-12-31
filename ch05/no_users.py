@@ -3,6 +3,7 @@
 # Remove all of the usernames from your list, and make sure the correct message is printed
 
 # This code does not work !
+
 usernames = ['john']
 for username in usernames:
     if username in usernames:
@@ -22,6 +23,7 @@ else:
 print()
 
 # Solution 3
+
 usernames = []
 if usernames:
     for username in usernames:
