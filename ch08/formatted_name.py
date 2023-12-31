@@ -32,7 +32,7 @@ musician = get_formatted_name('john','lee','hooker')
 print(musician)
 print()
 # This function does not always require a middle name argument
-# Making the middle name optional by giving them middle name argument an empty value
+# Making the middle name optional by giving them the middle name argument an empty value
 # Set the default value of middle_name to an empty string and move it to the end of the llist of parameters
 def get_formatted_name(first_name, last_name, middle_name=''):
     """Return a full name, neatly formatted."""
