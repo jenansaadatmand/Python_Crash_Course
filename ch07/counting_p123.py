@@ -1,4 +1,4 @@
-# Avoiding infinite loops, program keeps running forever
+# Avoiding infinite loops, the program keeps running forever
 # CTRL + C to stop an infinite loop
 # Program counting loop from 1 to 5 
 
