@@ -74,7 +74,7 @@ motorcycles.remove('ducati')
 print(motorcycles)
 
 # Also you can use remove() method to work with a value being removed and 
-# print a statement about it (why it was removed)
+# Print a statement about it (why it was removed)
 
 too_expensive = 'honda' # assign a variable for item to be removed
 motorcycles.remove(too_expensive) # remove the variable
