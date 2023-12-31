@@ -39,4 +39,3 @@ from build_profile_function import *
 user_profile = build_profile('jenan', 'saadatmand', age = 47, hair = 'black', eyes = 'brown', hobby = 'motorbiking')
 print(user_profile)
 print("\n")
-
