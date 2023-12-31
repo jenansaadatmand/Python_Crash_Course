@@ -28,7 +28,7 @@
 
 
 
-# using None or 0, as place holder with no specific value, which evaluates as false
+# Using None or 0, as place holder with no specific value, which evaluates as false
 # Use None to add an optional parameter to make_album that allows to store the number of songs
 # Program outcome of dictionary with tracks included.
 
