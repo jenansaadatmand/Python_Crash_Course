@@ -1,5 +1,5 @@
 # Using a while loop with lists and dictionaries
-# To keep trak of many users and inputs
+# To keep track of many users and inputs
 # A for loop is useful for looping through a list, but not to modify a list inside a for loop because python has trouble keeping track of items inside a for loop
 # Use a while loop, to modify a list or dictionary as you work with it, this allows to collect, store and organize inputs later
 # Moving items from one list to another
