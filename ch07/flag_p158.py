@@ -16,6 +16,6 @@ prompt += "\nEnter 'quit' to end the program."
 active = True # setting up a flag by assigning the variable active to True, so the program starts in active state
 while active: # As long as the active variable remains True, the loop will continue running
     message = input(prompt)
-    if message == 'quit':  # if statement inside the while loop, we check the value of message once the user enters their input.
+    if message == 'quit':  # if statement inside the while loop, we check the value of the message once the user enters their input.
         active = False # If the user enters 'quit', we set active to False, and the while loop stops.
     else: print(message)  # If the user enters anything other than 'quit' x, we print their input as a message.
