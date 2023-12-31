@@ -70,4 +70,3 @@ print()
 # Building a set directly using braces and separating the elements with commas
 languages = {'python', 'ruby', 'python', 'c'}
 print(languages)
-
