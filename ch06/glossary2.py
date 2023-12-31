@@ -16,6 +16,7 @@ for word, definition in glossary.items():
 print()
 
 # Solution 2
+
 for word, definition in glossary.items():
     print(f"\n{word.title()}; {definition} ")
 print()
