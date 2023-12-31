@@ -7,7 +7,7 @@ prompt += ("\nEnter 'quit' to end the program.")
 msg = ""
 while msg != 'quit':
     msg = input(prompt)
-    if msg != 'quit':  # this if test prevents the word quit to be printed on the screen but it allows the while loop to quit
+    if msg != 'quit':  # this if test prevents the word quit from being printed on the screen but it allows the while loop to quit
         print(msg)  # prints input or quit as actual message if you don't include an if test prior to it
 
 # In line 10 a modified version with if test is added 
