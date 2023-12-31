@@ -41,7 +41,7 @@
 # Printing each message on a different line
 
 #print("\nFinal messages:")
-#show_messages(messages) # because the list is empty, there are no messages to be printed
+#show_messages(messages) # Because the list is empty, there are no messages to be printed
 #show_messages(sent_messages) # all messages should be moved to this list
 
 # Solution 2 book
