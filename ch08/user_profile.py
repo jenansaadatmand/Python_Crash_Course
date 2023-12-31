@@ -22,7 +22,7 @@ print("\n")
 
 # Solution 2 using **kwargs (for keyword arguments)
 print("\nSolution when replacing **user_info with **kwargs: \n")
-def build_progile(first, last, **kwargs): # accept as many as keyword arguments = name-value or key-value pairs and store in an empty dictionary)
+def build_progile(first, last, **kwargs): # Accept as many as keyword arguments = name-value or key-value pairs and store in an empty dictionary)
     """Build a dictionary containing everything we know about a user."""
     user_info['first_name'] = first
     user_info['last_name'] = last
