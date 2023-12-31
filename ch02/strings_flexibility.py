@@ -46,7 +46,7 @@ print(full_name.upper())
 first_name = "ada"
 last_name = "lovelace"
 full_name = f"{first_name}{last_name}"
-print(f"Hello, {full_name.title()}!") # full name is used in a sentence that greets the user, title() method changes the name to title case, code returns nicely formated greeting
+print(f"Hello, {full_name.title()}!") # full name is used in a sentence that greets the user, title() method changes the name to title case, code returns nicely formatted greeting
 print(f"Hello, {full_name}!")
 
 
