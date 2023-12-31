@@ -21,7 +21,7 @@ dimensions= (200, 50)
 for dimension in dimensions: 
     print(dimension)
 print()
-# Overwriting a tuple by reassigning a new value to a variable that represent a tuple
+# Overwriting a tuple by reassigning a new value to a variable that represents a tuple
 dimensions = (200, 50)
 print("Original dimensions:")
 for dimension in dimensions:
