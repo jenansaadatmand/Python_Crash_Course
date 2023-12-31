@@ -90,7 +90,7 @@ print(sorted(languages, reverse=True))
 print(languages)
 print()
 
-# sorting a list in reverse chronological order using reverse()
+# Sorting a list in reverse chronological order using reverse()
 print("Sorting list in chronological reverse order using reverse():")
 languages.reverse()
 print(languages)
