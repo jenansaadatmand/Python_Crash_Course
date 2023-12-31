@@ -1,5 +1,5 @@
 # Adding a variable named message and associating a value information with it
-# variables are labels assigned to values, containers or boxes to store values
+# Variables are labels assigned to values, containers or boxes to store values
 # avariable references a certain value 
 message = "Hello Python World ! "
 print(message)
