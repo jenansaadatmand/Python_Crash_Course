@@ -94,7 +94,7 @@ print()
 print("Sorting list in chronological reverse order using reverse():")
 languages.reverse()
 print(languages)
-# finding the length of the list
+# Finding the length of the list
 print(len(languages))
 
 
