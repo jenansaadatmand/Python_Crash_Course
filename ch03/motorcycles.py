@@ -52,7 +52,7 @@ print()
 last_owned = motorcycles.pop()
 print(f"The last motorcycle I owned was a {last_owned.title()}.")
 print()
-# poping items from any position in a list by including the index/position in the parenthesis
+# Poping items from any position in a list by including the index/position in the parenthesis
 
 first_owned = motorcycles.pop(0)
 print(f"The first motorcycle I owned was {first_owned.title()}.")
