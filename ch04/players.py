@@ -16,4 +16,3 @@ print(players[2:])      # If you want a slice to include a second item to the en
 print(players[-3:])     # Output the last three elements in the list
 print(players[-4:-1:2]) # Third value indicates how many items to skip in a specified range
 print(players[:])       # print slice from beginning to end 
-
