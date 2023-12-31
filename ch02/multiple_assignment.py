@@ -13,7 +13,7 @@ universe_age = 14_000_000_000
 print(universe_age)
 
 # Constants. is like a variable whose value stays the same throughout the life of a program. users cannot change it
-# python uses all capital letters to indicate a variable should be treated as a constant and never be changed
+# Python uses all capital letters to indicate a variable should be treated as a constant and never be changed
 
 MAX_CONNECTIONS = 5000
 print(MAX_CONNECTIONS)
