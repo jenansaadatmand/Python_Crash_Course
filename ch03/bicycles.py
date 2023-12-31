@@ -6,5 +6,5 @@ print(bicycles[0])
 print(bicycles[2])
 print(bicycles[3])
 print(bicycles[-1])
-# you can use title(), lower(), and upper() methods on lists items
+# You can use title(), lower(), and upper() methods on lists items
 print(bicycles[0].title())
