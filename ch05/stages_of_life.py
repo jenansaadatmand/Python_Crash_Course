@@ -23,6 +23,7 @@ else:
 print()
 
 # Solution # 2:
+
 age = 17
 if age < 2:
     print("You're a baby")
@@ -36,7 +37,3 @@ elif age < 65:
     print("You're an adult!")
 else:
     print("You're an elder!") 
-
-
-
-
