@@ -32,4 +32,3 @@ for person in people:  # looping through the list
     age = person['age']
     city = person['city']
     print(f"{name}, of {city}, is {age} years old.")
-
