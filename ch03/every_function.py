@@ -79,7 +79,7 @@ print("Sorting list permenantly in reverse alphabetical order:")
 languages.sort(reverse=True)
 print(languages)
 print()
-# sorting a list alphabeticaly temporarily using sorted()
+# sorting a list alphabetically temporarily using sorted()
 print("Sorting list temporarily in alphabetical order using sorted():")
 print(sorted(languages))
 print(languages) # list original order unchanged
