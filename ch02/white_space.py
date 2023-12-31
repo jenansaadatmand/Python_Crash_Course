@@ -29,7 +29,7 @@ print()
 # Used to clean up user input before storing it in a program
 
 # Stripping whitespace eg. 'python' and 'python '
-# important when comparing two strings to be the same or not
+# Important when comparing two strings to be the same or not
 # example checking people's usernames when logging in to a website 
 # Python makes it easy to eliminate extra whitespace from data that people enter
 # Python looks for extra space on the right or left of a string
