@@ -75,7 +75,7 @@ languages.sort()
 print(languages)
 print()
 # sort() list permanently in reverse-alphabetical order
-print("Sorting list permenantly in reverse alphabetical order:")
+print("Sorting list permanently in reverse alphabetical order:")
 languages.sort(reverse=True)
 print(languages)
 print()
