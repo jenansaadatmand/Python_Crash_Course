@@ -2,7 +2,7 @@
 # You store first and last names separately and then call this function to display a neatly formatted full name 
 def get_formatted_name(first_name, last_name):
     """Return a full name, neatly formatted."""
-    full_name = f"{first_name} {last_name}"  #  function body assigned to variable
+    full_name = f"{first_name} {last_name}"  #  Function body assigned to variable
     return full_name.title() # function returns a value that is converted to title case
 musician = get_formatted_name('jimi', 'hendrix')  # call the function, the returned value is assigned to a variable
 print(musician)  # output neatly formatted name
