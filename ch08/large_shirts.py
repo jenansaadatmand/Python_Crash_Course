@@ -11,11 +11,12 @@ print()
 # Make a medium shirt
 make_shirt(size='medium'.title())
 print()
+
 # A shirt of any size with a different messge
 make_shirt(size='small'.title(), msg='I love flying')
 print()
 
-# Solution # 2: 
+# Solution 2: 
 def make_shirt(size='large', message='I love Python'):
     """Summarize the shirt that's going to be made"""
     print(f"\nI'm going to make a {size} t-shirt.")
