@@ -13,7 +13,7 @@
 prompt = "\nTell me something, and I will repeat it back to you: "
 prompt += "\nEnter 'quit' to end the program."
 
-active = True # setting up a flag by assigning the variable active to True, so program starts in active state
+active = True # setting up a flag by assigning the variable active to True, so the program starts in active state
 while active: # As long as the active variable remains True, the loop will continue running
     message = input(prompt)
     if message == 'quit':  # if statement inside the while loop, we check the value of message once the user enters their input.
