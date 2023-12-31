@@ -7,7 +7,7 @@ print(full_name)
 # Use f-string to compose complete messages using information associated with a variable
 print(f"Hello, {full_name.title() } !")
 
-# also you can use f-string to compose a message, then assign the entire message to a variable
+# Also you can use f-string to compose a message, then assign the entire message to a variable
 
 print()
 message  = f"Hello, {full_name.title()} !"
