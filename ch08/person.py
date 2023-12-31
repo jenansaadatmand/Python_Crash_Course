@@ -20,4 +20,3 @@ def build_person(first_name, last_name, age=None): # None is a placeholder value
     return person
 musician = build_person('jimi', 'hendrix', age=27)
 print(musician)
-
