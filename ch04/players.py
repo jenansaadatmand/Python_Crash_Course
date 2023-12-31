@@ -12,7 +12,7 @@ for player in players[:3]:
 
 print(players[1:4])  # Print the second, third, and fourth items
 print(players[:4])   # Omit first index in a slice python will start at beginning of the list
-print(players[2:])  # if you want a slice to include second item to the end of a list
+print(players[2:])  # if you want a slice to include a second item to the end of a list
 print(players[-3:])   # output the last three elements in the list
 print(players[-4:-1:2]) # third value indicates how many items to skip in a specified range
 print(players[:])  # print slice from beginning to end 
