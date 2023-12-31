@@ -1,4 +1,4 @@
-# using multiple lists and if statements 
+# Using multiple lists and if statements 
 # Watch for unusual toppings requests before building your pizza
 # We make two lists: available topppings and user requested toppings 
 # Available list can be a tupple as well, stable and immutable
