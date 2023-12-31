@@ -2,7 +2,7 @@
 # Functions separate blocks of code from your main program.
 # Using descriptive function name makes your program easier to follow
 # Storing your function in a separate file called module and then importing that module into your main program.
-# An import statement tells python to make the code in a module available in the currently running program file.
+# An import statement tells Python to make the code in a module available in the currently running program file.
 # Storing function in module allows you to use your function in different programs
 # Also allows you to hide the details of your function code and focus on higher logic level programs
 # Also you can share function modules with others without having to share entire program.
