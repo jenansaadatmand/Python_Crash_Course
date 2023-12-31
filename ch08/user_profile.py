@@ -11,7 +11,7 @@
 
 def build_profile(first, last, **user_info): # Expects a first and last name, and as many name-value pairs as the user wants to enter, because of ** python stores name-value or key-value pairs in an empty dictionary 
     """Build a dictionary containing everything we know about a user."""
-    user_info['first_name'] = first # add by accessing dictionary by assigning key to value 
+    user_info['first_name'] = first # Add by accessing dictionary by assigning key to value 
     user_info['last_name'] = last 
     return user_info # this returns a dictionary of the key-values of the user stored information to the function's call line
 
