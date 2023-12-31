@@ -77,7 +77,7 @@ print("\nThanks for responding!")
 
 #    if artist == 'q':
 #        break
-#    title = input(prompt + "title: ") # # add to the constant prompt, the word title
+#    title = input(prompt + "title: ") # # Add to the constant prompt, the word title
 #    if title == 'q':
 #        break
 #    album = make_album(artist, title)
