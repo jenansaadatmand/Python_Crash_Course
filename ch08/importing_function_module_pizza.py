@@ -15,7 +15,7 @@
 # 2. Importing specific functions, 
 #from module_name import function_name
 # function_name() to call the function
-# 3. using as to give a function an Alias,
+# 3. Using as to give a function an Alias,
 #from module_name import function_name as fn 
 # fn() to call the function
 # 4. using as to give a module an Alias, 
