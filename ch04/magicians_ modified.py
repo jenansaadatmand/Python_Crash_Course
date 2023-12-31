@@ -12,6 +12,7 @@ print()
 
 
 # Solution 2 longer repetitive way using an if statement
+
 for i in magicians:
     if i == "alice":
         print(f"{magicians[0].title()}, that was a great trick!.")
