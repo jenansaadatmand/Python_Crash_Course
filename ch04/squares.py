@@ -20,6 +20,7 @@ print(squares)
 print("\n\n")
 
 # Solution 3:
+
 # Using list comprehension: 
 # Creating a list of square numbers
 
