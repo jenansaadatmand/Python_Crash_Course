@@ -42,7 +42,7 @@ def make_album(artist, title, tracks=0):  # also you can set tracks to none inst
     if tracks:
         album_dict['tracks'] = tracks
     return album_dict
-#   else:      # another war is to omit line 41 and use the else: statetment
+#   else:      # another war is to omit line 41 and use the else: statement
 #        return album_dict
 
 album = make_album('samuel','bug', '4')
