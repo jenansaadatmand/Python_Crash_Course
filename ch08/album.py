@@ -29,7 +29,7 @@
 
 
 # using None or 0, as place holder with no specific value, which evaluates as false
-# Use None to add optional parameter to make_album that allows to store the number of songs
+# Use None to add an optional parameter to make_album that allows to store the number of songs
 # program outcome of dictionary with tracks included.
 
 def make_album(artist, title, tracks=0):  # also you can set tracks to none instead of 0
