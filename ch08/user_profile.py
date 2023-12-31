@@ -17,7 +17,7 @@ def build_profile(first, last, **user_info): # Expects a first and last name, an
 
 user_profile = build_profile('albert', 'einstein', location = 'princeton', field = 'physicss') # Call the function and assign it to a variable
 
-print(user_profile) # print the variable containing the function call returned data
+print(user_profile) # Print the variable containing the function call returned data
 print("\n")
 
 # Solution 2 using **kwargs (for keyword arguments)
