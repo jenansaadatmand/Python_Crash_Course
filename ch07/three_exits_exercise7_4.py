@@ -92,7 +92,7 @@ while active:
         print("Your ticket is $15.")
 
 
-# Use a break statement to exit the loop when the user enter a 'quit' value
+# Use a break statement to exit the loop when the user enters a 'quit' value
 # the same as the original solution of 7-5
 #while True:
 #    age = input(prompt)
