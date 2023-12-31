@@ -19,7 +19,7 @@
 #        for message in messages: # loop through each item
 #            
 #            current_message = messages.pop() # empties original list from the end
-#            print(current_message) # prints each messages 
+#            print(current_message) # Prints each messages 
 #            sent_messages.append(current_message) # moves and fills messages into printed_messages new list
 
 #print("\nShowing all messages: ")
