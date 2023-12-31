@@ -68,7 +68,7 @@ languages.remove(difficult_lang)
 print(f"\n{difficult_lang.title()} is a difficult language to learn")
 print(languages)
 print()
-# organizing a list and sorting it
+# Organizing a list and sorting it
 # sort() a list alphabetically and permanently 
 print("Sorting list alphabetically and permanently:")
 languages.sort()
