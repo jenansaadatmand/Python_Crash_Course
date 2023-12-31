@@ -59,7 +59,7 @@ print()
 # You can also use remove() method to work with a value that's being removed from the list
 moto = ['honda', 'yamaha', 'suzuki', 'ducati']
 print(moto)
-too_expensive = 'ducati'   # assign a variable to ducati
+too_expensive = 'ducati'   # Assign a variable to ducati
 moto.remove(too_expensive) # use variable to tell python which value to remove from the list but still accessible through the variable allowing us to print a statement
 print(moto) # remove 'ducati' and give it a reason for removing it from the list
 print(f"\nA {too_expensive.title()} is too expensive for me.") # \n for new line to be printed before the statement
