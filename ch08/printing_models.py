@@ -54,7 +54,7 @@ unprinted_designs = ['phone case', 'robot pendant', 'dodecahedron']
 completed_models = [] # empty list that will hold the completed models
 
 # Call two functions with the right arguments
-print_models(unprinted_designs, completed_models) # pass two lists when calling the function
+print_models(unprinted_designs, completed_models) # Pass two lists when calling the function
 show_completed_models(completed_models) # pass one parameter when calling the function
 
 # If we need to print more designs we simply call print_models() again
