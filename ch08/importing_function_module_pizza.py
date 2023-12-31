@@ -28,7 +28,7 @@
 
 
 
-#1. Importing an Entire modules using the dot notation
+#1. Importing an Entire module using the dot notation
 # First create a module, then import it to your program file
 
 # A module is a file ending in .py that contains the code you want to import into your program
