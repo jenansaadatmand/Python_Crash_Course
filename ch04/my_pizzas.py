@@ -5,7 +5,7 @@
 # Add a different pizza to the list friend_pizzas
 # Prove that you have two separate lists
 # Print the message My favourite pizzas are:
-# and then use a for loop to print the second list
+# And then use a for loop to print the second list
 # Make sure each new pizza is stored in the appropriate list
 
 
