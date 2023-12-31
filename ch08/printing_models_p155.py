@@ -2,7 +2,7 @@
 # Write an import statement at the top of printing_models_p155.py, 
 # And modify the file to use the imported functions
 
-import printing_functions as pf # using as to give a module an alias, shorter name
+import printing_functions as pf # Using as to give a module an alias, shorter name
 
 
 unprinted_designs = ['phone case', 'robot pendant', 'dodecahedron']
