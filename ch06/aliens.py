@@ -30,6 +30,7 @@ for alien in aliens[:3]:
         alien['color'] = 'yellow'
         alien['speed'] = 'medium'
         alien['points'] = 10
+        
 # Expand this loop by adding an elif block that turns yellow
 #Aliens into red, fast moving ones worth 15 points each
     elif alien['color'] == 'yellow':
@@ -39,6 +40,7 @@ for alien in aliens[:3]:
 
 
 # Show the first 5 aliens
+
 for alien in aliens[:5]:    # use a slice to print the first five aliens
     print(alien)
 print("...")        
