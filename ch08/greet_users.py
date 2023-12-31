@@ -1,7 +1,7 @@
 # Passing a list to a function
 # List of names, numbers, dictionaries ....etc
 # When you pass a list to a function, the function gets direct access to the contents of the list
-# We have a list of users, we want to print  a greeting to each
+# We have a list of users, and we want to print  a greeting to each
 # Program sends a personalized greeting to each user by sends a list of names to a function called greet_users(), which greets each person in the list individually
 
 def greet_users(names): # define the function to expect list of names, which it assigns to a parameter names
