@@ -16,7 +16,7 @@ print(f"Hello everone, sadly Spoiler cannot make it for dinner.")
 # Modify element by replacement at index 
 guest_list[2]= 'nana' 
 
-# delete then append or insert approach
+# Delete then append or insert approach
 #del guest_list[2] 
 #print(guest_list)
 #guest_list.append('nana') # appends at end of list
