@@ -33,7 +33,7 @@ motorcycles2.append('yamaha')
 motorcycles2.append('suzuki')
 print(motorcycles2)
 print()
-motorcycles2.insert(0, 'ducati')        # inserting element using insert()
+motorcycles2.insert(0, 'ducati')        # Inserting element using insert()
 print(motorcycles2)
 del motorcycles2[0]                     # removing element from the list according to position using del statement
 print(motorcycles2)
