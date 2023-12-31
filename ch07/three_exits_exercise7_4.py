@@ -1,4 +1,4 @@
-# Exercise 7-6: Three exits: write diffrerent versions of either excersize 7-4 or exercise 7-5 that do each of the following at least once:
+# Exercise 7-6: Three exits: write different versions of either excersize 7-4 or exercise 7-5 that do each of the following at least once:
 # Use a conditional test in the while statement to stop the loop.
 # Use an active variable to control how long the loop runs
 # Use a break statement to exit the loop when the user enter a 'quit' value
