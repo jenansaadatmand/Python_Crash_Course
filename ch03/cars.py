@@ -1,5 +1,5 @@
 cars = ['bmw', 'audi', 'toyota', 'subaru']
-cars.sort()   # sort them alphabetically, sort method changes the order permanently and we can never revert back to original order
+cars.sort()   # Sort them alphabetically, sort method changes the order permanently and we can never revert back to original order
 print("\nHere is the list sorted alphabetically:")
 print(cars)  
 # Sort list in reverse alphabetical order permanently by passing the argument reverse=True to the sort() method
