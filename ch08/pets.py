@@ -11,7 +11,7 @@ describe_pet('hamster', 'harry')  # Pass postional argument when recalling a fun
 # Add another positional argument to the called function for a different pet
 # Make sure the order of the arguments in your function call matches the order of the parameters in the function’s definition
 describe_pet('dog', 'willie')
-describe_pet('harry', 'hamster')  # order of positional arguments matter
+describe_pet('harry', 'hamster')  # Order of positional arguments matter
 print()
 print()
 # A keyword argument is a name-value pair that you pass to a function.
