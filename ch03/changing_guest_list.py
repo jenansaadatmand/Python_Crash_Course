@@ -1,5 +1,5 @@
 # Exercise 3-5: Changing Guest List: you just heard that one of your guests can't make the dinner
-# so you need to send out a new set of invitations. you"ll have to think
+# So you need to send out a new set of invitations. you"ll have to think
 # of someone else to invite
 # start with your program from exercise 3-4.
 # Add a print() call at the end of your program stating the name of the guest who can't make it
