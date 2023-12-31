@@ -1,5 +1,5 @@
 # Favourite fruit: Make a list of your favourite fruits
-# and then write a series of independent if statements that check for certain fruits in your list
+# And then write a series of independent if statements that check for certain fruits in your list
 # Make a list of your three favourite fruits and call it favourite_fruits
 # Write five if statements 
 # Each should check whether a certain kind of fruit is in your list
