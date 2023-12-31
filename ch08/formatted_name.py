@@ -8,7 +8,7 @@ musician = get_formatted_name('jimi', 'hendrix')  # Call the function, the retur
 print(musician)  # output neatly formatted name
 print()
 
-# We could have used regular print function only
+# We could have used the regular print function only
 print('Jimi Hendrix')
 print()
 
