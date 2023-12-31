@@ -21,7 +21,7 @@ print(sorted(cars, reverse=True))  # Sorted list alphabetically and in reverse o
 print()
 
 # Printing a list in reverse order with reverse() method permanently but not alphabetically, reverse order of original list
-# but you can reverse back the order to original order by applying reverse() a second time
+# But you can reverse back the order to original order by applying reverse() a second time
 cars = ['bmw', 'audi', 'toyota', 'subaru']
 print(cars)
 cars.reverse()
