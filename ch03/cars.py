@@ -15,7 +15,7 @@ print(cars)                 # Original order of list
 print("\nHere is the sorted list:")
 print(sorted(cars))         # Ordered list alphabetically and changed temporarily
 print("\nHere is the original list again:")
-print(cars)                 # order of list still unchanged
+print(cars)                 # Order of list still unchanged
 print("\n Here is the sorted list in reverse order:")
 print(sorted(cars, reverse=True))  # sorted list alphabetically and in reverse order temporirly
 print()
