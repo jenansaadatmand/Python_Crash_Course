@@ -25,7 +25,7 @@ languages[0]= 'italian'
 print(languages)
 print()
 # Adding elements to a list 
-# appending elements to the end of a list
+# Appending elements to the end of a list
 print("Appending item using append():")
 languages.append('russian')
 print(languages)
