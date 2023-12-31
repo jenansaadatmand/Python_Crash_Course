@@ -19,7 +19,7 @@
 #message = ""
 #while message != 'quit':
 #    message = input(prompt)
-#    if message != 'quit': # now the program makes a quick check before displaying the message and only prints the message if it does not match the quit value
+#    if message != 'quit': # Now the program makes a quick check before displaying the message and only prints the message if it does not match the quit value
 #        print(f"I will add {message} to your pizza.")
 
 # Use an active variable (flag) to control how long the loop runs
