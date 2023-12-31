@@ -73,7 +73,7 @@ print("\nThanks for responding!")
 #prompt = "Enter " # Assign a prompt as constant
 
 #while True: # This is an infinite loop
-#    artist = input(prompt + "artist: ") # add to the constant prompt, the word artist
+#    artist = input(prompt + "artist: ") # Add to the constant prompt, the word artist
 
 #    if artist == 'q':
 #        break
