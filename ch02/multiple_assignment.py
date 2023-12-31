@@ -1,4 +1,4 @@
-# Multiple assignment. assign values to more than one variabble using just a single line
+# Multiple assignment. assign values to more than one variable using just a single line
 # Technique useful for when initializing a set of numbers
 # How you can initialize the variables x, y, z to zero
 
