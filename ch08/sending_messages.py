@@ -31,7 +31,7 @@
 
 # Printing the list of the messages
 #print("\nFinal lists:")
-#print("- Messages list:", end=' ') # don't want your next string to be on a new line. Here's an example: print("Hello there!", end = '')
+#print("- Messages list:", end=' ') # Don't want your next string to be on a new line. Here's an example: print("Hello there!", end = '')
 #print(messages) # prints emptied list
 #print("- Sent_messages list:", end=' ')
 #print(sent_messages) # prints populated list
