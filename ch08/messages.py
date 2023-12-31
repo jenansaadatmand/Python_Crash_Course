@@ -12,7 +12,7 @@ show_messages(messages)
 
 print("\n")
 
-# Solution 2
+# Solution 2:
 short_msgs = ['I love you', 'Hello, how are you?', 'I love Python']
 
 def show_messages(short_msgs):
