@@ -14,7 +14,7 @@ build_profile('jenan', 'saadatmand', age= '47', hair = 'brown', hobby = 'motorbi
 print("\n")
 
 
-# Solution 2
+# Solution 2:
 def build_profile(first, last, **user_info): # also can use **kwargs
     """Builds a dictionary containing everything we know about a user."""
     user_info['first'] = first
