@@ -3,7 +3,7 @@
 def greet_user():   # Function definition, parenthesis is empty which holds what kind of information is needed for the function to do its work
 # Body of function
     """Display a simple greeting.""" # docstring decribes what the function does, enclosed in tripple quotes, used by python to generate documentation for the function in the program
-    print("Hello!")     # actual code in the body of the function, this function has only one job 
+    print("Hello!")     # Actual code in the body of the function, this function has only one job 
 # Call the function for python to excute it:
 greet_user() # you can add any necessary information in the parenthesis if required
 print()
