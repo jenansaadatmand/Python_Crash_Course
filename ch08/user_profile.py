@@ -5,7 +5,7 @@
 # You know you'll get information about user, but you're not sure what kind of information you'll receive.
 # The function build_profile() always takes in a first and last name, but it accepts an arbitrary number of keyword arguments as well
 # You'll often see the **kwargs parameter used to collect non-specific keyword arguments
-# The double asterisk ** before the user_info parameter causes python to create an empty dictionary called user_info and pack whatever name-value pairs it recieves into this dictionary 
+# The double asterisk ** before the user_info parameter causes Python to create an empty dictionary called user_info and pack whatever name-value pairs it recieves into this dictionary 
 # Within the function, you can access key-value pairs it recives just as you would for any dictionary.
 
 
