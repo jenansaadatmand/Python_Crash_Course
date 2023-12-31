@@ -33,7 +33,7 @@ print("\n")
 # Second function will summarize the prints that have been made
 # Use descriptive function names for ease of understanding
 
-def print_models(unprinted_designs, completed_models): # Define a function with two prameters, a list of designs that need to be printed, and a list of completed models
+def print_models(unprinted_designs, completed_models): # Define a function with two parameters, a list of designs that need to be printed, and a list of completed models
     """simulate printing each design, until none are left. 
        Move each design to completed_models after printing."""
     while unprinted_designs:
