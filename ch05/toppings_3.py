@@ -6,7 +6,7 @@
 available_toppings = ['mushrooms', 'olives', 'green peppers', 'pepperoni', 'pineapple', 'extra cheese']
 requested_toppings = ['mushrooms', 'french fries', 'extra cheese']
 
-for requested_topping in requested_toppings:  # loop through the list
+for requested_topping in requested_toppings:  # Loop through the list
     if requested_topping in available_toppings:  # Inside the loop, check to see if each requested topping is in the available list
         print(f"Adding {requested_topping}.")
     else:
