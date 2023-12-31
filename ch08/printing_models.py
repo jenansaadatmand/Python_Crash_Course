@@ -21,7 +21,7 @@ while unprinted_designs:
 
 # Displays all completed models.
 print("\nThe following models have been printed")
-for completed_model in completed_models: # a for loop, will print each one alone not as a list
+for completed_model in completed_models: # A for loop, will print each one alone not as a list
     print(completed_model)
 
 print("\n")
