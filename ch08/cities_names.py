@@ -2,7 +2,7 @@
 # The function should return a string formatted like this: 
 # " Santiago, Chile"
 # Call your function with at least three city-country pairs, and 
-# print the values that are returned
+# Print the values that are returned
 
 def city_country(city, country):
     """Returns a neatly formatted string like 'Santiago, Chile'."""
