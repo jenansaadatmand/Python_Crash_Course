@@ -20,7 +20,7 @@ users = {
             'location': 'paris'
             },
         }
-# loop through the users dictionary
+# Loop through the users dictionary
 # Python assigns each key to the variable username, and the dictionary associated with each username is assigned to the variable user_info.        
 for username, user_info in users.items():  
     print(f"\nUsername: {username}")  # Once inside the main dictionary loop, we print the username
