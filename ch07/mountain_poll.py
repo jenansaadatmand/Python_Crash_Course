@@ -3,7 +3,7 @@
 # Polling program in which each pass through the loop prompts for the participant's name and response
 # Store the data we gather in a dictionary to connect each response with a particular user
 
-responses = {}  # defines an empty dictionary 
+responses = {}  # Defines an empty dictionary 
 # Set a flag to indicate that polling is active.
 polling_active = True
 
