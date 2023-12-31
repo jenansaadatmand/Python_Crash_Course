@@ -1,4 +1,4 @@
-# Define a rectangle dimensions using a tuple
+# Define a rectangle's dimensions using a tuple
 
 dimensions=(200, 50) # tuples: immutable cannot be changed
 print(dimensions)
