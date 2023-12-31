@@ -22,7 +22,7 @@ print("Is motorcycle != 'suzuki' ? I predict False.")
 print(motorcycle != 'suzuki')
 print()
 
-# test for inequality
+# Test for inequality
 if motorcycle != 'harely':
     print("Test is False!")
 print()
