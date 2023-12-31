@@ -70,7 +70,7 @@ print(languages)
 print()
 # organizing a list and sorting it
 # sort() a list alphabetically and permanently 
-print("Sorting list alphabetically and permenantly:")
+print("Sorting list alphabetically and permanently:")
 languages.sort()
 print(languages)
 print()
