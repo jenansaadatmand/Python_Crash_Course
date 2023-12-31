@@ -93,7 +93,7 @@ while active:
 
 
 # Use a break statement to exit the loop when the user enters a 'quit' value
-# the same as the original solution of 7-5
+# The same as the original solution of 7-5
 #while True:
 #    age = input(prompt)
 #    if age == 'quit':
