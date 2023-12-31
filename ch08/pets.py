@@ -25,7 +25,7 @@ print()
 # Default values for parameters, exclude the argument value in the function call
 # Example most function calls used to describe an animal_type to 'dog'
 
-def describe_pet(pet_name, animal_type = 'dog'):    # setting a default value when defining the function
+def describe_pet(pet_name, animal_type = 'dog'):    # Setting a default value when defining the function
     """Display information about a pet."""
     print(f"\nI have a {animal_type}.")
     print(f"My {animal_type}'s name is {pet_name.title()}.")
