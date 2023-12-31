@@ -2,7 +2,7 @@
 # And then use a for loop to print the numbers
 # (if the output is taking too long, stop it by pressing CTRL-C) or by closing the output window)
 
-#for number in range(1, 1_000_000): # making a list from 1 to 1 million
+#for number in range(1, 1_000_000): # Making a list from 1 to 1 million
 #    print(number)
 
 # Solution 2: 
