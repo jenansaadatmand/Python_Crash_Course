@@ -48,7 +48,7 @@ print()
 
 
 favorite_language = 'python '
-favorite_language = favorite_language.rstrip() # reassign the stripped value to the variable
+favorite_language = favorite_language.rstrip() # Reassign the stripped value to the variable
 print(favorite_language) # stripped permanently due to reassingment of variable
 
 print()
