@@ -20,7 +20,7 @@ print("Here is the original list:")
 print(cars)
 print("\nHere is the sorted list:")
 print(sorted(cars))
-print("\nHere is the original list agian:") # unchanged original order of list
+print("\nHere is the original list agian:") # Unchanged original order of list
 print(cars)
 
 # Sorted() function can also accept reverse=True argument
