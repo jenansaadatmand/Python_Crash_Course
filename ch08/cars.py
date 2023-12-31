@@ -1,5 +1,5 @@
 # Cars: write a function that stores information about a car in a dictionary
-# The function should always recieve a manufacturer and a model name
+# The function should always receive a manufacturer and a model name
 # It should then accept an arbitrary number of keyword arguments
 # Call the function with the required information and two other name-value pairs, 
 # Such as a color or an optional feature
