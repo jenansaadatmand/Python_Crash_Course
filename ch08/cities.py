@@ -14,7 +14,7 @@ describe_city('toronto', 'Canada')
 
 print()
 
-# Solution # 2:
+# Solution 2:
 
 def describe_city(city, country='chile'):
     """Describe a city."""
