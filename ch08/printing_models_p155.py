@@ -10,7 +10,7 @@ completed_models = [] # empty list that will hold the completed models
 
 # Call two functions with the right arguments from the imported module
 
-pf.print_models(unprinted_designs, completed_models) # pass two lists when calling the function
+pf.print_models(unprinted_designs, completed_models) # Pass two lists when calling the function
 pf.show_completed_models(completed_models) # pass one parameter when calling the function
 
 
