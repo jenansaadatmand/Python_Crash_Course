@@ -73,7 +73,7 @@ print("languages:\nPython\nC\tJavaScript\n")
 
 
 # Combine tabs and newlines in a single string using "\n\t", tells Python to move to a new line, and start the next line with a tab
-#use a one-line string to generate four lines of output
+#Use a one-line string to generate four lines of output
 
 print("Languages:\n\tPython\n\tC\n\tJavaScript")
 
