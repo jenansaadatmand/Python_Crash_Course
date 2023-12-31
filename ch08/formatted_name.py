@@ -23,7 +23,7 @@ print()
 
 # Making an argument optional, so people using the function can choose to provide extra information only if they want to
 # Expand get_formatted_name() to handle middle names as well
-# This function always requires middle name argument
+# This function always requires a middle name argument
 def get_formatted_name(first_name, middle_name, last_name):
         """Return a full name, nestly formatted"""
         full_name= f"{first_name} {middle_name} {last_name}"
