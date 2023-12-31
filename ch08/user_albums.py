@@ -49,7 +49,7 @@ while True:
 print("\nThanks for responding!")
 
 
-# Solution 3
+# Solution 3:
 
 #while True: # this is an infinite loop
 
