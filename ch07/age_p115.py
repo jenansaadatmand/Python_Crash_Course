@@ -1,5 +1,5 @@
 # Using int() to Accept Numerical Input
-# When using input() function, python interpret everything the user enters as a string
+# When using input() function, python interprets everything the user enters as a string
 # Program asks for user's age
 # int() function, treat the input as a numerical value.
 age = input("How old are you? ")
