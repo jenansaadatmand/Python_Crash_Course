@@ -12,7 +12,7 @@ print(f'I would like to own a crusing {mode_transport[5].title()}')
 print()
 
 
-# solution 2
+# Solution 2
 mode_transport = ['motorcycle', 'car', 'bus', 'train', 'aeroplane', 'ship']
 msg = 'I would like to own a ' 
 print(f'{msg}{mode_transport[0].title()}')
