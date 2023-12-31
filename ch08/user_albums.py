@@ -28,7 +28,7 @@ def make_album(artist, title, tracks = '0'):
 #print("\nThanks for responding!")
 
         
-# Solution 2
+# Solution 2:
 
 # Prepare the prompts.
 title_prompt = "\nWhat album are you thinking of? "
