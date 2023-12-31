@@ -1,4 +1,4 @@
-# syntax to modifying an element in a list is similar to the syntax for accessing an element in a list
+# Syntax to modifying an element in a list is similar to the syntax for accessing an element in a list
 # name of list[index of element to change] = new value 
 # modifying elements in a list. Changing the value of the first item in the list
 motorcycles = ['honda', 'yamaha', 'suzuki']
