@@ -84,7 +84,7 @@ print("Sorting list temporarily in alphabetical order using sorted():")
 print(sorted(languages))
 print(languages) # list original order unchanged
 print()
-# sorting a list in reverse-alphabetical order temporarily
+# Sorting a list in reverse-alphabetical order temporarily
 print("Sorting list temporarily in alphabetical reverse order using sorted():")
 print(sorted(languages, reverse=True))
 print(languages)
