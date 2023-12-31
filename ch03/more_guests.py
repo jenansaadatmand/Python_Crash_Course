@@ -1,5 +1,5 @@
 # Exercise 3-6 More guests: you just found a bigger dinner table, so now
-# more space is available. Think of three guests to invite to dinner
+# More space is available. Think of three guests to invite to dinner
 # Start with your program from exercise 3-4 or 3-5
 # Add a print() call to the end of your program, informing people that you found a bigger table
 # use insert() to add one new guest to the beginning of your list
