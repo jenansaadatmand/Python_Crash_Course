@@ -16,6 +16,6 @@ print()
 def greet_user(username): # function accepts any value as the username you specify, function requires a value for the variable username which is a parameter
     """Display a simple greeting."""
     print(f"Hello, {username.title()}")
-greet_user('jesse') # passing information to the function in order to call it, The value 'jesse' in greet_user('jesse') is an argument.
+greet_user('jesse') # passing information to the function to call it, The value 'jesse' in greet_user('jesse') is an argument.
 greet_user('jimmy')
 greet_user(username='toto')
