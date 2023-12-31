@@ -52,7 +52,7 @@ print("Here is the popped item:")
 print(popped_lang.title())
 print(languages)
 print()
-# Popping items from any position in  alist by index
+# Popping items from any position in  a list by index
 print("Popping items by position/index:")
 popped_lang = languages.pop(3)
 print(languages)
