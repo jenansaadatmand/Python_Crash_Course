@@ -12,7 +12,7 @@ print("\n")
 # Position on left edge of the screen, 25 pixels down from the top
 # Screen coordinates usually start at the upper-left corner of screen
 # We will place alien on the left edge by setting the X-coordinate to 0 and 25 pixels from the top
-# by setting its Y-coordinate to positive 25
+# By setting its Y-coordinate to positive 25
 alien_0['x_position'] = 0 # adding new key-value pais
 alien_0['y_position'] = 25
 print(alien_0)
