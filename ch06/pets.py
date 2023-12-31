@@ -30,7 +30,7 @@ pet = {
        }
 pets.append(pet)
 
-for pet in pets: # displays information about each pet
+for pet in pets: # Displays information about each pet
     print(f"\n{pet['name'].title()}:")
     for key, value in pet.items():
         print(f"\t{key}:{value}")
@@ -38,6 +38,7 @@ for pet in pets: # displays information about each pet
 print()
 
 # Solution # 2: 
+
 for pet in pets: 
     print(f"\nHere's what I  know about {pet['name'].title()}:")
 for key, value in pet.items():
