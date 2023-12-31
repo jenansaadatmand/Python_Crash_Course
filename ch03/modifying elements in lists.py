@@ -38,7 +38,7 @@ print(motorcycles2)
 del motorcycles2[0]                     # Removing element from the list according to position using del statement
 print(motorcycles2)
 print()
-del motorcycles2[1]                     # delete the second item in the list
+del motorcycles2[1]                     # Delete the second item in the list
 print(motorcycles2)
 print()
 # when want to use the value of an item afeter you removed it from the list, removing an item using the pop() method
