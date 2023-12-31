@@ -1,5 +1,5 @@
 # Using continue in a loop
-# Use continue statement to return to the beginning of the loop based on the result of a conditional test.
+# Use the continue statement to return to the beginning of the loop based on the result of a conditional test.
 # Program with a loop that counts from 1 to 10 but prints only the odd numbers in that range
 
 current_number = 0  # set curreny number to 0
