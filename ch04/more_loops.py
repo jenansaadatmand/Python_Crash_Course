@@ -1,5 +1,5 @@
 # More loops: All versions of food.py page 63 
-# in this section have avoided using for loops when printing to save space
+# In this section have avoided using for loops when printing to save space
 # Choose a version of foods.py
 # And write a two for loops to print each list of foods
 
