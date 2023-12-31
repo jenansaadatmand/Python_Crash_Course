@@ -40,7 +40,7 @@ print("Deleting item permanently using del statement:")
 del languages[1]
 print(languages)
 print()
-# Remove items using pop() method from the end of the list and assigning to a variable to be used somewhere else
+# Remove items using pop() method from the end of the list and assign them to a variable to be used somewhere else
 print("Removing item temporarily using pop():")
 popped_lang = languages.pop()
 print("Here is the popped item:")
