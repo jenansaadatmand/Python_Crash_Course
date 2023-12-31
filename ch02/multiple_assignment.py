@@ -8,7 +8,7 @@ print(x)
 print(y)
 print(z)
 
-# Underscore in large numbers.  group 3 digitd togeather
+# Underscore in large numbers.  group 3 digits togeather
 universe_age = 14_000_000_000
 print(universe_age)
 
