@@ -22,7 +22,7 @@ print()
 # 4. Finding the length of a list
 motorcycles1 =  ['suzuki', 'yamaha', 'Honda']
 print(motorcycles1)
-motorcycles1.append('ducati')  # adding new item to end of list using append() method
+motorcycles1.append('ducati')  # Adding new item to end of list using append() method
 print(motorcycles1)
 print()
 
