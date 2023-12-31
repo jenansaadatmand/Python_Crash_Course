@@ -6,7 +6,7 @@
 def make_shirt(size, msg):
     """Prints a msg on a T-shirt"""
     print(f'\n{size} shirt is printed with the message: "{msg}"')
-make_shirt('medium', 'I love hocky') # positional argument
+make_shirt('medium', 'I love hockey') # positional argument
 print()
 make_shirt(size='small', msg='I love soccer') # keyword argument
 
