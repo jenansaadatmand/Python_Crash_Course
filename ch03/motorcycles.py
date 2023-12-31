@@ -47,7 +47,7 @@ print(popped_motorcycle) # to prove that we still have access to the removed val
 print()
 
 # Imagine the motorcycles are arranged in a chronological order
-# print a statement about the last motorcycle owned
+# Print a statement about the last motorcycle owned
 
 last_owned = motorcycles.pop()
 print(f"The last motorcycle I owned was a {last_owned.title()}.")
