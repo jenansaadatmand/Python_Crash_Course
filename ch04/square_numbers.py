@@ -17,7 +17,7 @@ print()
 # Solution 3
 squares = []
 for x in range(1, 11):
-    squares.append(x**2) # Appending to the list direclty, no assignment to a variable 
+    squares.append(x**2) # Appending to the list directly, no assignment to a variable 
 print(squares)
 print()
 
