@@ -7,7 +7,7 @@ print(dimensions[1]) # Call second index in tuple
 
 # Trying to change one item in a tuple, is impossible
 # dimensions[0] = 250
-# Print(dimensions)  # you get error
+# Print(dimensions)  # You get error
 print()
 
 # If you need to define a tuple with one item, you must include a comma
