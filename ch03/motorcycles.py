@@ -77,7 +77,7 @@ print(motorcycles)
 # Print a statement about it (why it was removed)
 
 too_expensive = 'honda' # assign a variable for item to be removed
-motorcycles.remove(too_expensive) # remove the variable
+motorcycles.remove(too_expensive) # Remove the variable
 print(motorcycles)
 print(f"\nA {too_expensive} is too expensive for me.")
 
