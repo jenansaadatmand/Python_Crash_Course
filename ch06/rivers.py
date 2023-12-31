@@ -23,3 +23,4 @@ print()
 print("\nThe following countries are included in the data set:")
 for country in rivers.values():
     print(f"- {country.title()}")
+    
