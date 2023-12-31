@@ -18,7 +18,7 @@
 #    while messages: # while contains messages
 #        for message in messages: # loop through each item
 #            
-#            current_message = messages.pop() # empties original list from the end
+#            current_message = messages.pop() # Empties original list from the end
 #            print(current_message) # Prints each messages 
 #            sent_messages.append(current_message) # Moves and fills messages into printed_messages new list
 
