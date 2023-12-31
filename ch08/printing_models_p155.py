@@ -1,6 +1,6 @@
 # Printing models: Put the functions for the example printing_models.py in a separate file called printing_functions.py
 # Write an import statement at the top of printing_models_p155.py, 
-# and modify the file to use the imported functions
+# And modify the file to use the imported functions
 
 import printing_functions as pf # using as to give a module an alias, shorter name
 
