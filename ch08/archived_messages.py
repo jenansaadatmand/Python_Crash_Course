@@ -25,6 +25,6 @@ sent_messages = []
 send_messages(messages[:], sent_messages) # Call the function with a copy of the list of messages
 
 print("\nFinal lists: ")
-print(messages) # prints the original list which shows that it retained its messages
+print(messages) # Prints the original list which shows that it retained its messages
 print(sent_messages)
 print(messages[:]) # prints the copy of original list
