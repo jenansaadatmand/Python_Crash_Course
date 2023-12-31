@@ -1,6 +1,6 @@
 # Defining a function called greet_user that prints a greetings
 # Page 130 in book
-def greet_user():   # Function definition, parenthesis is empty which holds what kind of information needed for the function to do its work
+def greet_user():   # Function definition, parenthesis is empty which holds what kind of information is needed for the function to do its work
 # Body of function
     """Display a simple greeting.""" # docstring decribes what the function does, enclosed in tripple quotes, used by python to generate documentation for the function in the program
     print("Hello!")     # actual code in the body of the function, this function has only one job 
