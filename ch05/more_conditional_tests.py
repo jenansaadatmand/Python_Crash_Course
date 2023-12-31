@@ -1,5 +1,5 @@
 # More conditional tests:
-# you don't have to limit the number of tests you create to ten
+# You don't have to limit the number of tests you create to ten
 # If you want to try more comparisons,
 # write more tests and add them to conditional_tests.py
 # Have at least one True and one False result for each of the following:
