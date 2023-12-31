@@ -1,6 +1,6 @@
 # Slicing a list and working with specific elements
 players = ['charles', 'maria', 'michael', 'florence', 'eli']
-print(players[0:3]) # Printing a slice of the list containing the the first 3 items at index 0,  1, 2 
+print(players[0:3]) # Printing a slice of the list containing the first 3 items at index 0,  1, 2 
 print()
 print(players[0:3:2]) # including a third argument to skip a value at index 2
 print()
