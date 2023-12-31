@@ -8,7 +8,7 @@ disply_message()
 
 print()
 
-# Solution # 2: 
+# Solution 2: 
  
 def disply_message():
     """Display a message about what I'm learning."""
