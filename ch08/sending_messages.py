@@ -42,7 +42,7 @@
 
 #print("\nFinal messages:")
 #show_messages(messages) # Because the list is empty, there are no messages to be printed
-#show_messages(sent_messages) # all messages should be moved to this list
+#show_messages(sent_messages) # All messages should be moved to this list
 
 # Solution 2 book
 def show_messages(messages):
