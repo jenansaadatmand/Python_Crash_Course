@@ -90,15 +90,15 @@ print()
 # In these situations, you might recognize that part of one class can be written as a separate class
 # break large class into smaller classes that work together
 # eg. if we continue adding detail to ElectricCar classs, we might add many attributes and methods specific to the car's battery.
-# When we see this happening we stop and move those attributes and methods to a seprarate class called battery.
+# When we see this happening we stop and move those attributes and methods to a separate class called battery.
 # Then we use battery instance as an attribute in the ElectricCar class:
 
-# describing the battery of an electricCar instance by working through the car's battery attribute
+# Describing the battery of an electricCar instance by working through the car's battery attribute
 my_tesla.battery.describe_battery() # Create an electric car and assign it to the variable my_tesla. When we want to describe the battery, we need to work through the car's battery attribute
 print()
 
-# let's add another method to a Battery that reports the range of the car based on the battery size:
-# see code line 55-62 and line 103
+# Let's add another method to a Battery that reports the range of the car based on the battery size:
+# See code line 55-62 and line 103
 
 my_tesla.battery.get_range() # When we want to use this method, we again call it through the car's battery attribute 
 
