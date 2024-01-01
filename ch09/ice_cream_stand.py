@@ -41,7 +41,7 @@ restaurant.open_restaurant()
 print("\n\n\n")
 
 
-class IceCreamStand(Restaurant): # inheretance
+class IceCreamStand(Restaurant): # Inheretance
     """Represent an IceCreamStand."""
 
     def __init__(self, name, cuisine_type='ice_cream'):  # You add a default parameter for cuisine_type
