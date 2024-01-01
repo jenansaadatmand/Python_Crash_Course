@@ -36,7 +36,7 @@ class Dog:  # define a class called Dog, by convension capitalized names refer t
 # Outcome, python returns an instance representing this dog using the attributes provided
 
 my_dog = Dog('Willie', 6) # We don't pass self as an argument but we pass attributes willie and 6 here in the call, we assign this instance to my_dog variable. convension naming is capitalized name for class and lowercase name my_dog refer to single instance created from a class
-print(f"My dog's name is {my_dog.name}.") # accessing the value of the attribute name within the my_dog instance in the Dog class
+print(f"My dog's name is {my_dog.name}.") # Accessing the value of the attribute name within the my_dog instance in the Dog class
 print(f"My dog is {my_dog.age} years old.") # accessing attribute age within the my_dog instance within the Dog class
 
 # Accessing attributes of an instance, use dot notation
