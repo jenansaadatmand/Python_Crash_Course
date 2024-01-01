@@ -64,4 +64,4 @@ ice_cream = IceCreamStand('Gelato', 'ice cream')  # an ice_cream_stand instance 
 ice_cream.describe_restaurant()  # Calling the method that describes the restaurant information
 print()
 
-ice_cream.show_flavors() # calling the the method that describes these flavors
+ice_cream.show_flavors() # Calling the the method that describes these flavors
