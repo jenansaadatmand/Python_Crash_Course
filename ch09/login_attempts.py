@@ -8,7 +8,7 @@
 # Print login_attempts again to make sure it was reset to 0
 
 class User:
-    """Represents as imple user profile."""
+    """Represents as simple user profile."""
 
     def __init__(self, first_name, last_name, username, email, location):
         """Initialize the User."""
@@ -20,7 +20,7 @@ class User:
         self.login_attempts = 0
 
     def describe_user(self):
-        """Displays a summary of user's infomration"""
+        """Displays a summary of user's information"""
         print(f"\n{self.first_name} {self.last_name}")
         print(f"Username: {self.username}")
         print(f"Email: {self.email}")
