@@ -86,7 +86,7 @@ print(my_tesla.get_descriptive_name())
 print()
 
 # Instances as Attributes: defining battery class lines 44-53 and using instance as attributes line 65, 112
-# when modeling something from real world in code, you might find that you're adding more and more detail to a classs, a growing list of attributes and methods and you files become lengthy
+# When modeling something from real world in code, you might find that you're adding more and more detail to a classs, a growing list of attributes and methods and you files become lengthy
 # In these situations, you might recognize that part of one class can be written as a separate class
 # break large class into smaller classes that work together
 # eg. if we continue adding detail to ElectricCar classs, we might add many attributes and methods specific to the car's battery.
