@@ -46,7 +46,7 @@ class Car:
         return long_name.title()
 
     def read_odometer(self): # new method is defined
-        """Print a statment showing the car's mileage."""
+        """Print a statement showing the car's mileage."""
         print(f"This car has {self.odometer_reading} miles on it.")
     
 #    def update_odometer(self, mileage): # method takes in a mileage value and assigns it to self.odometer_reading
