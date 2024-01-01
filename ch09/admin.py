@@ -66,7 +66,7 @@ class Admin(User):
 #jimmy.greet_user()
 #print()
 
-# Create an instance of Admin and calling the method
+# Create an instance of Admin and call the method
 
 jenan = Admin('jenan', 'saadatmand', 'jsaad', 'jenansaad@yahoo.com', 'canada') 
 
