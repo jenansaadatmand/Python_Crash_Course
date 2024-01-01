@@ -41,7 +41,7 @@ class Car:  # Start with defining the parent class, must appear in the current .
         """Cars need gas in tanks."""
         print("This car need gas in tank!")
         
-class ElectricCar(Car): # define child class, the name of the parent class must be included in parentheses in the definition of a child class
+class ElectricCar(Car): # Define child class, the name of the parent class must be included in parentheses in the definition of a child class
     """Represent aspects of a car, specific to electric vehicles."""
 
     def __init__(self, make, model, year): # __init__() takes the information required to make a Car instance
