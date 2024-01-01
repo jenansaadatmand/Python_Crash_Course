@@ -43,7 +43,7 @@ class Car:  # Start with defining the parent class, must appear in the current .
         """Cars need gas in tanks."""
         print("This car need gas in tank!")
         
-class Battery:  # define a new class Battery that does't inherit from any other classs
+class Battery:  # Define a new class Battery that does't inherit from any other classs
     """A simple attempt to model a battery for an electric car."""
 
     def __init__(self, battery_size=75): # optional parameter sets the battery's size to 75 if no value is provided
