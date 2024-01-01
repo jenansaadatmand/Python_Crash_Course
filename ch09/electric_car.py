@@ -77,7 +77,7 @@ my_tesla.describe_battery()
 
 
 # If you ever get this error: AttributeError: 'ElectricCar' object has no attribute 'describe_battery'
-# Solution is look at def function indentation at line 51. unindent the def of function
+# Solution is to look at def function indentation at line 51. unindent the def of function
 
 # Overriding methods from the parent class despite inheritance
 # You can override any method from parent class that doesn't fit what you're trying to model with the child class
