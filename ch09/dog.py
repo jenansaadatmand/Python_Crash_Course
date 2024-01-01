@@ -11,7 +11,7 @@
 
 # When we make an instance of Dog, python will call the __ini__() method from the Dog class
 
-class Dog:  # define a class called Dog, by convension capitalized names refer to classes, no parenthesis () in classes
+class Dog:  # Define a class called Dog, by convension capitalized names refer to classes, no parenthesis () in classes
     """A simple attempt to model a dog.""" # A docstring describing what this class does
  
     def __init__(self, name, age): # Creates an instance representing a dog and sets the name and age attributes using the values provided in the class calls. --init--() takes the parameters and assigns them to the attributes that will be associated with instances made from this class
