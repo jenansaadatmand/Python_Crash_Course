@@ -52,7 +52,7 @@ class IceCreamStand(Restaurant): # inheretance
         super().__init__(name, cuisine_type)
         self.flavors = ['strawberries', 'blueberries', 'raspberries'] # add an attribute called flavors that stores a list of ice creams flavors, set an empty list to contain the flavors ordered
     
-    def show_flavors(self):  # a method that displays these flavors
+    def show_flavors(self):  # A method that displays these flavors
         """Displays available ice cream flavors."""
         print("\nWe have the following flavors available:")
         for flavor in self.flavors: # a for loop to loop through the list flavors
