@@ -1,4 +1,4 @@
-# Three Restaurants: start with your calss from exercise 9-1.
+# Three Restaurants: start with your class from exercise 9-1.
 # Create three different instances from the class, and 
 # Call describe_restaurant() for each instance
 
@@ -32,6 +32,4 @@ italiano = Restaurant('italiano', 'Pizza')
 india_town.describe_restaurant()
 seaside.describe_restaurant()
 italiano.describe_restaurant()
-
-
 
