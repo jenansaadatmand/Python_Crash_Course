@@ -62,7 +62,7 @@ class Battery:  # Define a new class Battery that doesn't inherit from any other
         print(f"This car can go about {range} miles on a full charge.")    # Outcome tells us the range of the car based on its battery size
 
 
-class ElectricCar(Car): # define child class, the name of the parent class must be included in parentheses in the definition of a child class
+class ElectricCar(Car): # Define child class, the name of the parent class must be included in parentheses in the definition of a child class
     """Represent aspects of a car, specific to electric vehicles."""
 
     def __init__(self, make, model, year): # __init__() takes the information required to make a Car instance
