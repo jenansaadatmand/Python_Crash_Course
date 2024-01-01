@@ -87,7 +87,7 @@ my_new_car.read_odometer()
 # Many cars are sold with exactly 0 miles on the odometer, so we need a way to change the value of this attribute
 # Modifying an attribute's value directly
 # You can change an attribute's value in three ways:
-# 1. by changing the value directly through an instance, 
+# 1. By changing the value directly through an instance, 
 # 2. set the value through a method, method will update it internally
 # 3. or increment the value (add a certain amount to it) through a method
 
