@@ -50,7 +50,7 @@ class Battery:  # Define a new class Battery that doesn't inherit from any other
         """Initialize the battery's attributes"""
         self.battery_size = battery_size
 
-    def describe_battery(self): # this method has been moved from ElectricCar class to Battery class
+    def describe_battery(self): # This method has been moved from ElectricCar class to Battery class
         """Print a statement describing the battery size."""
         print(f"This car has a {self.battery_size}-kwh battery.")
 
