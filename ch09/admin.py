@@ -57,7 +57,7 @@ class Admin(User):
         for privilege in self.privileges:
             print(f"- {privilege}")
 
-# this is a regular user not an administrator:
+# This is a regular user not an administrator:
 
 #jimmy = User('jimmy', 'saadatmand', 'jimsaad', 'jimmysaad@yahoo.com', 'canada')
 
