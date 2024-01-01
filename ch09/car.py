@@ -17,7 +17,7 @@ class Car:
         long_name = f"{self.year} {self.make} {self.model}"
         return long_name.title()
 
-    def read_odometer(self): # new method is defined
+    def read_odometer(self): # New method is defined
         """Print a statement showing the car's mileage."""
         print(f"This car has {self.odometer_reading} miles on it.")
     
