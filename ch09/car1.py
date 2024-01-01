@@ -88,7 +88,7 @@ my_new_car.read_odometer()
 # Modifying an attribute's value directly
 # You can change an attribute's value in three ways:
 # 1. By changing the value directly through an instance, 
-# 2. Set the value through a method, method will update it internally
+# 2. Set the value through a method, the method will update it internally
 # 3. or increment the value (add a certain amount to it) through a method
 
 # 1. Modifying an attribute value by accessing it directly through an instance:
