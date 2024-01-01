@@ -112,5 +112,3 @@ print()
 
 my_tesla.battery.get_range()
 
-
-
