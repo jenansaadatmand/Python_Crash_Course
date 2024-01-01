@@ -45,7 +45,7 @@ class Admin(User):
     def __init__(self, first_name, last_name, username, email, location):
         """ 
         Initialize the admin.
-        Initialize attributes of Users parent class.
+        Initialize attributes of the user's parent class.
         Then initialize attributes specific to Admin child class.
         """
         super().__init__(first_name, last_name, username, email, location)  # no : at the end
