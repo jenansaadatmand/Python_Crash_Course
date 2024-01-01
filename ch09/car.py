@@ -61,7 +61,7 @@ class Battery:  # Define a new class Battery that doesn't inherit from any other
         elif self.battery_size == 100: # If the capacity is 100 kWh, it sets the range to 315 miles, it then reports this value
             range = 315
 
-        print(f"This car can go about {range} miles on a full charge.")   # Uutcome tells us the range of the car based on its battery size
+        print(f"This car can go about {range} miles on a full charge.")   # Outcome tells us the range of the car based on its battery size
         
 
     def upgrade_battery(self):
@@ -73,7 +73,7 @@ class Battery:  # Define a new class Battery that doesn't inherit from any other
             print("The battery is already upgraded")    
 
 
-class ElectricCar(Car): # define child class, the name of the parent class must be included in parentheses in the definition of a child class
+class ElectricCar(Car): # Define child class, the name of the parent class must be included in parentheses in the definition of a child class
     """Models aspects of a car, specific to electric vehicles."""
 
     def __init__(self, make, model, year): # __init__() takes the information required to make a Car instance
