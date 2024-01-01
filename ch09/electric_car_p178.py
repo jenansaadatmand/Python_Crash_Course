@@ -21,7 +21,7 @@ class Battery:  # Define a new class Battery that doesn't inherit from any other
         elif self.battery_size == 100: # If the capacity is 100 kWh, it sets the range to 315 miles, it then reports this value
             range = 315
 
-        print(f"This car can go about {range} miles on a full charge.")   # outcome tells us the range of the car based on its battery size
+        print(f"This car can go about {range} miles on a full charge.")   # Outcome tells us the range of the car based on its battery size
         
 
     def upgrade_battery(self):
