@@ -18,7 +18,7 @@ class User:  # from Exercise 9-5 (page 167)
         self.login_attempts = 0
 
     def describe_user(self):
-        """Displays a summary of user's infomration."""
+        """Displays a summary of user's information."""
         print(f"\n{self.first_name} {self.last_name}")
         print(f" Username: {self.username}")
         print(f" Email: {self.email}")
