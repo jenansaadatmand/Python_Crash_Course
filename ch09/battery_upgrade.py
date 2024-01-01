@@ -98,7 +98,7 @@ print(my_tesla.get_descriptive_name())
 print()
 
 # Describing the battery of an electricCar instance by working through the car's battery attribute
-my_tesla.battery.describe_battery() # create an electric car and assign it to the variable my_tesla. When we want to describe the battery, we need to work through the car's battery attribute
+my_tesla.battery.describe_battery() # Create an electric car and assign it to the variable my_tesla. When we want to describe the battery, we need to work through the car's battery attribute
 print()
 
 my_tesla.battery.get_range() # when we want to use this method, we again call it through the car's battery attribute 
