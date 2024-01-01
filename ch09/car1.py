@@ -59,12 +59,12 @@ class Car:
         Set the odometer reading to the given value. 
         reject the change if it attempts to roll the odometer back.
         """
-        if mileage >= self.odometer_reading: # update_odometer() checks the new reading makes sense before modifying the attribute, if the new mileage is greater than or equal to the existing mileage, self.odometer_reading, you can update the odometer reading to the new mileage
+        if mileage >= self.odometer_reading: # Update_odometer() checks the new reading makes sense before modifying the attribute, if the new mileage is greater than or equal to the existing mileage, self.odometer_reading, you can update the odometer reading to the new mileage
             self.odometer_reading = mileage
         else:
             print("You can't roll back an odometer!") # If the new mileage is less than the existing mileage, you'll get a warning that you can't roll back an odometer
 
-#    def increment_odometer(self, miles): # method takes in a number of miles, and adds this value to self.odometer_reading
+#    def increment_odometer(self, miles): # Method takes in a number of miles, and adds this value to self.odometer_reading
 #        """Add the given amount to the odometer reading."""
 #        self.odometer_reading += miles 
     
@@ -104,7 +104,7 @@ print()
 #print("\n")
 
 # 2. Modifying an attribute's value through a method. by writing a method that updates the value for you
-# ethods that update certain attributes for you are very helpful, instead of accessing it directly, you pass a new value to a method that will handle the updating internally
+# Methods that update certain attributes for you are very helpful, instead of accessing it directly, you pass a new value to a method that will handle the updating internally
 
 # Creating a method called update_odometer()
 
@@ -115,8 +115,8 @@ my_new_car.read_odometer() # read_odometer() prints the reading
 print()
 
 # 2. Continue modifying attribute value with a method
-# Let's extend the method update_odometer() to do additional work everytime the odometer reading is modified as a check for security measure
-# Uncomment code lines 57, to 65, for the below code to work, we will add little logic to make sure no one tires to roll back the odometer reading:
+# Let's extend the method update_odometer() to do additional work every time the odometer reading is modified as a check for security measure
+# Uncomment code lines 57, to 65, for the below code to work, we will add a little logic to make sure no one tires to roll back the odometer reading:
 
 my_new_car.update_odometer(8) # outcome, you cannot roll back an odometer
 my_new_car.read_odometer()
@@ -125,26 +125,26 @@ print()
 #3. Incrementing an attribute's value (add a certain amount to it) through a method
 # Sometimes we want to increment an attribute's value rather than setting an attribute's entirely new value
 # We buy a used car and put 100 miles on it between the time we buy it and the time we register it
-# Uncomment method on line 67-69, a method that allows us to pass this incremental amount and add that value to the odometer reading
+# Uncomment method on lines 67-69, a method that allows us to pass this incremental amount and add that value to the odometer reading
 
 
 
 my_used_car = Car('subaru', 'outback', 2015)
 print(my_used_car.get_descriptive_name())
 
-my_used_car.update_odometer(23_500) # create a used car variable that holds the instance within the class, we set its odometer to 23,500 by calling update_odometer() and passing 23,500
+my_used_car.update_odometer(23_500) # Create a used car variable that holds the instance within the class, we set its odometer to 23,500 by calling update_odometer() and passing 23,500
 my_used_car.read_odometer()
 
-my_used_car.increment_odometer(100)   # call increment_odometer() and pass it 100 to add the 100 miles that we drove between buying the car and registering it 
-my_used_car.read_odometer() # outcome is 23,600
+my_used_car.increment_odometer(100)   # Call increment_odometer() and pass it 100 to add the 100 miles that we drove between buying the car and registering it 
+my_used_car.read_odometer() #Ooutcome is 23,600
 print()
 
 # You can easily modify this increment_odometer() method to reject negative increments so no one uses this function to roll back an odometer. (checks as security measure)
 
 # Method is on lines  
 
-my_used_car.increment_odometer(-1)  # because of the previous addition on line 138, the odometer currently is set on 23,600
-my_used_car.read_odometer() # negative number can't set back the odometer
+my_used_car.increment_odometer(-1)  # Because of the previous addition on line 138, the odometer currently is set on 23,600
+my_used_car.read_odometer() # Negative number can't set back the odometer
 
 
 
