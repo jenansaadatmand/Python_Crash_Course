@@ -52,7 +52,7 @@ class ElectricCar(Car): # Define child class, the name of the parent class must 
         super().__init__(make, model, year) # super() function allows to call a method from the parent class, tells python to call the __init__() method from Car, which gives an ElectricCar instance all the attributes defined in that method. Superclass (Parent class) and subclass (child class) convention
         self.battery_size = 75  # Add a new attribute, set it initial value to 75. will be associated will all instances created from ElectricCar but will not be associated with any instance from Car parent class
 
-    def describe_battery(self): # add a new method
+    def describe_battery(self): # Add a new method
         """Print a statement describing the battery size."""
         print(f"This car has a {self.battery_size}-kwh battery.")
 #        print("This car has a " + str(self.battery_size) + "-kWh battery.") # alternatively, can use this syntax
