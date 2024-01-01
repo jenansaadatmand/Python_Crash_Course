@@ -1,6 +1,6 @@
 # Creating a module for Car class, storing a class or multiple classes in a module
 
-"""A set of classes used to represent gas and electri car."""  # module-level docstring briefly describes the content of this module
+"""A set of classes used to represent gas and electri car."""  # Module-level docstring briefly describes the content of this module
 
 class Car:
     """A simple attempt to represent a car."""
