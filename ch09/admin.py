@@ -4,7 +4,7 @@
 # Write a method called show_privileges() that lists the administrator's set of privileges
 # Create an instance of Admin, and call your method
 
-class User:  # from Exercise 9-5 (page 167)
+class User:  # From Exercise 9-5 (page 167)
     """Represents a simple user profile."""
 
     def __init__(self, first_name, last_name, username, email, location):
