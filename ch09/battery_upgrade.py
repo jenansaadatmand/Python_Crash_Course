@@ -61,7 +61,7 @@ class Battery:  # Define a new class Battery that does't inherit from any other 
         elif self.battery_size == 100: # If the capacity is 100 kWh, it sets the range to 315 miles, it then reports this value
             range = 315
 
-        message = f"This car can go approximately {range}"   # outcome tells us the range of the car based on its battery size
+        message = f"This car can go approximately {range}"   # Outcome tells us the range of the car based on its battery size
         message += "miles on a full charge."
         print(message)
 
