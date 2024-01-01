@@ -1,4 +1,4 @@
-# Number served: start with your program from execersize 9-1(page 162).
+# Number served: start with your program from exercise 9-1(page 162).
 # Add on an attribute called number_served with a default value of 0
 # Create an instance called restaurant from this class
 # Print the number of customers the restaurant has served, and
@@ -23,14 +23,14 @@ class Restaurant:
         print(f"\n{msg}") 
 
     def open_restaurant(self):
-        """Displays or simulate the retaurant is open."""
+        """Displays or simulates the retaurant is open."""
         print(f"\n{self.name} is open.")
-        # alternatively can use this code:
+        # Alternatively can use this code:
         msg = f"{self.name} is open. Come on in!."
         print(f"\n{msg}")
 
 
-    def set_number_served(self, number_served): # setting a new method
+    def set_number_served(self, number_served): # Setting a new method
         """Allow user to set the number of customers that have been served."""
         self.number_served = number_served
 
