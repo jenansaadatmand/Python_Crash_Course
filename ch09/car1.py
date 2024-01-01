@@ -104,7 +104,7 @@ print()
 #print("\n")
 
 # 2. Modifying an attribute's value through a method. by writing a method that updates the value for you
-# ethods that update certain attributes for you is very helpful, instead of accessing it directly, you pass a new value to a method that will handle the updating internally
+# ethods that update certain attributes for you are very helpful, instead of accessing it directly, you pass a new value to a method that will handle the updating internally
 
 # Creating a method called update_odometer()
 
