@@ -19,7 +19,7 @@ class Dog:  # define a class called Dog, by convension capitalized names refer t
         self.name = name # create variable with a prefix self., prefixed with self to be available to every method in the class, and be accessed through any instance created from the class
         self.age = age # takes the value associated with the parameter age and assigns it to the variable age, when then attached to the instance being created. Variables that are accessible through instances like this are called attributes
 
-    def sit(self): # method sit() does not need additional information to run, so it has one parameter, self
+    def sit(self): # Method sit() does not need additional information to run, so it has one parameter, self
         """Simulate a dog sitting in response to a command."""
         print(f"{self.name} is now sitting.")
 
