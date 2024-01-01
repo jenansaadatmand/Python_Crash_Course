@@ -5,7 +5,7 @@
 # Then we'll only have to write code for the attributes and behavior specific to electric cars
 # Simple version of ElectricCar class, which does everything the car class does
 
-class Car:  # Start with defining the parent class, must appear in the current .py file when making a child class
+class Car:  # Start with defining the parent class, which must appear in the current .py file when making a child class
     """A simple attempt to represent a car."""
 
     def __init__(self, make, model, year):
