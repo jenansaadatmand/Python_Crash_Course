@@ -11,5 +11,3 @@
 # API for imaplib is relatively low-level, requiring the caller to understand the IMAP protocol to build queries and parse results. The imapclient package provides a higher-level API that is easier to work with for building applications that need to manipulate IMAP mailboxes.
 # time and datetime modules provide functions and classes for manipulating time and date values. Both include functions for parsing strings to turn them into internal representations. The dateutil package includes a more flexible parser that makes it easier to build robust applications that are more forgiving of different input formats.
 # datetime module includes a timezone-aware class for representing a specific time on a specific day. It does not, however, include a full timezone database. The pytz package does provide such a database. It is distributed separately from the standard library because it is maintained by other authors and it is updated frequently when timezone and daylight savings time values are changed by the political institutions that control them.
-
-
