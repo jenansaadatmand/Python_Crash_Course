@@ -41,7 +41,7 @@ class Car:
         self.odometer_reading = 0 # attribute defined and assigned a default value of 0 without passing it as a parameter above in __init__() method
 
     def get_descriptive_name(self):    
-        """Return a netly formatted descriptive name."""
+        """Return a neatly formatted descriptive name."""
         long_name = f"{self.year} {self.make} {self.model}"
         return long_name.title()
 
