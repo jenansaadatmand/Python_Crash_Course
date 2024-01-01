@@ -50,8 +50,8 @@ print(my_dog.age)
 # syntax: instance name.method
 # Let's make our dog sit and roll over
 
-my_dog.sit() # calling sit() method from class Dog and runs on my_dog instance, no arguments passed, syntax: instance name.method
-my_dog.roll_over() # calling roll_over method
+my_dog.sit() # Calling sit() method from class Dog and runs on my_dog instance, no arguments passed, syntax: instance name.method
+my_dog.roll_over() # Calling roll_over method
 print("\n")
 
 # In this program, attributes: name and age and methods: sit and roll_over
@@ -64,13 +64,10 @@ my_dog = Dog('Jimmy', 13)
 your_dog = Dog('Lucy', 3)
 print(f"My dog's name is {my_dog.name}.")
 print(f"My dog is {my_dog.age} years old.")
-my_dog.sit()  # notice, you don't need a print statement to display on screen, it will display automatically
+my_dog.sit()  # Notice, you don't need a print statement to display on screen, it will display automatically
 my_dog.roll_over()
 
 print(f"\nYour dog's name is {your_dog.name}.")
 print(f"Your dog is {your_dog.age} years old.")
 your_dog.sit()
 your_dog.roll_over()
-
-
-
