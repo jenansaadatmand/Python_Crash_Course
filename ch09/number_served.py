@@ -45,7 +45,7 @@ restaurant2 = Restaurant('Arabic town', 'Arabic')
 
 print(restaurant.name)
 print(restaurant.cuisine_type)
-print(restaurant.number_served) # accessing the number_served value
+print(restaurant.number_served) # Accessing the number_served value
 restaurant.describe_restaurant()
 restaurant.open_restaurant()
 print()
