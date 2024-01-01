@@ -13,7 +13,7 @@ class Restaurant:
         """Initialize the reastaurant"""
         self.name = name.title()
         self.cuisine_type = cuisine_type
-        self.number_served = 0   # creating an attribute called number_served with default value = 0
+        self.number_served = 0   # Creating an attribute called number_served with default value = 0
 
     def describe_restaurant(self):
         """Displays a summary of the restaurant"""
