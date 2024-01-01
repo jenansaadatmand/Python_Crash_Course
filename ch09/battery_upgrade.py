@@ -7,7 +7,7 @@
 # You should see an increase in the car's range
 
 
-class Car:  # start with defining the parent class, must appear in the current .py file when making a child class
+class Car:  # Start with defining the parent class, must appear in the current .py file when making a child class
     """A simple attempt to represent a car."""
 
     def __init__(self, make, model, year):
