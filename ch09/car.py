@@ -10,7 +10,7 @@ class Car:
         self.make = make
         self.model = model
         self.year = year
-        self.odometer_reading = 0 # attribute defined and assigned a default value of 0 without passing it as a parameter above in __init__() method
+        self.odometer_reading = 0 # Attribute defined and assigned a default value of 0 without passing it as a parameter above in __init__() method
 
     def get_descriptive_name(self):    
         """Return a neatly formatted descriptive name."""
