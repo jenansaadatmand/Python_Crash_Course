@@ -55,7 +55,7 @@ class ElectricCar(Car): # Define child class, the name of the parent class must 
     def describe_battery(self): # Add a new method
         """Print a statement describing the battery size."""
         print(f"This car has a {self.battery_size}-kwh battery.")
-#        print("This car has a " + str(self.battery_size) + "-kWh battery.") # alternatively, can use this syntax
+#        print("This car has a " + str(self.battery_size) + "-kWh battery.") # Alternatively, can use this syntax
 
     def fill_gas_tank(self):
         """Electric cars don't have gas tanks."""
