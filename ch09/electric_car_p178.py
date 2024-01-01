@@ -1,4 +1,4 @@
-"""A set of classes used to represent electri car."""  # module-level docstring briefly describes the content of this module
+"""A set of classes used to represent electri car."""  # Module-level docstring briefly describes the content of this module
 
 from carp178 import Car
 
