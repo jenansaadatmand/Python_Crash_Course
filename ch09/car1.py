@@ -23,7 +23,7 @@
 #print(my_new_car.get_descriptive_name()) # printing the calling of the get_descriptive_name() method (because it only return a value and does not print)to show what kind of car we have.
 
 # Adding an attribute that changes over time
-# We will add an attribute that stores the car's overlall mileage
+# We will add an attribute that stores the car's overall mileage
 # Setting a Default Value for an Attribute
 # When an instance is created, attributes can be defined without being passed in as parameters
 # These attributes can be defined in the __init__() method, where they are assigned a default value.
