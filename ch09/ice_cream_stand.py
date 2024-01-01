@@ -16,7 +16,7 @@ class Restaurant: # Excersize 9-1 (page 162)
     def describe_restaurant(self):
         """Displays a summary of the restaurant."""
         print(f"{self.name} offer {self.cuisine_type}.")
-        #alternatively, can use this code:
+        #Alternatively, can use this code:
         msg = f"{self.name} serves wonderful {self.cuisine_type}."
         print(f"\n{msg}") 
 
