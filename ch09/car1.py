@@ -20,7 +20,7 @@
 #        return long_name.title()
 
 #my_new_car = Car('audi', 'a4', 2019) # making a new car instance from Car class and assigning it to the variable my_new_car, we give it attributes, these attributes will be associated with parameters in the __init__() method
-#print(my_new_car.get_descriptive_name()) # printing the calling of the get_descriptive_name() method (because it only return a value and does not print)to show what kind of car we have.
+#print(my_new_car.get_descriptive_name()) # printing the calling of the get_descriptive_name() method (because it only returns a value and does not print)to show what kind of car we have.
 
 # Adding an attribute that changes over time
 # We will add an attribute that stores the car's overall mileage
