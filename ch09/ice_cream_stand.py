@@ -50,7 +50,7 @@ class IceCreamStand(Restaurant): # Inheretance
         Then initialize attributes specific to Ice Cream Stand child class.
         """
         super().__init__(name, cuisine_type)
-        self.flavors = ['strawberries', 'blueberries', 'raspberries'] # add an attribute called flavors that stores a list of ice creams flavors, set an empty list to contain the flavors ordered
+        self.flavors = ['strawberries', 'blueberries', 'raspberries'] # Add an attribute called flavors that stores a list of ice creams flavors, set an empty list to contain the flavors ordered
     
     def show_flavors(self):  # A method that displays these flavors
         """Displays available ice cream flavors."""
