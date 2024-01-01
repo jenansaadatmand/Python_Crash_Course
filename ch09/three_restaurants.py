@@ -13,7 +13,7 @@ class Restaurant:
     def describe_restaurant(self):
         """Displays a summary of the restaurant."""
         print(f"{self.name} offers {self.cuisine_type} cuisine.")
-        # alternatively you can use:
+        # Alternatively you can use:
         msg = (f"{self.name} serves a wonderful {self.cuisine_type} cuisine.")
         print(f"\n{msg}")
 
