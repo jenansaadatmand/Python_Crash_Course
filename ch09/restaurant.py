@@ -42,8 +42,3 @@ restaurant.describe_restaurant()
 print("\n")
 restaurant.open_restaurant()
 
-
-
-
-
-
