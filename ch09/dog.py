@@ -14,7 +14,7 @@
 class Dog:  # define a class called Dog, by convension capitalized names refer to classes, no parenthesis () in classes
     """A simple attempt to model a dog.""" # A docstring describing what this class does
  
-    def __init__(self, name, age): # creates an instance representing a dog and sets the name and age attributes using the values provided in the class calls. --init--() takes the parameters and assigns them to the attributes that will be associated with instances made from this class
+    def __init__(self, name, age): # Creates an instance representing a dog and sets the name and age attributes using the values provided in the class calls. --init--() takes the parameters and assigns them to the attributes that will be associated with instances made from this class
         """Initilaize name and age attributes."""
         self.name = name # create variable with a prefix self., prefixed with self to be available to every method in the class, and be accessed through any instance created from the class
         self.age = age # takes the value associated with the parameter age and assigns it to the variable age, when then attached to the instance being created. Variables that are accessible through instances like this are called attributes
