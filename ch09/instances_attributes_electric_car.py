@@ -90,7 +90,7 @@ print()
 # In these situations, you might recognize that part of one class can be written as a separate class
 # break large class into smaller classes that work together
 # eg. if we continue adding detail to ElectricCar classs, we might add many attributes and methods specific to the car's battery.
-# when we see this happening we stop and move those attributes and methods to a seprarate class called battery.
+# When we see this happening we stop and move those attributes and methods to a seprarate class called battery.
 # Then we use battery instance as an attribute in the ElectricCar class:
 
 # describing the battery of an electricCar instance by working through the car's battery attribute
