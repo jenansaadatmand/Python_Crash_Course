@@ -1,4 +1,4 @@
-"""A class used to represent a car."""  # module-level docstring briefly describes the content of this module
+"""A class used to represent a car."""  # Module-level docstring briefly describes the content of this module
 
 class Car:
     """A simple attempt to represent a car."""
@@ -8,23 +8,23 @@ class Car:
         self.make = make
         self.model = model
         self.year = year
-        self.odometer_reading = 0 # attribute defined and assigned a default value of 0 without passing it as a parameter above in __init__() method
+        self.odometer_reading = 0 # Attribute defined and assigned a default value of 0 without passing it as a parameter above in __init__() method
 
     def get_descriptive_name(self):    
         """Return a neatly formatted descriptive name."""
         long_name = f"{self.year} {self.make} {self.model}"
         return long_name.title()
 
-    def read_odometer(self): # new method is defined
+    def read_odometer(self): # New method is defined
         """Print a statement showing the car's mileage."""
         print(f"This car has {self.odometer_reading} miles on it.")
     
-    def update_odometer(self, mileage): # method updates the self.odometer_reading attribute's value
+    def update_odometer(self, mileage): # Method updates the self.odometer_reading attribute's value
         """
         Set the odometer reading to the given value. 
         reject the change if it attempts to roll the odometer back.
         """
-        if mileage >= self.odometer_reading: # update_odometer() checks the new reading makes sense before modifying the attribute, if the new mileage is greater than or equal to the existing mileage, self.odometer_reading, you can update the odometer reading to the new mileage
+        if mileage >= self.odometer_reading: # Update_odometer() checks the new reading makes sense before modifying the attribute, if the new mileage is greater than or equal to the existing mileage, self.odometer_reading, you can update the odometer reading to the new mileage
             self.odometer_reading = mileage
         else:
             print("You can't roll back an odometer!") # if the new mileage is less than existing mileage, you'll get a warning that you can't roll back an odometer
