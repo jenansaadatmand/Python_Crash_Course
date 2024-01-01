@@ -46,7 +46,7 @@ class Car:  # Start with defining the parent class, must appear in the current .
 class Battery:  # Define a new class Battery that does't inherit from any other classs
     """A simple attempt to model a battery for an electric car."""
 
-    def __init__(self, battery_size=75): # optional parameter sets the battery's size to 75 if no value is provided
+    def __init__(self, battery_size=75): # Optional parameter sets the battery's size to 75 if no value is provided
         """Initialize the battery's attributes"""
         self.battery_size = battery_size
 
