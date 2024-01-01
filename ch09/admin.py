@@ -30,7 +30,7 @@ class User:  # from Exercise 9-5 (page 167)
 
     def increment_login_attempts(self):
         """Increments the value of login_attempts"""
-        self.login_attempts += 1      # alternatively self.login_attempts += 1
+        self.login_attempts += 1      # Alternatively self.login_attempts += 1
 
         #self.login_attempts = self.login_attempts + 1
  
