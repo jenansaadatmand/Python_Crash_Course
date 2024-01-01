@@ -43,7 +43,7 @@ class Car:
             print("You can't roll back an odometer!")
 
 
-class Battery:  # define a new class Battery that doesn't inherit from any other class
+class Battery:  # Define a new class Battery that doesn't inherit from any other class
     """A simple attempt to model a battery for an electric car."""
 
     def __init__(self, battery_size=75): # optional parameter sets the battery's size to 75 if no value is provided
