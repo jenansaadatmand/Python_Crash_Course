@@ -62,7 +62,7 @@ class Car:
         if mileage >= self.odometer_reading: # update_odometer() checks the new reading makes sense before modifying the attribute, if the new mileage is greater than or equal to the existing mileage, self.odometer_reading, you can update the odometer reading tot he new mileage
             self.odometer_reading = mileage
         else:
-            print("You can't roll back an odometer!") # if the new mileage is less than existing mileage, you'll get a warning that you can't roll back an odometer
+            print("You can't roll back an odometer!") # if the new mileage is less than the existing mileage, you'll get a warning that you can't roll back an odometer
 
 #    def increment_odometer(self, miles): # method takes in a number of miles, and adds this value to self.odometer_reading
 #        """Add the given amount to the odometer reading."""
