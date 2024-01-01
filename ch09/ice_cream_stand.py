@@ -44,7 +44,7 @@ print("\n\n\n")
 class IceCreamStand(Restaurant): # inheretance
     """Represent an IceCreamStand."""
 
-    def __init__(self, name, cuisine_type='ice_cream'):  # you add a default parameter for cuisine_type
+    def __init__(self, name, cuisine_type='ice_cream'):  # You add a default parameter for cuisine_type
         """
         Initialize attributes of the parent class.
         Then initialize attributes specific to Ice Cream Stand child class.
