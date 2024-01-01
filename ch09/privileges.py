@@ -37,7 +37,7 @@ class User:
         self.login_attempts = 0
 
 
-class Admin(User):  # don't forget to have the superclass or parent class in the parenthesis, otherwise you get an error: "TypeError: object.__init__() takes exactly one argument (the instance to initialize)"
+class Admin(User):  # Don't forget to have the superclass or parent class in the parenthesis, otherwise you get an error: "TypeError: object.__init__() takes exactly one argument (the instance to initialize)"
     """Represents a user with administrative privileges."""
     
     def __init__(self, first_name, last_name, username, email, location):    
@@ -74,7 +74,7 @@ print()
 
 print("\nAdding privileges...")
 
-jenan_privileges = [                # notice the variable with underscore
+jenan_privileges = [                # Notice the variable with underscore
     'can reset passwords', 
     'can moderate discussions',
     'can suspend accounts', 
@@ -84,7 +84,7 @@ jenan_privileges = [                # notice the variable with underscore
     'can register new user',
     ] 
 
-jenan.privileges.privileges = jenan_privileges  # pay attention to this line !
+jenan.privileges.privileges = jenan_privileges  # Pay attention to this line !
 
 jenan.privileges.show_privileges()
 
