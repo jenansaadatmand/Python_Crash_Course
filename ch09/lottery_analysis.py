@@ -18,8 +18,8 @@ print("Let's see what the winnning ticket is...")
 while len(winning_ticket) < 4:
     pulled_item = choice(possibilities)
 
-    # only add the pulled items to the winning ticket 
-    # if it hasn't already been pulled.
+    # Only add the pulled items to the winning ticket 
+    # If it hasn't already been pulled.
 
     if pulled_item not in winning_ticket:
         print(f"  We pulled a {pulled_item}!")
