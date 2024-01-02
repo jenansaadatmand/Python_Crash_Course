@@ -15,4 +15,4 @@ print("\n")
 filename = 'text_files/pi_digits.txt' # Assign a variable to the file where are reading from
 with open(filename) as file_object:
     for line in file_object: # Use a for loop to loop through the lines in a file
-        print(line.rstrip()) # stripping two blank lines, one invisible newline character at the end of each line from file and one added from print() function recalling
+        print(line.rstrip()) # Stripping two blank lines, one invisible newline character at the end of each line from file and one added from print() function recalling
