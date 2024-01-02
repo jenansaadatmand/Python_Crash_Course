@@ -4,7 +4,7 @@
 # Opens a file contains pi to 30 decimal places, with 10 decimal places per line
 # Reader program opens the file, reads it, and prints the content of the file to the screen
 # Use file relative path or absolute longer path to pass to open() function for the location of the desired file
-with open('text_files/pi_digits.txt') as file_object: # with block is excuted ( to open and close the file properly), open() function to open the file to access its contents, open() function returns an object representing the file pi_digits.txt.
+with open('text_files/pi_digits.txt') as file_object: # With block is excuted ( to open and close the file properly), open() function to open the file to access its contents, open() function returns an object representing the file pi_digits.txt.
     contents = file_object.read() # read() method to read entire content of file and store it as one long string in contents variable
 print(contents)
 print(contents.rstrip()) # Removing any white space characters from the right side of a string
