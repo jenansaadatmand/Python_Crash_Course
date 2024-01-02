@@ -34,7 +34,7 @@ print(string)
 
 print("\nsolution 2: Storing the lines in a list:\n")
 with open(filename) as f:
-    lines = f.readlines() # Automatically stores the lines in list
+    lines = f.readlines() # Automatically stores the lines in the list
 for line in lines: 
     print(line.strip())
 
