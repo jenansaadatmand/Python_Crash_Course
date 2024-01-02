@@ -7,7 +7,7 @@ with open(filename) as file_object: # open the file
     lines = file_object.readlines() # store each line in a list
 pi_string = ''  # create a variable to hold digits of pi as a list
 for line in lines: # create a loop to add each line of digits to the variable pi_string
-    pi_string += line.strip() # remove newline character from each line on the right and left
+    pi_string += line.strip() # Remove newline character from each line on the right and left
 print(pi_string) # print the variable holding a single string
 print(len(pi_string)) # print the length of the variable
 # Output a string of pi to 30 decimal places, with 32 characters long
