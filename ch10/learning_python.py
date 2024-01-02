@@ -1,4 +1,4 @@
-# Learning Python: open a blank file in your text editor and write a few lines summarizing what you've learned about python so far
+# Learning Python: open a blank file in your text editor and write a few lines summarizing what you've learned about Python so far
 # Start each line with the phrase In Python you can .... 
 # Save the file as learning_python.text in the same directory as your exercises from this chapter
 # Write a program that reads the file and prints what you wrote three times
