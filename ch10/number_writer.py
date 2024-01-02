@@ -1,4 +1,4 @@
-# Storing Data/information into data structures (lists and dictionaries). eg: from user input, user preferences in game, profivde data for visualizaton
+# Storing Data/information into data structures (lists and dictionaries). eg: from user input, user preferences in game, profivde data for visualization
 # Use JASON module (Javascript object notation format).
 # When the user closes a program, he saves the information entered 
 # json module allows you to dump simple Python data structures into a file and load the data from that file the next time the program runs
