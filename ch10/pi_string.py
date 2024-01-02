@@ -3,7 +3,7 @@
 # Program to explore the digits of pi
 # Build a single string containing all the digits in the file with no white space
 filename = 'text_files/pi_digits.txt'
-with open(filename) as file_object: # open the file 
+with open(filename) as file_object: # Open the file 
     lines = file_object.readlines() # store each line in a list
 pi_string = ''  # create a variable to hold digits of pi as a list
 for line in lines: # create a loop to add each line of digits to the variable pi_string
