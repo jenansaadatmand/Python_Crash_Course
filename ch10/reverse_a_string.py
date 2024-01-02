@@ -14,5 +14,3 @@ def my_function(x): # A function that takes a string as an argument
 
 mytxt = my_function("I wonder how this text looks like backwards") # Calling the function with a string as a parameter, and assigning the answer to a variable
 print(mytxt)
-
-
