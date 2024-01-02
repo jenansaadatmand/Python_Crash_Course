@@ -8,7 +8,7 @@ Mmessage = input(prompt)
 #    file_object.write(f"\n{message.title()}")
 
 
-# Solution 2: this program writes the name of the guest and overwrites the previous file
+# Solution 2: This program writes the name of the guest and overwrites the previous file
 name = input("What is your name? ")
 filename = 'text_files/guest.txt'
 with open(filename, 'w') as f:
