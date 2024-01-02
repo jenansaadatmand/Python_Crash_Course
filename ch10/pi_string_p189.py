@@ -10,6 +10,6 @@ with open(filename) as file_object:
 pi_string = ''
 for line in lines:
     pi_string += line.strip()    
-print(f"{pi_string[:52]}...") # only print the first 50 decimal places, 2 added for leading number 3 and the point .
+print(f"{pi_string[:52]}...") # Only print the first 50 decimal places, 2 added for leading number 3 and the point .
 print("\n")
 print(len(pi_string))
