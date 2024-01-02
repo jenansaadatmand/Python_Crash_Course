@@ -21,7 +21,7 @@ for line in lines: # for loop to loop through the list
 
 print("\n--- solution2: Looping over the lines:\n")
 with open(filename) as f:
-    for line in f: # using a for loop to loop through f
+    for line in f: # Using a for loop to loop through f
         print(line.rstrip())
 
 print("\nStoring the lines in a list:\n")
