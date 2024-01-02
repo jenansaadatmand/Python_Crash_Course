@@ -27,4 +27,4 @@ with open(filename) as f: # Open in read mode by default or use 'r'
     numbers = json.load(f) # json.load() function to load information stored in numbers.json, assign it to variable numbers
 print(numbers) # Print recovered list of numbers
 
-# This is a simple way to share data between programs
+# This is a simple way to share data between programs.
