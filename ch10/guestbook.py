@@ -14,4 +14,3 @@ while True:
         with open(filename, 'a') as file_object:
             file_object.write(f"{name.title()}\n")
         print(f"Hello {name}, you've been added to the guest book.")
-
