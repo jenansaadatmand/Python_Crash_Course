@@ -14,7 +14,7 @@
 #import json # import json module
 #numbers = [1, 3, 5, 7, 11, 13]  # create a list of numbers
 #filename = 'numbers.json'  # choose filename, .json format, to store the list of numbers, and store it in a variable filename
-#with open(filename, 'w') as f:  # open file in write mode, allows json to write the data to the file
+#with open(filename, 'w') as f:  # Open file in write mode, allows json to write the data to the file
 #    json.dump(numbers, f) # json.dump() function to store the list of numbers in the file object numbers.json
 
 # Program has no output, but open file numbers.json (stored in the same directory as chapter_10) to see the list of numbers stored in it
