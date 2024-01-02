@@ -15,7 +15,7 @@ print(contents)
 
 print("--- Looping over the lines:\n")
 with open(filename) as file_object:
-    lines = file_object.readlines() # assigning a variable lines to hold the lines
+    lines = file_object.readlines() # Assigning a variable lines to hold the lines
 for line in lines: # for loop to loop through the list
     print(line.strip())
 
