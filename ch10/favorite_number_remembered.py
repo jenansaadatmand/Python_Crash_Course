@@ -25,8 +25,6 @@ def favorite_num(): # We are using a function to ask the user for favorite numbe
 favorite_num()
 
 
-
-
 # Program refactoring with three functions:
 #import json
 #filename = 'favorite_num.json'
