@@ -12,7 +12,7 @@ print(contents.rstrip()) # Removing any white space characters from the right si
 print("\n")
 
 # Reading line by line using a for loop on the file object
-filename = 'text_files/pi_digits.txt' # assign a variable to the file where are reading from
+filename = 'text_files/pi_digits.txt' # Assign a variable to the file where are reading from
 with open(filename) as file_object:
     for line in file_object: # use a for loop to loop through the lines in a file
         print(line.rstrip()) # stripping two blank lines, one invisible newline character at the end of each line from file and one added from print() function recalling
