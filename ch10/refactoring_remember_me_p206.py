@@ -9,7 +9,7 @@ def get_stored_username(): # Retrieving a stored username if one exist
     try:
         with open(filename) as f:
             username = json.load(f)
-    except FileNotFoundError: # If file doesn't exist, it return none
+    except FileNotFoundError: # If file doesn't exist, it returns none
         return None 
     else: 
         return username    
