@@ -22,7 +22,7 @@ for line in lines:
     line = line.strip()
     print(line.replace('Python', 'C'))
 
-print("\nsolution 3: changing method, using rstrip() and replace() on the sameline")
+print("\nsolution 3: changing method, using rstrip() and replace() on the same line")
 # The newline is stripped from the end of the line and then Python is replaced by C
 with open(filename) as f: 
     lines = f.readlines()
