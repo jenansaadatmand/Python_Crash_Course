@@ -26,7 +26,7 @@ cars = ['bmw', 'audi', 'toyota', 'subaru']
 print(cars)
 cars.reverse()
 print(cars)
-# Applying reverse() a second time to revert back to original list
+# Applying reverse() a second time to revert back to the original list
 cars.reverse()
 print(cars)
 # Find out the length of a list with len()
