@@ -1,7 +1,7 @@
 # list is a collection of items in a particular order. items place in square brackets []
 # A list that contains a few kinds of bicycles
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
-print(bicycles)     # this is isn't the output you want your user to see, proceed to access individual items in a list
+print(bicycles)     # This is isn't the output you want your user to see, proceed to access individual items in a list
 
 # Accessing elements in a list or ordered collections by instructing Python the position, or index, of the desired item
 # Index positions start at 0, Not 1
