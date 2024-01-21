@@ -12,7 +12,7 @@ print(bicycles[0]) # asks for item at index 0, first on the list, 1-1 = 0
 print(bicycles[1]) # asks for item at index 1, second on list , 2-1 = 1 substract item location in list by 1
 print(bicycles[2]) # asks for item at index 2, third item on list, 3-1 = 2 
 print(bicycles[3]) # asks for the item at index 3, fourth item on list, 4-1 = 3
-print(bicycles[0].title()) # string neatly formated using method .title()
+print(bicycles[0].title()) # string neatly formatted using method .title()
 print(bicycles[3].upper())
 print()
 print(bicycles[-1]) # asks for the last item on the list, special syntax to retrieve the last item on a list
