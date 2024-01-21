@@ -29,7 +29,7 @@ else:
 print(f"Your admission cost is ${price}.")
 print()
 
-# Omitting the else block for clearer conditional test
+# Omitting the else block for a clearer conditional test
 age = 65 
 if age < 4:
     price = 0
