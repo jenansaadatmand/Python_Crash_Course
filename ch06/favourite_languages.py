@@ -63,7 +63,7 @@ print()
 # Wrap set() around a list that contains duplicate items, Python identifies the unique items in the list and builds a set from those items
 
 print("The following languages have been mentioned:")
-for language in set(favourite_languages.values()):  # use set() to pull out the unique languages in favorite_languages.values().
+for language in set(favourite_languages.values()):  # Use set() to pull out the unique languages in favorite_languages.values().
     print(language.title()) # result in nonrepetitive list of languages
 print()
 
