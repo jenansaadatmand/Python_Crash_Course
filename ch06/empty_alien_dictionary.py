@@ -36,7 +36,7 @@ alien_0['x_position'] = alien_0['x_position'] + x_increment
 print(f"New position: {alien_0['x_position']}")
 print()
 
-# Removing key-value pair permanently from dictionary
+# Removing key-value pair permanently from the dictionary
 print(alien_0)
 del alien_0['points']
 print(alien_0)
