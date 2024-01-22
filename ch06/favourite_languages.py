@@ -26,7 +26,7 @@ for name in favourite_languages.keys():
     print(name.title())
 print()
 
-# Alternative way to loop though all keys by default without keys()
+# Alternative way to loop through all keys by default without keys()
 for name in favourite_languages:
     print(name.title())
 print()
