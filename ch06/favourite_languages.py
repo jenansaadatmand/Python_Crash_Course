@@ -64,7 +64,7 @@ print()
 
 print("The following languages have been mentioned:")
 for language in set(favourite_languages.values()):  # Use set() to pull out the unique languages in favorite_languages.values().
-    print(language.title()) # result in nonrepetitive list of languages
+    print(language.title()) # Result in nonrepetitive list of languages
 print()
 
 # Building a set directly using braces and separating the elements with commas
