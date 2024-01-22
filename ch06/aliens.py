@@ -12,7 +12,7 @@ print()
 
 # Code to generate 30 aliens using range()
 # Make an empty list for storing aliens
-# range() returns a series of numbers, tells python how many times we want the loop to repeat
+# range() returns a series of numbers, tells Python how many times we want the loop to repeat
 
 aliens = []
 
