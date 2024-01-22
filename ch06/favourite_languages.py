@@ -33,7 +33,7 @@ print()
 
 # Looping through a dictionary to access a value that is associated with the current key
 # Print a message to friends about the language they choose
-friends = ['phil', 'sarah'] # make a list of friends that we want to print a message to
+friends = ['phil', 'sarah'] # Make a list of friends that we want to print a message to
 for name in favourite_languages.keys():  # Inside the loop, we print each person’s name.
     print(f"Hi {name.title()}.")
     if name in friends:  # we check whether the name we’re working with is in the list friends
