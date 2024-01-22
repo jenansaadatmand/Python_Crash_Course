@@ -42,7 +42,6 @@ print()
 
 # Solution 3: 
 
-
 for name, numbers in favourite_numbers.items():
     print(f"\n{name.title()} likes the following numbers:")
     for number in numbers:
