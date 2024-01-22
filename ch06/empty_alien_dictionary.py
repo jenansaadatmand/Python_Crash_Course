@@ -41,7 +41,3 @@ print(alien_0)
 del alien_0['points']
 print(alien_0)
 
-
-
-
-
