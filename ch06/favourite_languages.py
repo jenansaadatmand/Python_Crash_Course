@@ -36,7 +36,7 @@ print()
 friends = ['phil', 'sarah'] # Make a list of friends that we want to print a message to
 for name in favourite_languages.keys():  # Inside the loop, we print each person’s name.
     print(f"Hi {name.title()}.")
-    if name in friends:  # we check whether the name we’re working with is in the list friends
+    if name in friends:  # we check whether the name we’re working with is in the list of friends
         language = favourite_languages[name].title() # determine the person’s favorite language using the name of the dictionary and the current value of name as the key
         print(f"\t{name.title()}, I see you love {language}!") # print a special greeting, including a reference to their language of choice.
 
