@@ -7,7 +7,7 @@ print(bicycles)     # This isn't the output you want your user to see, proceed t
 # Index positions start at 0, Not 1
 # To access an element in a list, write the name of the list followed by the index of the item enclosed in aquare brackets
 
-# Example: pull out the first bicycle in the list bicycles, resulting in list item without bracket when the user sees it printed on screen
+# Example: pull out the first bicycle in the list bicycles, resulting in a list item without bracket when the user sees it printed on screen
 print(bicycles[0]) # asks for item at index 0, first on the list, 1-1 = 0
 print(bicycles[1]) # asks for item at index 1, second on list, 2-1 = 1 substract item location in list by 1
 print(bicycles[2]) # asks for item at index 2, third item on list, 3-1 = 2 
