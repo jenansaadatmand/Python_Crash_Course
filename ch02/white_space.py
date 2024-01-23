@@ -19,7 +19,7 @@ print()
 
 # Combine newlines and tabs in a single string using \n\t
 # \n\t move to a new line and start the next line with a tab
-# Use a one-line string to generate a four lines output
+# Use a one-line string to generate a four line output
 
 print("Languages\n\tPython\n\tC\n\tJavascript")
 
@@ -35,10 +35,10 @@ print()
 # Python looks for extra space on the right or left of a string
 
 # Use rstrip() method to ensure no extra whitespace exists on the right side of a string
-# To see the action of this code, need to type it in the Python terminal
+# To see the action of this code, you need to type it in the Python terminal
 favorite_language = 'python '
 favorite_language.rstrip() # Removes space from right temporarily 
-print(favorite_language) # When asking the value of variable again, it is the same with the space on right of string
+print(favorite_language) # When asking the value of variable again, it is the same with the space on right of the string
 
 print()
 
@@ -49,7 +49,7 @@ print()
 
 favorite_language = 'python '
 favorite_language = favorite_language.rstrip() # Reassign the stripped value to the variable
-print(favorite_language) # stripped permanently due to reassingment of variable
+print(favorite_language) # stripped permanently due to reassignment of variable
 
 print()
 
