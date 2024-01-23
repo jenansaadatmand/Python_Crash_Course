@@ -7,4 +7,3 @@ print(message)
 # Associating a different value to the variable
 message = "Hello Python Crash Course World !"
 print(message)
-
