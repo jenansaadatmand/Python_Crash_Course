@@ -1,4 +1,4 @@
-# Lists are collection of items in a particular order
+# Lists are collections of items in a particular order
 bicycles = ['treck', 'cannondale', 'redline', 'specialized']
 print(bicycles)
 # Accessing items in list using position or index
