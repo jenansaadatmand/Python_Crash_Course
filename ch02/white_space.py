@@ -84,7 +84,7 @@ print(simple_url)
 print()
 # Avoiding Syntax error with string
 # Syntax error occurs when python does not recognize a section of your program as valid python code
-# eg. if you use apostrophe within single quotes, you'll produce error
+# eg. if you use apostrophe within single quotes, you'll produce an error
 # How to use single and double quotes correctly
 # See program apostrophe.py
 
