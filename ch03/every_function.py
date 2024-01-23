@@ -96,8 +96,3 @@ languages.reverse()
 print(languages)
 # Finding the length of the list
 print(len(languages))
-
-
-
-
-
