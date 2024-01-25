@@ -5,7 +5,7 @@ print(bicycles)     # This isn't the output you want your user to see, proceed t
 
 # Accessing elements in a list or ordered collections by instructing Python the position, or index, of the desired item
 # Index positions start at 0, Not 1
-# To access an element in a list, write the name of the list followed by the index of the item enclosed in aquare brackets
+# To access an element in a list, write the name of the list followed by the index of the item enclosed in square brackets
 
 # Example: pull out the first bicycle in the list bicycles, resulting in a list item without bracket when the user sees it printed on screen
 print(bicycles[0]) # asks for item at index 0, first on the list, 1-1 = 0
