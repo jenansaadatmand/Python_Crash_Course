@@ -9,7 +9,8 @@ print(f"Hello {guest_list[1].title()}, you are invited to dinner.")
 print(f"Hello {guest_list[2].title()}, you are invited to dinner.")
 print()
 
-# Solution # 2
+# Solution # 2:
+
 # Using a for loop
 for guest in guest_list:
     print(f"Hello {guest.title()}, you are invited to dinner.")
