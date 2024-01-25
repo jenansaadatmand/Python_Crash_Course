@@ -2,7 +2,7 @@
 # And now you have space for only two guests
 # Start with your program from exercise 3-6
 # Add a new line that prints a ssage saying that you invite only two people for dinner
-# Use pop() remove guests from your list one at a time until only two names remain in your list
+# Use pop() to remove guests from your list one at a time until only two names remain in your list
 # Each time you pop a name from your list, print a message to that person 
 # Letting them know you're sorry you can't invite them to dinner
 # Print a message to each of the two people still on your list, letting them know they're still invited
