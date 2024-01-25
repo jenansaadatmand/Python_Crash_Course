@@ -60,7 +60,7 @@ print()
 
 # Removing item by value using remove() method, when index is not known
 print(motorcycles) # to show list is empty
-if 'ducati' in motorcycles: # to check if item exists in the list
+if 'ducati' in motorcycles: # to check if the item exists in the list
     motorcycles.remove('ducati')
     print(motorcycles)
 else:   
@@ -76,10 +76,10 @@ print(motorcycles)
 # Also you can use remove() method to work with a value being removed and 
 # Print a statement about it (why it was removed)
 
-too_expensive = 'honda' # assign a variable for item to be removed
+too_expensive = 'honda' # assign a variable for the item to be removed
 motorcycles.remove(too_expensive) # Remove the variable
 print(motorcycles)
 print(f"\nA {too_expensive} is too expensive for me.")
 
-# Organizing a list: presenting information in a particular order, preserve or change original order of list 
+# Organizing a list: presenting information in a particular order, preserving or changing original order of the list 
 
