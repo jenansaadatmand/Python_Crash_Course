@@ -41,7 +41,7 @@ print()
 del motorcycles2[1]                     # Delete the second item in the list
 print(motorcycles2)
 print()
-# When want to use the value of an item afeter you removed it from the list, removing an item using the pop() method
+# When want to use the value of an item after you removed it from the list, remove an item using the pop() method
 # pop() method removes last item in the list but it lets you work with that item after removing it from the list
 motorcycles3 = ['honda', 'suzuki', 'yamaha']
 print(motorcycles3)
