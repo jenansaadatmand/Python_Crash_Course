@@ -27,7 +27,7 @@ print(motorcycles)
 print()
 
 # Removing elements from a list using various methods
-# Remove item according to its position or value
+# Remove the item according to its position or value
 # Removing item using del statement, if you know the position/index of the item 
 
 del motorcycles[0]
