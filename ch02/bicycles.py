@@ -17,7 +17,7 @@ print(bicycles[3].upper())
 print()
 print(bicycles[-1]) # asks for the last item on the list, special syntax to retrieve the last item on a list
 print()
-# Conventions extend to recalling the -2 second last in the list, -3 third to last in list, etc
+# Conventions extend to recalling the -2 second last in the list, -3 third to last in the list, etc
 print(bicycles[-2])
 print(bicycles[-3])
 print()
