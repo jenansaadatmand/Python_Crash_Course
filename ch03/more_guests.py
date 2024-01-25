@@ -5,7 +5,7 @@
 # Use insert() to add one new guest to the beginning of your list
 # Use insert() to add one new guest to the middle of your list
 # Use append() to add one new guest to the end of your list
-# Print a new set of invitation messages, one for each person in your list
+# Print a new set of invitation messages, one for each person on your list
 
 guest_list = ['jimmy','tiffany', 'spoiler']
 print(f"Hello {guest_list[0].title()}, you are invited for dinner.")
@@ -22,7 +22,7 @@ print(guest_list)
 guest_list.append('fofo') # Appending one guest to the end of the list
 print(guest_list)
 print()
-# Printing new set of invitation messages for each guest 
+# Printing a new set of invitation messages for each guest 
 for guest in guest_list:
     print(f"Hello {guest.title()}, you are invited to diner.")
 print()
