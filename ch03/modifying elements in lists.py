@@ -9,7 +9,7 @@ print(motorcycles)
 motorcycles[2] = 'harly davidson'
 print(motorcycles)
 print()
-# Python provides several ways to add new data to existing list
+# Python provides several ways to add new data to the existing list
 # 1. Appending elements to end of list using append() method
 # 2. Inserting elements into a list using insert() method
 # 3. Removing elements from a list according to its position in the list using del statement list name[index]
