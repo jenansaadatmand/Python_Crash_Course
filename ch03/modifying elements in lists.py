@@ -12,7 +12,7 @@ print()
 # Python provides several ways to add new data to the existing list
 # 1. Appending elements to the end of list using append() method
 # 2. Inserting elements into a list using insert() method
-# 3. Removing elements from a list according to its position in the list using del statement list name[index]
+# 3. Removing elements from a list according to their position in the list using del statement list name[index]
 # 4. Removing element according to its position using the pop() method from any position in the list. useful when you want to use the value of an item after you remove it from a list 
 # 5. Removing element by value by remove() method
 # Organizing a list 
