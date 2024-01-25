@@ -11,7 +11,7 @@ print(f'I would like to own a Toyota {mode_transport[1].title()}')
 print(f'I would like to own a public {mode_transport[2].title()}')
 print(f'I would like to own a public {mode_transport[3].title()}')
 print(f'I would like to own a flying {mode_transport[4].title()}')
-print(f'I would like to own a crusing {mode_transport[5].title()}')
+print(f'I would like to own a cruising {mode_transport[5].title()}')
 print()
 
 
