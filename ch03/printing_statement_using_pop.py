@@ -8,7 +8,7 @@ print(last_owned)
 print(f'The last motorcycle I owned was a {last_owned.title()}.')
 print()
 
-# Using pop() to remove an item from any position in a list by including the index of the item you to be removed in paranthesis
+# Using pop() to remove an item from any position in a list by including the index of the item you to be removed in parenthesis
 
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles.pop(1))
