@@ -38,7 +38,7 @@ del motorcycles[1]
 print(motorcycles)
 print()
 
-# Removing item from end of list using pop() method
+# Removing item from the end of list using pop() method
 # pop() removes last item from the list and keeps it in memory to be used in other places
 
 popped_motorcycle = motorcycles.pop() # pop() the last item and assign to variable
