@@ -41,7 +41,7 @@ print()
 # Removing item from the end of the list using pop() method
 # pop() removes last item from the list and keeps it in memory to be used in other places
 
-popped_motorcycle = motorcycles.pop() # pop() the last item and assign to variable
+popped_motorcycle = motorcycles.pop() # pop() the last item and assign to a variable
 print(motorcycles) # removed last item from list
 print(popped_motorcycle) # to prove that we still have access to the removed value 
 print()
