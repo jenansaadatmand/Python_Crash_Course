@@ -7,7 +7,7 @@ languages= ['english', 'french', 'arabic', 'persian', 'german', 'turkish']
 print("Here is the original list:")
 print(languages)
 print()
-# use each function introduced in Chapter 3 at least once:
+# Use each function introduced in Chapter 3 at least once:
 # Accessing elements in a list using their index
 print(f"Item at index 5 is: {languages [5].title()}")
 print(f"Item at last index: {languages[-1].upper()}")
@@ -82,7 +82,7 @@ print()
 # Sorting a list alphabetically temporarily using sorted()
 print("Sorting list temporarily in alphabetical order using sorted():")
 print(sorted(languages))
-print(languages) # list original order unchanged
+print(languages) # List original order unchanged
 print()
 # Sorting a list in reverse-alphabetical order temporarily
 print("Sorting list temporarily in alphabetical reverse order using sorted():")
@@ -94,5 +94,6 @@ print()
 print("Sorting list in chronological reverse order using reverse():")
 languages.reverse()
 print(languages)
+
 # Finding the length of the list
 print(len(languages))
