@@ -26,7 +26,7 @@ motorcycles1.append('ducati')  # Adding new item to end of list using append() m
 print(motorcycles1)
 print()
 
-# Building lists (eg after the program is running and the user inputs data): using an empty list, lets start building a list by adding items to it
+# Building lists (eg after the program is running and the user inputs data): using an empty list, let's start building a list by adding items to it
 motorcycles2 = []
 motorcycles2.append('honda')
 motorcycles2.append('yamaha')
@@ -35,7 +35,7 @@ print(motorcycles2)
 print()
 motorcycles2.insert(0, 'ducati')        # Inserting element using insert()
 print(motorcycles2)
-del motorcycles2[0]                     # Removing element from the list according to position using del statement
+del motorcycles2[0]                     # Removing an element from the list according to position using del statement
 print(motorcycles2)
 print()
 del motorcycles2[1]                     # Delete the second item in the list
