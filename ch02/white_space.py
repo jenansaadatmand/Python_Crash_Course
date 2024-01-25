@@ -38,13 +38,13 @@ print()
 # To see the action of this code, you need to type it in the Python terminal
 favorite_language = 'python '
 favorite_language.rstrip() # Removes space from right temporarily 
-print(favorite_language) # When asking the value of variable again, it is the same with the space on right of the string
+print(favorite_language) # When asking the value of the variable again, it is the same with the space on right of the string
 
 print()
 
 # To remove the whitespace from the right permanently 
 # You have to associate the stripped value with the variable name
-# Changing the variable's value and updating it as program is executed or in response to user input
+# Changing the variable's value and updating it as the program is executed or in response to user input
 
 
 favorite_language = 'python '
@@ -63,7 +63,7 @@ favorite_language.strip()
 
 print()
 
-# Removing a prefix from string
+# Removing a prefix from the string
 # Example: removing a URL prefix http:// to focus on URL part only that users need to enter into an address bar
 
 nostarch_url = 'https://nostarch.com'
@@ -77,7 +77,7 @@ print()
 
 nostarch_url = nostarch_url.removeprefix('https://')
 print(nostarch_url)
-# or assign it to new value
+# or assign it to the new value
 simple_url = nostarch_url.removeprefix('https://')
 print(simple_url)  
 
