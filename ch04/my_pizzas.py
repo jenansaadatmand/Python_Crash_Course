@@ -1,4 +1,4 @@
-# My Pizzas, your pizzas: start with your program from Excersize 4-1 page 56
+# My Pizzas, your pizzas: start with your program from Exercise 4-1 page 56
 # Make a copy of the list of pizzas, and call it friend_pizzas
 # Then do the following:
 # Add a new pizza to the original list
