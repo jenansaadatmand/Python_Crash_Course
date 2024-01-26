@@ -1,7 +1,7 @@
 # Copying a list: start with a list and make a completely new list based on the first list
 # list[:] to make a slice or copy of the entire list
 my_foods = ['pizza', 'falafel', 'carrot cake']
-friend_foods = my_foods[:] # making a slice of entire list to copy the list
+friend_foods = my_foods[:] # making a slice of the entire list to copy the list
 
 print("My favourite foods are:")
 print(my_foods)
