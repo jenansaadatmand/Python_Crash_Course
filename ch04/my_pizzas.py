@@ -10,7 +10,7 @@
 
 
 favourite_pizzas = ["pepparoni", "veggie", "mexican" ]
-friend_pizzas = favourite_pizzas[:] # Copying a list by slice starts at first item and ends at last item
+friend_pizzas = favourite_pizzas[:] # Copying a list by slice starts at the first item and ends at last item
 # Add one pizza added to original list:")
 favourite_pizzas.append("hawaian") 
 # Add one pizza added to second list:")
