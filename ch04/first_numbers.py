@@ -33,7 +33,7 @@ print()
 
 squares = []  # Start with an empty list
 for value in range(1, 11): # Loop through the numbers 1, 10 using the range() function
-    square = value **2 # Raise the value to the second power, assign to a variable
+    square = value **2 # Raise the value to the second power, assign it to a variable
     squares.append(square) # append the variable to the list
 print(squares)
 print()
