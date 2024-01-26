@@ -10,7 +10,7 @@ for x in range(1,6): # It will print 1 to 5 not including 6
     print(x)
 print()
 
-for x in range(6): # it will start at 0 and end at 5, prints 0 through 5
+for x in range(6): # It will start at 0 and end at 5, prints 0 through 5
     print(x)
 print()
 
