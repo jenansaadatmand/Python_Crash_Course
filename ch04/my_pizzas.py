@@ -22,6 +22,3 @@ for pizza in favourite_pizzas:
 print("\nMy friend's favourite pizzas are:")
 for pizza in friend_pizzas:
     print(f"- {pizza}".title())
-
-
-
