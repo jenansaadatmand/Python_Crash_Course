@@ -6,7 +6,7 @@
 for value in range(1,5): # only will print up to 5 not including 5, off-by one behavior
     print(value)
 print()
-for x in range(1,6): # it will print 1 to 5 not including 6
+for x in range(1,6): # It will print 1 to 5 not including 6
     print(x)
 print()
 
