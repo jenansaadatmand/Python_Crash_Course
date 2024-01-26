@@ -5,7 +5,7 @@ friend_foods = my_foods[:] # making a slice of the entire list to copy the list
 
 print("My favourite foods are:")
 print(my_foods)
-print("\nMy freind's foods are:")
+print("\nMy friend's foods are:")
 print(friend_foods)
 # To prove we have two seperate lists, we add new food to each list and show that each list keeps track of person's favorite foods
 my_foods.append('cannoli')
