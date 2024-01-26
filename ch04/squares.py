@@ -1,4 +1,4 @@
-# List of the first 10 square numbers, square of each integer from 1 through 10
+# List of the first 10 square numbers, the square of each integer from 1 through 10
 # Two asterisks ** represent exponents
 # Example of how to put the first 10 square numbers into a list
 
