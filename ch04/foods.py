@@ -7,7 +7,7 @@ print("My favourite foods are:")
 print(my_foods)
 print("\nMy friend's foods are:")
 print(friend_foods)
-# To prove we have two seperate lists, we add new food to each list and show that each list keeps track of person's favorite foods
+# To prove we have two separate lists, we add new food to each list and show that each list keeps track of person's favorite foods
 my_foods.append('cannoli')
 friend_foods.append('ice cream')
 print("\nMy favorite foods are:")
