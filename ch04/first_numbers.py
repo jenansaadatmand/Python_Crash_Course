@@ -32,7 +32,7 @@ print()
 # Raising a value to the second power
 
 squares = []  # Start with an empty list
-for value in range(1, 11): # loop through the numbers 1, 10 using the range() function
+for value in range(1, 11): # Loop through the numbers 1, 10 using the range() function
     square = value **2 # raise the value to the second power, assign to a variable
     squares.append(square) # append the variable to the list
 print(squares)
@@ -56,7 +56,7 @@ print()
 
 
 # List comprehension: to generate lists using one line
-# It combines a for loop and the creation of a new elements in one line
+# It combines a for loop and the creation of new elements in one line
 # And automatically appends each new element
 # Building a list of square numbers using list comprehension: 
 squares = [value **2 for value in range(1, 11)]
