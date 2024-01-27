@@ -22,7 +22,7 @@ else:
     print("You're an elder")
 print()
 
-# Solution # 2:
+# Solution 2:
 
 age = 17
 if age < 2:
