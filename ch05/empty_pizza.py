@@ -4,7 +4,7 @@
 # Useful to check whether a list is empty before running a for loop
 # Check whether the requested topping is empty before building the pizza
 # If the list is empty, we will prompt the user and make sure he wants a plain pizza
-# If the list is not emptywe will build the pizza
+# If the list is not empty we will build the pizza
 
 requested_toppings = []
 if requested_toppings: # instead of jumping right into the loop, we do a quick check
