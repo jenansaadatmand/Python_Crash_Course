@@ -1,4 +1,4 @@
-# Checking that the list is not empty using if statement
+# Checking that the list is not empty using an if statement
 # Empty pizza to let the user provide the information that's stored in a list
 # We cannot assume the list has items in it, each time the loop runs
 # Useful to check whether a list is empty before running a for loop
