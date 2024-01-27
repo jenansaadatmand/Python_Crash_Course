@@ -1,7 +1,7 @@
 # Using multiple lists and if statements 
 # Watch for unusual toppings requests before building your pizza
 # We make two lists: available topppings and user-requested toppings 
-# Available list can be a tupple as well, stable and immutable
+# Available list can be a tuple as well, stable and immutable
 
 available_toppings = ['mushrooms', 'olives', 'green peppers', 'pepperoni', 'pineapple', 'extra cheese']
 requested_toppings = ['mushrooms', 'french fries', 'extra cheese']
