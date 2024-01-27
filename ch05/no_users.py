@@ -2,7 +2,7 @@
 # If the list is empty, print the message We need to find some users!
 # Remove all of the usernames from your list, and make sure the correct message is printed
 
-# This code does not work !
+# This code does not work!
 
 usernames = ['john']
 for username in usernames:
