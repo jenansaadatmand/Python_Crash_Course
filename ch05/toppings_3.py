@@ -12,4 +12,3 @@ for requested_topping in requested_toppings:  # Loop through the list
     else:
         print(f"Sorry, we don't have {requested_topping}.")
 print("\nFinished making your pizza!")    
-
