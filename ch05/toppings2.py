@@ -1,6 +1,6 @@
 # Pizzeria displays a message whenever a topping is added to your pizza as it's being made
 # Making a list of toppings the customer has requested
-# And using a loop to announce each topping as it's being addd to the pizza
+# And using a loop to announce each topping as it's being added to the pizza
 # Checking for special items using if statement 
 
 requested_toppings = ['mushrooms', 'green peppers', 'extra cheese']
