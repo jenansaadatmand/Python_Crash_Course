@@ -23,7 +23,7 @@ for alien_number in range(30):  # each time loop runs, we create an alien
 
 # Imagine that some aliens changing color and moving faster
 # Use a for loop and if statement to change the color of aliens
-# Change the first three aliens to yellow, medium speed aliens worth 10 points each
+# Change the first three aliens to yellow, medium-speed aliens worth 10 points each
 
 for alien in aliens[:3]:
     if alien['color'] == 'green':
