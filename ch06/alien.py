@@ -1,5 +1,5 @@
 # Dictionary a collection of key-value pairs
-# Game dcitionary that stores alien's color and point value
+# Game dictionary that stores alien's color and point value
 alien_0 = {'color':'green', 'points':5}
 print(alien_0)
 print(alien_0['color']) # providing the key to access the value associated with it
