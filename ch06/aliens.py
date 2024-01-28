@@ -32,7 +32,7 @@ for alien in aliens[:3]:
         alien['points'] = 10
         
 # Expand this loop by adding an elif block that turns yellow
-#Aliens into red, fast moving ones worth 15 points each
+#Aliens into red, fast-moving ones worth 15 points each
     elif alien['color'] == 'yellow':
          alien['color'] = 'red'
          alien['speed'] = 'fast'
