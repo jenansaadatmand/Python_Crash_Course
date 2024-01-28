@@ -6,7 +6,7 @@ alien_0["points"] = 5
 print(alien_0)
 
 # Modifying values in a dictionary
-# Alien changes color as game progress
+# Alien changes color as game progresses
 
 print(f"The alien is {alien_0['color']}.")
 alien_0["color"] = 'yellow'
