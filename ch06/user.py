@@ -1,4 +1,4 @@
-# Looping through a dictionary designed to store user information on website
+# Looping through a dictionary designed to store user information on a website
 
 user_0 = {
     'username': 'efermi',
