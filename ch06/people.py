@@ -27,7 +27,7 @@ person = {
     'city': 'toronto',
     }
 people.append(person)
-for person in people:  # looping through the list
+for person in people:  # Looping through the list
     name = f"{person['first_name'].title()} {person['last_name'].title()}" # storing dictionary key and associated value in variables
     age = person['age']
     city = person['city']
