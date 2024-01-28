@@ -13,7 +13,7 @@ alien_0["color"] = 'yellow'
 print(f"The alien is now {alien_0['color']}.")
 print()
 
-# Track position of alien that can move at different speeds
+# Track the position of alien that can move at different speeds
 
 alien_0 = {'color': 'green','points':5,'x_position':0, 'y_position':25, 'speed': 'medium'}
 print(f"Original position: {alien_0['x_position']}")
