@@ -41,7 +41,7 @@ for alien in aliens[:3]:
 
 # Show the first 5 aliens
 
-for alien in aliens[:5]:    # use a slice to print the first five aliens
+for alien in aliens[:5]:    # Use a slice to print the first five aliens
     print(alien)
 print("...")        
 # Show how many aliens have been created
