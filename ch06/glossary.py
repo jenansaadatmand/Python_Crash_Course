@@ -36,7 +36,7 @@ value = glossary['conditional test']
 print(f"Conditional test; {value}")
 print()
 
-# Alternative solution 3
+# Alternative solution 3:
 
 print("Variable") 
 print(f"\t{glossary['variable']}\n")
