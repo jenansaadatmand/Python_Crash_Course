@@ -1,4 +1,4 @@
-# Poll a number of people and asking them what their favourite programming language is
+# Poll a number of people and ask them what their favourite programming language is
 # Dictionary of similar objects
 # When you need more than one line in a dictionary
 # Press enter after the brace and indent the next line one level
