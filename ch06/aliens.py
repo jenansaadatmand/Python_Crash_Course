@@ -45,5 +45,5 @@ for alien in aliens[:5]:    # use a slice to print the first five aliens
     print(alien)
 print("...")        
 # Show how many aliens have been created
-print(f"Total number of aliens: {len(aliens)}")  # print the length of the list to proove we generated 30 aliens
+print(f"Total number of aliens: {len(aliens)}")  # Print the length of the list to proove we generated 30 aliens
 print()
