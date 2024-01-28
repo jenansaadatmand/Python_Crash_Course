@@ -49,7 +49,7 @@ print(f"\t {glossary['constant']}\n")
 print("Conditional test")
 print(f"\t {glossary['conditional test']}\n")
 
-# Alternative solution 4
+# Alternative solution 4:
 
 word = 'variable'
 print(f"\n{word.title()}: {glossary[word]}")
