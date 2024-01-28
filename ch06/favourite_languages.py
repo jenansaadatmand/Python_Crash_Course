@@ -46,7 +46,7 @@ if 'erin' not in favourite_languages.keys():
 print()
 
 # Looping through a dictionary in a particular order using sorted() function
-for name in sorted(favourite_languages.keys()):  # to list all keys in the dictionary and sort that list alphabetically before looping through it.
+for name in sorted(favourite_languages.keys()):  # To list all keys in the dictionary and sort that list alphabetically before looping through it.
     print(f"{name.title()}, thank you for taking the poll.")
 print()
 
