@@ -36,7 +36,3 @@ for city, city_info in cities.items():
     print(f"\n{city.title()} is in {country}.")
     print(f" It has a population of about {population}.")
     print(f" THe {'fact'} mountains are nearby")
-
-
-
-
