@@ -1,6 +1,6 @@
 # Nesting a dictionary inside a dictionary
 # Several users for a website, each with unique usernames
-# Use usernames as keys in a dictionary and store user information in dictionary as a value
+# Use usernames as keys in a dictionary and store user information in the dictionary as a value
 # Store three pieces of information about each user:
 # Username, last name and location
 # Access this information by looping through the usernames and the dictionary associated with each username
