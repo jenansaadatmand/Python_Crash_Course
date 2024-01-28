@@ -1,4 +1,4 @@
-# Starting with empty dictionary and storing in it by adding key-value pairs to it
+# Starting with an empty dictionary and storing in it by adding key-value pairs to it
 
 alien_0 = {}
 alien_0["color"] = "green"
