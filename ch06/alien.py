@@ -9,7 +9,7 @@ print(f"You just earned {new_points} points!")
 print("\n")
 
 # Using the x and y coordinates of the alien, place the alien in a particular
-# Position on left edge of the screen, 25 pixels down from the top
+# Position on the left edge of the screen, 25 pixels down from the top
 # Screen coordinates usually start at the upper-left corner of the screen
 # We will place alien on the left edge by setting the X-coordinate to 0 and 25 pixels from the top
 # By setting its Y-coordinate to positive 25
