@@ -22,6 +22,5 @@ while unconfirmed_users:  # While loop runs as long as the list unconfirmed_user
 # As the list of unconfirmed users shrinks, the list of confirmed users grows. When the list of unconfirmed users is empty, the loop stops, and the list of confirmed users is printed:
 # Display all confirmed users.
 print("\nThe following users have been confirmed:")
-for confirmed_user in confirmed_users: # a for loop to loop through the list
+for confirmed_user in confirmed_users: # A for loop to loop through the list
     print(confirmed_user.title())
-
