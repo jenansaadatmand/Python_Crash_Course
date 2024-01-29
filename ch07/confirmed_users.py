@@ -17,7 +17,7 @@ confirmed_users = []  # an empty list to hold confirmed users
 
 while unconfirmed_users:  # while loop runs as long as the list unconfirmed_users is not empty.
     current_users = unconfirmed_users.pop()  # Within this loop, the pop() function removes unverified users one at a time from the end of unconfirmed_users. because Candace is last in the unconfirmed_users list, her name will be the first to be removed, assigned to current_user, and added to the confirmed_users list. Next is Brian, then Alice.
-    print(f"Verifying user: {current_users.title()}") # we simulate confirming each user by printing a verification message 
+    print(f"Verifying user: {current_users.title()}") # We simulate confirming each user by printing a verification message 
     confirmed_users.append(current_users)  # then adding them to the list of confirmed users.
 # As the list of unconfirmed users shrinks, the list of confirmed users grows. When the list of unconfirmed users is empty, the loop stops, and the list of confirmed users is printed:
 # Display all confirmed users.
