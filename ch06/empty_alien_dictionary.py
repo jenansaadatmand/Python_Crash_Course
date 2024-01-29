@@ -1,4 +1,4 @@
-# Starting with empty dictionary and storing in it by adding key-value pairs to it
+# Starting with an empty dictionary and storing in it by adding key-value pairs to it
 
 alien_0 = {}
 alien_0["color"] = "green"
@@ -6,14 +6,14 @@ alien_0["points"] = 5
 print(alien_0)
 
 # Modifying values in a dictionary
-# Alien changes color as game progress
+# Alien changes color as game progresses
 
 print(f"The alien is {alien_0['color']}.")
 alien_0["color"] = 'yellow'
 print(f"The alien is now {alien_0['color']}.")
 print()
 
-# Track position of alien that can move at different speeds
+# Track the position of an alien that can move at different speeds
 
 alien_0 = {'color': 'green','points':5,'x_position':0, 'y_position':25, 'speed': 'medium'}
 print(f"Original position: {alien_0['x_position']}")
@@ -40,4 +40,3 @@ print()
 print(alien_0)
 del alien_0['points']
 print(alien_0)
-

@@ -1,4 +1,4 @@
-# Poll a number of people and asking them what their favourite programming language is
+# Poll a number of people and ask them what their favourite programming language is
 # Dictionary of similar objects
 # When you need more than one line in a dictionary
 # Press enter after the brace and indent the next line one level
@@ -36,9 +36,9 @@ print()
 friends = ['phil', 'sarah'] # Make a list of friends that we want to print a message to
 for name in favourite_languages.keys():  # Inside the loop, we print each person’s name.
     print(f"Hi {name.title()}.")
-    if name in friends:  # we check whether the name we’re working with is in the list of friends
-        language = favourite_languages[name].title() # determine the person’s favorite language using the name of the dictionary and the current value of name as the key
-        print(f"\t{name.title()}, I see you love {language}!") # print a special greeting, including a reference to their language of choice.
+    if name in friends:  # We check whether the name we’re working with is in the list of friends
+        language = favourite_languages[name].title() # Determine the person’s favorite language using the name of the dictionary and the current value of name as the key
+        print(f"\t{name.title()}, I see you love {language}!") # Print a special greeting, including a reference to their language of choice.
 
 # Use keys() method to find out if a particular person was polled
 if 'erin' not in favourite_languages.keys():
@@ -46,7 +46,7 @@ if 'erin' not in favourite_languages.keys():
 print()
 
 # Looping through a dictionary in a particular order using sorted() function
-for name in sorted(favourite_languages.keys()):  # to list all keys in the dictionary and sort that list alphabetically before looping through it.
+for name in sorted(favourite_languages.keys()):  # To list all keys in the dictionary and sort that list alphabetically before looping through it.
     print(f"{name.title()}, thank you for taking the poll.")
 print()
 

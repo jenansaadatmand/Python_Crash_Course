@@ -23,7 +23,7 @@ for alien_number in range(30):  # each time loop runs, we create an alien
 
 # Imagine that some aliens changing color and moving faster
 # Use a for loop and if statement to change the color of aliens
-# Change the first three aliens to yellow, medium speed aliens worth 10 points each
+# Change the first three aliens to yellow, medium-speed aliens worth 10 points each
 
 for alien in aliens[:3]:
     if alien['color'] == 'green':
@@ -32,7 +32,7 @@ for alien in aliens[:3]:
         alien['points'] = 10
         
 # Expand this loop by adding an elif block that turns yellow
-#Aliens into red, fast moving ones worth 15 points each
+# Aliens into red, fast-moving ones worth 15 points each
     elif alien['color'] == 'yellow':
          alien['color'] = 'red'
          alien['speed'] = 'fast'
@@ -41,11 +41,9 @@ for alien in aliens[:3]:
 
 # Show the first 5 aliens
 
-for alien in aliens[:5]:    # use a slice to print the first five aliens
+for alien in aliens[:5]:    # Use a slice to print the first five aliens
     print(alien)
 print("...")        
 # Show how many aliens have been created
-print(f"Total number of aliens: {len(aliens)}")  # print the length of the list to proove we generated 30 aliens
+print(f"Total number of aliens: {len(aliens)}")  # Print the length of the list to proove we generated 30 aliens
 print()
-
-

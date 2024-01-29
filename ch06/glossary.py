@@ -22,7 +22,7 @@ print(f"Constant; {glossary['constant']}")
 print(f"Conditional test; {glossary['conditional test']}")
 print()
 
-# Alternative solution 2
+# Alternative solution 2:
 
 value = glossary['variable']
 print(f"Variable; {value}")
@@ -36,7 +36,7 @@ value = glossary['conditional test']
 print(f"Conditional test; {value}")
 print()
 
-# Alternative solution 3
+# Alternative solution 3:
 
 print("Variable") 
 print(f"\t{glossary['variable']}\n")
@@ -49,7 +49,7 @@ print(f"\t {glossary['constant']}\n")
 print("Conditional test")
 print(f"\t {glossary['conditional test']}\n")
 
-# Alternative solution 4
+# Alternative solution 4:
 
 word = 'variable'
 print(f"\n{word.title()}: {glossary[word]}")

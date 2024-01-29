@@ -1,6 +1,6 @@
 # People: Start with the program you wrote for Exercise 6-1 (page 99).
 # Make two new dictionaries representing different people, 
-# and store all three dictionaries in a list called people. 
+# And store all three dictionaries in a list called people. 
 # Loop through your list of people.
 # As you loop through the list, 
 # Print everything you know about each person.
@@ -27,7 +27,7 @@ person = {
     'city': 'toronto',
     }
 people.append(person)
-for person in people:  # looping through the list
+for person in people:  # Looping through the list
     name = f"{person['first_name'].title()} {person['last_name'].title()}" # storing dictionary key and associated value in variables
     age = person['age']
     city = person['city']

@@ -1,4 +1,4 @@
-# Looping through a dictionary designed to store user information on website
+# Looping through a dictionary designed to store user information on a website
 
 user_0 = {
     'username': 'efermi',
@@ -8,7 +8,7 @@ user_0 = {
 print(user_0)
 print()
 
-# for loop to print all value to keys
+# for loop to print all values to keys
 
 for key in user_0:
     print(user_0[key])
