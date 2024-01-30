@@ -26,8 +26,6 @@
 #function_name() to call the function
 
 
-
-
 #1. Importing an Entire module using the dot notation
 # First create a module, then import it to your program file
 
