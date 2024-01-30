@@ -4,7 +4,7 @@
 # A function that builds pizza. it needs to accept a number of toppings, but you can't know ahead of time how many topping a person will want
 # The function has one parameter *toppings, but this parameter collects as many arguments as the calling line provides.
 # The asterisk * in the parameter tells python to create an empty tupple called toppings and pack whatever values it receives into this tupple
-# The printed output is a tupple even if the function recieves one argument only eg:('pepperoni',)
+# The printed output is a tupple even if the function receives one argument only eg:('pepperoni',)
 
 #def make_pizza(*toppings):  # The * asterick allows the function to accept arbitrary number of parameters that allow passing an arbitrary number of arguments 
 #    """Print the list of toppings that have been requested."""
