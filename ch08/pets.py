@@ -1,5 +1,5 @@
 # Function tells us what kind of animal each pet is and the pet's name
-# Positional argument page 132 in book 
+# Positional argument page 132 in the book 
 def describe_pet(animal_type, pet_name): # Parameters included
     """Display information about a pet."""
     print(f"\nI have a {animal_type}.")
