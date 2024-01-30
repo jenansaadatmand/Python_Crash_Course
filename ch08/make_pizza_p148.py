@@ -17,7 +17,7 @@
 
 # Solution 2 using *args
 
-def make_pizza(size, *args): # * args for arbitrary arguments to be saved in a tupple
+def make_pizza(size, *args): # * args for arbitrary arguments to be saved in a tuple
     """Summarize the pizza we are about to make."""
     print(f"\nMaking a {size}=inch pizza with the following toppings:")
     for topping in args:
