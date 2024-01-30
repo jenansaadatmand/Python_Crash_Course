@@ -16,7 +16,7 @@
 #    """Prints and moves each text message to a sent_messages."""
 #    print(f"\nSending all messages: ")
 #    while messages: # while contains messages
-#        for message in messages: # loop through each item
+#        for message in messages: # Loop through each item
 #            
 #            current_message = messages.pop() # Empties original list from the end
 #            print(current_message) # Prints each messages 
