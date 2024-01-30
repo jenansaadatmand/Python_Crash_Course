@@ -10,7 +10,7 @@
 #    """Print the list of toppings that have been requested."""
 #    print(toppings)
 #make_pizza('pepperoni') # Only one value in the argument
-#make_pizza('mushrooms', 'green peppers', 'extra cheese') # Passing arbitrary number of arguments or values in the calling of the function
+#make_pizza('mushrooms', 'green peppers', 'extra cheese') # Passing an arbitrary number of arguments or values in the calling of the function
 
 # Now we can replace the print() call with a loop that runs through the list of toppings and describes the pizza being ordered
 
