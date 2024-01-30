@@ -36,7 +36,7 @@ print()
 # Set the default value of middle_name to an empty string and move it to the end of the list of parameters
 def get_formatted_name(first_name, last_name, middle_name=''):
     """Return a full name, neatly formatted."""
-    if middle_name: # if test to check to see if the middle name has been provided
+    if middle_name: # If test to check to see if the middle name has been provided
         full_name = f"{first_name} {middle_name}, {last_name}" # Combine all three together
     else:  # If no middle name is provided, the empty string fails the if test, and the else block runs
         full_name = f"{first_name} {last_name}" # Combine only first and last name
