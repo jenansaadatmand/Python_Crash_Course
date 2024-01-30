@@ -32,7 +32,7 @@
 # Use None to add an optional parameter to make_album that allows to store the number of songs
 # Program outcome of dictionary with tracks included.
 
-def make_album(artist, title, tracks=0):  # also you can set tracks to none instead of 0
+def make_album(artist, title, tracks=0):  # Also you can set tracks to none instead of 0
     """Builds a dictionary containing information about an album."""
     album_dict = {
         'artist': artist.title(),
