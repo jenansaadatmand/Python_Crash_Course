@@ -8,7 +8,7 @@ def greet_users(names): # Define the function to expect a list of names, which i
     """print a simple greeting to each user in the list."""
     for name in names: # Function loops through the list it receives 
         msg = f"Hello, {name.title()}!" 
-        print(msg) # prints a greeting to each user
+        print(msg) # Prints a greeting to each user
 usernames = ['hannah', 'try', 'margot'] # Define a list of users
 greet_users(usernames) # Pass the list of usernames to the function in our call
 
