@@ -84,7 +84,7 @@ print("\nThanks for responding!")
 #    print(album)
 #print("\nThanks for responding!")
 
-# Note because of infinite loop, all above programs will continue asking for input over and over, unless you introduce a break at the end or you remove the while loop so it becomes a onetime input only        
+# Note because of infinite loop, all above programs will continue asking for input over and over, unless you introduce a break at the end or you remove the while loop so it becomes a one-time input only        
 
 
 
