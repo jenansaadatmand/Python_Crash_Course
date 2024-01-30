@@ -1,4 +1,4 @@
-# Exercise 8-9 messages: make a list containig a series of short text messages.
+# Exercise 8-9 messages: make a list containing a series of short text messages.
 # Pass the list to a function called show_messages(), which print each text message
 
 messages = ['I love you', 'Hello, how are you', 'I love Python']
