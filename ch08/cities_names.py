@@ -17,7 +17,7 @@ print(land)
 
 print()
 
-# Solution 2
+# Solution 2:
 
 def city_country(city, country):
     """Returns a neatly formatted string like 'Santiago, Chile'."""
