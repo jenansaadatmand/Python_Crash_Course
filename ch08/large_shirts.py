@@ -12,7 +12,7 @@ print()
 make_shirt(size='medium'.title())
 print()
 
-# A shirt of any size with a different messge
+# A shirt of any size with a different message
 make_shirt(size='small'.title(), msg='I love flying')
 print()
 
