@@ -43,7 +43,7 @@ def get_formatted_name(first_name, last_name, middle_name=''):
     return full_name.title()  # return and change to title case
 musician = get_formatted_name('jimi', 'hendrix')  # Assign to a variable
 print(musician)
-musician = get_formatted_name('john', 'hooker', 'lee')  # make sure that middle name is the last positional argument
+musician = get_formatted_name('john', 'hooker', 'lee')  # Make sure that middle name is the last positional argument
 print(musician)
 
 
