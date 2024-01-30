@@ -21,4 +21,3 @@ def show_messages(short_msgs):
         print(msg)
 
 show_messages(short_msgs)
-
