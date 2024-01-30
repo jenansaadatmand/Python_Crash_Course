@@ -13,7 +13,7 @@ def build_profile(first, last, **user_info): # Expects a first and last name, an
     """Build a dictionary containing everything we know about a user."""
     user_info['first_name'] = first # Add by accessing dictionary by assigning key to value 
     user_info['last_name'] = last 
-    return user_info # this returns a dictionary of the key-values of the user-stored information to the function's call line
+    return user_info # This returns a dictionary of the key-values of the user-stored information to the function's call line
 
 user_profile = build_profile('albert', 'einstein', location = 'princeton', field = 'physicss') # Call the function and assign it to a variable
 
