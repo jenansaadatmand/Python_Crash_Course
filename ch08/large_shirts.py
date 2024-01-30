@@ -5,7 +5,7 @@
 def make_shirt(msg='I love Python', size='large'):
     """Prints a message on T-shirts"""
     print(f'\n{size} shirt is printed with the message: "{msg}"')
-make_shirt() # make a large shirt
+make_shirt() # Make a large shirt
 make_shirt(size='large'.title())
 print()
 # Make a medium shirt
