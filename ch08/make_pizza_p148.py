@@ -5,7 +5,7 @@
 # You'll often see the generic parameter name *args, which collects arbitrary positional arguments like this
 
 
-#def make_pizza(size, *toppings): # python assigns the first value it recieves to the parameter size, all other values that come after are stored in toppings tupple
+#def make_pizza(size, *toppings): # python assigns the first value it receives to the parameter size, all other values that come after are stored in toppings tupple
 #    """Summarize the pizza we are about to make."""
 #    print(f"\nMaking a {size}-inch pizza with the following toppings:")
 #    for topping in toppings:
