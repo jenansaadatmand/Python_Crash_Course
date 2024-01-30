@@ -39,7 +39,7 @@ def get_formatted_name(first_name, last_name, middle_name=''):
     if middle_name: # if test to check to see if the middle name has been provided
         full_name = f"{first_name} {middle_name}, {last_name}" # Combine all three together
     else:  # If no middle name is provided, the empty string fails the if test, and the else block runs
-        full_name = f"{first_name} {last_name}" # combine only first and last name
+        full_name = f"{first_name} {last_name}" # Combine only first and last name
     return full_name.title()  # return and change to title case
 musician = get_formatted_name('jimi', 'hendrix')  # Assign to a variable
 print(musician)
