@@ -28,6 +28,6 @@ def build_progile(first, last, **kwargs): # Accept as many as keyword arguments 
     user_info['last_name'] = last
     return user_info
 
-user_profile = build_profile('albert', 'einstein', location = 'princeton', field = 'physics') # call the function by passing it first and last name, and the two key-value pairs 
+user_profile = build_profile('albert', 'einstein', location = 'princeton', field = 'physics') # Call the function by passing its first and last name, and the two key-value pairs 
 print(user_profile)
 
