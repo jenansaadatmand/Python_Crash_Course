@@ -10,7 +10,7 @@ print(musician) # Prints a dictionary with key and values
 print()
 
 
-# Extending the function to accept an optional value like middle name, age and occupation
+# Extending the function to accept an optional value like middle name, age, and occupation
 # Add a new optional parameter age to the function definition and assign the parameter the special value None, which is used when a variable has no specific value assigned to it
 def build_person(first_name, last_name, age=None): # None is a placeholder value, in conditional tests, None evaluates to False
     """Return a dictionary of information about a person."""
