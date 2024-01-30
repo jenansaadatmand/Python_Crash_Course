@@ -13,7 +13,3 @@ def show_completed_models(completed_models): # Define a function with one parame
     print("\nThe following models have been printed.")
     for completed_model in completed_models:
         print(completed_model)   # Displays the name of each model that was printed
-
-
-
-
