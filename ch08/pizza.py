@@ -6,7 +6,7 @@
 # The asterisk * in the parameter tells Python to create an empty tuple called toppings and pack whatever values it receives into this tupple
 # The printed output is a tupple even if the function receives one argument only eg:('pepperoni',)
 
-#def make_pizza(*toppings):  # The * asterick allows the function to accept arbitrary number of parameters that allow passing an arbitrary number of arguments 
+#def make_pizza(*toppings):  # The * asterisk allows the function to accept arbitrary number of parameters that allow passing an arbitrary number of arguments 
 #    """Print the list of toppings that have been requested."""
 #    print(toppings)
 #make_pizza('pepperoni') # Only one value in the argument
