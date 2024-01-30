@@ -37,7 +37,7 @@ print()
 describe_pet(pet_name='harry', animal_type = 'hamster')
 print()
 
-# Various styles to call the function using positional arguments, keyworords arguments, and default values combination
+# Various styles to call the function using positional arguments, keywords arguments, and default values combination
 # A dog named willie
 describe_pet('willie')
 describe_pet(pet_name='willie')
