@@ -9,7 +9,7 @@
 # Stored correctly
 
 
-def make_car(manufacturer, model, **car_info): # can use **car_info instead
+def make_car(manufacturer, model, **car_info): # Can use **car_info instead
     """Make a dictionary representing a car."""
     car_info['manufacturer'] = manufacturer
     car_info['model'] = model
