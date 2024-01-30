@@ -19,5 +19,3 @@ pf.show_completed_models(completed_models) # Pass one parameter when calling the
 # Print_models(unprinted_designs[:], completed_models)  # Passing a copy using slicing, the original list will not be emptied or affected 
 print(f"\n{unprinted_designs}") # To verify if the original list has been emptied [] if you use line 53 command or if you replace line 53 by line 60, list will be unchanged 
 print(completed_models)
-
-
