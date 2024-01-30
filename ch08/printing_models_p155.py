@@ -6,7 +6,7 @@ import printing_functions as pf # Using as to give a module an alias, shorter na
 
 
 unprinted_designs = ['phone case', 'robot pendant', 'dodecahedron']
-completed_models = [] # empty list that will hold the completed models
+completed_models = [] # Empty list that will hold the completed models
 
 # Call two functions with the right arguments from the imported module
 
