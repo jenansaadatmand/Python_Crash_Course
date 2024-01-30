@@ -12,7 +12,7 @@
 #        print(f"- {topping}"")
 
 #make_pizza(16, 'pepperoni') 
-#make_pizza(12, 'mushrooms', 'green peppers', 'extra cheese') # the function call include an argument for the size first, followed by as many as toppings as needed
+#make_pizza(12, 'mushrooms', 'green peppers', 'extra cheese') # the function call includes an argument for the size first, followed by as many as toppings as needed
 
 
 # Solution 2 using *args
