@@ -3,7 +3,7 @@
 def get_formatted_name(first_name, last_name):
     """Return a full name, neatly formatted."""
     full_name = f"{first_name} {last_name}"  #  Function body assigned to variable
-    return full_name.title() # function returns a value that is converted to title case
+    return full_name.title() # Function returns a value that is converted to title case
 musician = get_formatted_name('jimi', 'hendrix')  # Call the function, and the returned value is assigned to a variable
 print(musician)  # output neatly formatted name
 print()
