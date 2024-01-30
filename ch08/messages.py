@@ -4,7 +4,7 @@
 messages = ['I love you', 'Hello, how are you', 'I love Python']
 
 def show_messages(messages):
-    """Prints all text message in a list."""
+    """Prints all text messages in a list."""
     for message in messages:
         print(message)
 
@@ -16,7 +16,7 @@ print("\n")
 short_msgs = ['I love you', 'Hello, how are you?', 'I love Python']
 
 def show_messages(short_msgs):
-    """Displays all text message in a list"""
+    """Displays all text messages in a list"""
     for msg in short_msgs:
         print(msg)
 
