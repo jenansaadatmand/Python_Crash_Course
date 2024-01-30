@@ -41,7 +41,7 @@ def get_formatted_name(first_name, last_name, middle_name=''):
     else:  # If no middle name is provided, the empty string fails the if test, and the else block runs
         full_name = f"{first_name} {last_name}" # combine only first and last name
     return full_name.title()  # return and change to title case
-musician = get_formatted_name('jimi', 'hendrix')  # assign to a variable
+musician = get_formatted_name('jimi', 'hendrix')  # Assign to a variable
 print(musician)
 musician = get_formatted_name('john', 'hooker', 'lee')  # make sure that middle name is the last positional argument
 print(musician)
