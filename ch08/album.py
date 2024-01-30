@@ -37,7 +37,7 @@ def make_album(artist, title, tracks=0):  # Also you can set tracks to none inst
     album_dict = {
         'artist': artist.title(),
         'title': title.title(), 
-        }  # notice if you added tracks here has no attribute title() because it is not a string and it is a number, you can also omit the 'tracks': tracks.title() completely from the dictionary.
+        }  # Notice if you added tracks here has no attribute title() because it is not a string and it is a number, you can also omit the 'tracks': tracks.title() completely from the dictionary.
 
     if tracks:
         album_dict['tracks'] = tracks
