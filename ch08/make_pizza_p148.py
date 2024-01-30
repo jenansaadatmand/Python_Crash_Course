@@ -15,7 +15,7 @@
 #make_pizza(12, 'mushrooms', 'green peppers', 'extra cheese') # the function call includes an argument for the size first, followed by as many as toppings as needed
 
 
-# Solution 2 using *args
+# Solution 2 using *args:
 
 def make_pizza(size, *args): # * args for arbitrary arguments to be saved in a tuple
     """Summarize the pizza we are about to make."""
