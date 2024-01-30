@@ -51,7 +51,7 @@ def show_completed_models(completed_models): # Define a function with one parame
 # This is the body of the program: 
 
 unprinted_designs = ['phone case', 'robot pendant', 'dodecahedron']
-completed_models = [] # empty list that will hold the completed models
+completed_models = [] # Empty list that will hold the completed models
 
 # Call two functions with the right arguments
 print_models(unprinted_designs, completed_models) # Pass two lists when calling the function
