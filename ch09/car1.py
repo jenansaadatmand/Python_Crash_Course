@@ -14,7 +14,7 @@
 #        self.year = year
 
 
-#    def get_descriptive_name(self): # define a method that puts all the parameters into one string neatly describing the car. instead of printing each attribute's value individually
+#    def get_descriptive_name(self): # Define a method that puts all the parameters into one string neatly describing the car. instead of printing each attribute's value individually
 #        """Return a neatly formatted descriptive name."""
 #        long_name = f"{self.year} {self.make} {self.model}" # to work with attribute's values, we use self.parameter
 #        return long_name.title()
