@@ -16,7 +16,7 @@
 
 #    def get_descriptive_name(self): # Define a method that puts all the parameters into one string neatly describing the car. instead of printing each attribute's value individually
 #        """Return a neatly formatted descriptive name."""
-#        long_name = f"{self.year} {self.make} {self.model}" # to work with attribute's values, we use self.parameter
+#        long_name = f"{self.year} {self.make} {self.model}" # To work with attribute's values, we use self.parameter
 #        return long_name.title()
 
 #my_new_car = Car('audi', 'a4', 2019) # Making a new car instance from Car class and assigning it to the variable my_new_car, we give it attributes, these attributes will be associated with parameters in the __init__() method
