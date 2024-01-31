@@ -72,7 +72,7 @@ jenan = Admin('jenan', 'saadatmand', 'jsaad', 'jenansaad@yahoo.com', 'canada')
 
 jenan.describe_user()
 
-jenan.privileges = ['can reset passwords', 'can moderate discussions','can suspend accounts', 'can add post', 'can delete post', 'can ban user', 'can register new user'] # define the list of privieges
+jenan.privileges = ['can reset passwords', 'can moderate discussions','can suspend accounts', 'can add post', 'can delete post', 'can ban user', 'can register new user'] # Define the list of privieges
 
 jenan.show_privileges()
 
