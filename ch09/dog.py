@@ -65,7 +65,7 @@ my_dog = Dog('Jimmy', 13)
 your_dog = Dog('Lucy', 3)
 print(f"My dog's name is {my_dog.name}.")
 print(f"My dog is {my_dog.age} years old.")
-my_dog.sit()  # Notice, you don't need a print statement to display on screen, it will display automatically
+my_dog.sit()  # Notice, you don't need a print statement to display on the screen, it will display automatically
 my_dog.roll_over()
 
 print(f"\nYour dog's name is {your_dog.name}.")
