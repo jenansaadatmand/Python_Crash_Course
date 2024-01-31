@@ -17,7 +17,7 @@ class Dog:  # Define a class called Dog, by convention capitalized names refer t
     def __init__(self, name, age): # Creates an instance representing a dog and sets the name and age attributes using the values provided in the class calls. --init--() takes the parameters and assigns them to the attributes that will be associated with instances made from this class
         """Initilaize name and age attributes."""
         self.name = name # create a variable with a prefix self., prefixed with self to be available to every method in the class, and be accessed through any instance created from the class
-        self.age = age # takes the value associated with the parameter age and assigns it to the variable age when then attached to the instance being created. Variables that are accessible through instances like this are called attributes
+        self.age = age # Takes the value associated with the parameter age and assigns it to the variable age when then attached to the instance being created. Variables that are accessible through instances like this are called attributes
 
     def sit(self): # Method sit() does not need additional information to run, so it has one parameter, self
         """Simulate a dog sitting in response to a command."""
