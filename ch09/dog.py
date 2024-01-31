@@ -3,7 +3,7 @@
 # Writing a simple class, Dog that represents any god
 # We know that all dogs have information such as name and age, and behaviors such as sit and roll over.
 # This class will tell Python how to make an object representing a dog.
-# First we write the class, then we use it to make individual instances, each of which represents one specific dog
+# First we write the class, and then we use it to make individual instances, each of which represents one specific dog
 # Every method call associated with an instance automatically passes self, which is a reference to the instance itself, it gives the individual instance access to the attributes and methods in the class
 # _init_() method, a function that is part of a class called method, python runs, automatically when we create a new instance based on the Dog class, has two leading underscores and two trailing underscores, two underscores on each side of the init, takes three parameters: self(required and must come first), name and age. Pythons calls this method to create an instance of class and automatically pass the self argument
 # First, creating the Dog class
