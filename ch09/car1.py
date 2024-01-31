@@ -33,7 +33,7 @@
 class Car:
     """A simple attempt to represent a car."""
 
-    def __init__(self, make, model, year): # no need to include the default value parameter odometer_reading here
+    def __init__(self, make, model, year): # No need to include the default value parameter odometer_reading here
         """Initialize attributes to describe a car."""
         self.make = make
         self.model = model
