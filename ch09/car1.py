@@ -49,7 +49,7 @@ class Car:
         """Print a statement showing the car's mileage."""
         print(f"This car has {self.odometer_reading} miles on it.")
     
-#    def update_odometer(self, mileage): # method takes in a mileage value and assigns it to self.odometer_reading
+#    def update_odometer(self, mileage): # Method takes in a mileage value and assigns it to self.odometer_reading
 #        """Set the odometer reading to the given value."""
 #        self.odometer_reading = mileage
 
