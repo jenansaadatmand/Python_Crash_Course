@@ -94,7 +94,7 @@ my_new_car.read_odometer()
 # 1. Modifying an attribute value by accessing it directly through an instance:
 # Let's set the odometer reading to 23 directly
 
-my_new_car.odometer_reading = 23 # use dot notation to access the car's odometer attribute and set its value to 23. tells python to take the instance my_new_car, find the attribute odometer associated with it and set the value of that attribute to 23
+my_new_car.odometer_reading = 23 # Use dot notation to access the car's odometer attribute and set its value to 23. tells python to take the instance my_new_car, find the attribute odometer associated with it and set the value of that attribute to 23
 my_new_car.read_odometer()
 print()
 
