@@ -128,7 +128,6 @@ print()
 # Uncomment method on lines 67-69, a method that allows us to pass this incremental amount and add that value to the odometer reading
 
 
-
 my_used_car = Car('subaru', 'outback', 2015)
 print(my_used_car.get_descriptive_name())
 
