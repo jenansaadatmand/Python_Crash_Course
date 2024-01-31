@@ -118,7 +118,7 @@ print()
 # Let's extend the method update_odometer() to do additional work every time the odometer reading is modified as a check for security measure
 # Uncomment code lines 57, to 65, for the below code to work, we will add a little logic to make sure no one tires to roll back the odometer reading:
 
-my_new_car.update_odometer(8) # outcome, you cannot roll back an odometer
+my_new_car.update_odometer(8) # Outcome, you cannot roll back an odometer
 my_new_car.read_odometer()
 print()
 
@@ -145,6 +145,3 @@ print()
 
 my_used_car.increment_odometer(-1)  # Because of the previous addition on line 138, the odometer currently is set on 23,600
 my_used_car.read_odometer() # Negative number can't set back the odometer
-
-
-
