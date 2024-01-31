@@ -32,7 +32,7 @@ class Dog:  # Define a class called Dog, by convention capitalized names refer t
 # The class Dog is a set of instructions that tells Python how to make individual instances representing specific dogs
 # Making an instance representing dog
 
-# Tell python to create a dog whose name is 'Willie' and whose age is 6 years.
+# Tell Python to create a dog whose name is 'Willie' and whose age is 6 years.
 # Outcome, python returns an instance representing this dog using the attributes provided
 
 my_dog = Dog('Willie', 6) # We don't pass self as an argument but we pass attributes willie and 6 here in the call, we assign this instance to my_dog variable. convension naming is capitalized name for class and lowercase name my_dog refer to single instance created from a class
