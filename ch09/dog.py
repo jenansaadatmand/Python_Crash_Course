@@ -30,7 +30,7 @@ class Dog:  # Define a class called Dog, by convention capitalized names refer t
 # Second, making an instance from a class 
 # A class is a set of instructions for how to make an instance
 # The class Dog is a set of instructions that tells Python how to make individual instances representing specific dogs
-# Making an instance representing dog
+# Making an instance representing a dog
 
 # Tell Python to create a dog whose name is 'Willie' and whose age is 6 years.
 # Outcome, python returns an instance representing this dog using the attributes provided
