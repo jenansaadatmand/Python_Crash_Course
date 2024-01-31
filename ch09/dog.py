@@ -40,7 +40,7 @@ print(f"My dog's name is {my_dog.name}.") # Accessing the value of the attribute
 print(f"My dog is {my_dog.age} years old.") # Accessing attribute age within the my_dog instance within the Dog class
 
 # Accessing attributes of an instance, use dot notation
-my_dog.name # dot notations syntac allows python to look at the instance my_dog, then find the attribute's value associated with attribute name associated with my_dog. This is the same attribute referred to as self.name in the class Dog
+my_dog.name # dot notations syntax allows python to look at the instance my_dog, then find the attribute's value associated with attribute name associated with my_dog. This is the same attribute referred to as self.name in the class Dog
 print(my_dog.name)
 my_dog.age
 print(my_dog.age)
