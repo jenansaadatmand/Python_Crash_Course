@@ -110,7 +110,7 @@ print()
 
 # This code works with lines 52, 53, and 54 being uncommented
 
-my_new_car.update_odometer(23)  # call the method and pass 23 as an argument(corresponding the mileage parameter in the method definition)
+my_new_car.update_odometer(23)  # Call the method and pass 23 as an argument(corresponding the mileage parameter in the method definition)
 my_new_car.read_odometer() # read_odometer() prints the reading
 print()
 
