@@ -58,7 +58,8 @@ print("\n")
 
 # Creating multiple instances from a class:
 # Let's create a second dog called your_dog
-# We create a dog nammed Jimmy and a dog named Lucy. Each dog is a separate instance with its own attributes, capable of the same set of actions
+# We create a dog named
+Jimmy and a dog named Lucy. Each dog is a separate instance with its own attributes, capable of the same set of actions
 
 my_dog = Dog('Jimmy', 13)
 your_dog = Dog('Lucy', 3)
