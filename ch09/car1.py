@@ -54,7 +54,7 @@ class Car:
 #        self.odometer_reading = mileage
 
 
-    def update_odometer(self, mileage): # method updates the self.odometer_reading attribute's value
+    def update_odometer(self, mileage): # Method updates the self.odometer_reading attribute's value
         """
         Set the odometer reading to the given value. 
         reject the change if it attempts to roll the odometer back.
