@@ -77,8 +77,3 @@ jenan.privileges = ['can reset passwords', 'can moderate discussions','can suspe
 jenan.show_privileges()
 
 # If you forget the () brackets after the method, you are not executing the method so you get a bound error
-
-
-
-
-
