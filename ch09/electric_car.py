@@ -80,7 +80,7 @@ my_tesla.describe_battery()
 # The solution is to look at def function indentation at line 51. unindent the def of function
 
 # Overriding methods from the parent class despite inheritance
-# You can override any method from parent class that doesn't fit what you're trying to model with the child class
+# You can override any method from the parent class that doesn't fit what you're trying to model with the child class
 # To do this, you define a method in the child class with the same name as the method you want to override in the parent class, python will disregard the parent class method and only pay attention to the method you defined in the child class
 # eg. The class car had a method called fill_gass_tank(), this method meaningless for all electric vehicles
 # So you want to override this method, code in line 60 overrides line 40
