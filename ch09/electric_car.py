@@ -68,7 +68,7 @@ my_tesla = ElectricCar('tesla', 'model s', 2019) # Test the inheritance is worki
 print(my_tesla.get_descriptive_name())
 
 
-# Defining Attributes and methods for the child class: to differentiate it from parent class
+# Defining Attributes and methods for the child class: to differentiate it from the parent class
 # Let's add an attribute specific to electric cars, a batter and a method to report on this attribute.
 # Store the batter size and write a method that provides a description of the battery
 # Corresponding code is on lines 49, 51, 52, and 53
