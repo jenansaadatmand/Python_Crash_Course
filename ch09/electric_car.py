@@ -97,9 +97,3 @@ print()
 # eg. if we continue adding detail to ElectricCar classs, we might add many attributes and methods specific to the car's battery.
 # When we see this happening we stop and move those attributes and methods to a separate class called battery.
 # Then we use battery instance as an attribute in the ElectricCar class:
-
-
-
-
-
-
