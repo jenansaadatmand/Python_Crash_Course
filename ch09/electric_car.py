@@ -91,7 +91,7 @@ print()
 
 # Instances as Attributes: 
 # See code in instances_attributes_electric_car.py
-# When modelling something from the real world in code, you might find that you're adding more and more detail to a class, a growing list of attributes and methods and you files become lengthy
+# When modelling something from the real world in code, you might find that you're adding more and more detail to a class, a growing list of attributes and methods and your files become lengthy
 # In these situations, you might recognize that part of one class can be written as a separate class
 # Break large classes into smaller classes that work together
 # eg. if we continue adding detail to ElectricCar classs, we might add many attributes and methods specific to the car's battery.
