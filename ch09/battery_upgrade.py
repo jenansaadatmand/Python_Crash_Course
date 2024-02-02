@@ -93,7 +93,7 @@ class ElectricCar(Car): # Define child class, the name of the parent class must 
 
 print("Make an electric car, and check the range:")
 
-my_tesla = ElectricCar('tesla', 'model s', 2019) # Creating an ElectricCar instance and assigning it to variable my_tesla, test the inheritance is working, by trying to create an electric car with the same kind of information we'd provide when making a regular car. make instance ElectricCar and assing it to my_tesla. This line calls the __init__() method defined in ElectricCar child class, which in trun tells python to call the __init__() method defined in the parent class Car.
+my_tesla = ElectricCar('tesla', 'model s', 2019) # Creating an ElectricCar instance and assigning it to variable my_tesla, test the inheritance is working, by trying to create an electric car with the same kind of information we'd provide when making a regular car. make instance ElectricCar and assing it to my_tesla. This line calls the __init__() method defined in ElectricCar child class, which in trun tells Python to call the __init__() method defined in the parent class Car.
 print(my_tesla.get_descriptive_name())
 print()
 
