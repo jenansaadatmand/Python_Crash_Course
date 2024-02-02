@@ -2,7 +2,7 @@
 # Writing a new class (child) based on an existing class (parent)
 # Need to call the __init__() method from the parent class, to initialize any attributes that were defined in the parent ___init__() method and make them available in the child class
 # Model an electric car, a specific kind of car, based on car class, p162
-# Then we'll only have to write code for the attributes and behavior specific to electric cars
+# Then we'll only have to write code for the attributes and behaviour specific to electric cars
 # Simple version of ElectricCar class, which does everything the car class does
 
 class Car:  # Start with defining the parent class, which must appear in the current .py file when making a child class
