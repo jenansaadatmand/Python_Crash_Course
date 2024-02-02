@@ -32,4 +32,3 @@ italiano = Restaurant('italiano', 'Pizza')
 india_town.describe_restaurant()
 seaside.describe_restaurant()
 italiano.describe_restaurant()
-
