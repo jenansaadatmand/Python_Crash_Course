@@ -48,6 +48,3 @@ class ElectricCar(Car): # Define child class, the name of the parent class must 
     def fill_gas_tank(self):
         """Electric cars don't have gas tanks."""
         print("This car doesn't need a gas tank!")
-
-
-
