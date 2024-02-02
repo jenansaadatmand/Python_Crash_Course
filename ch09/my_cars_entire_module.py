@@ -2,7 +2,7 @@
 # Access classes through module_name.ClassName syntax
 # Also you can import every class from a module using the following syntax:
 # From module_name import * 
-# This syntax is not recommended, not clear which class you are using from the module when you read it and there is a chance of overwriting existing or confuse names of Class and functions in your program 
+# This syntax is not recommended, not clear which class you are using from the module when you read it and there is a chance of overwriting existing or confusing names of Class and functions in your program 
 
 import car   # Import the entire Module and use dot notation to access classes
 
