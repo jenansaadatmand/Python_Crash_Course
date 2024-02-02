@@ -53,5 +53,3 @@ soso.greet_user()
 
 toto.describe_user()
 toto.greet_user()
-
-
