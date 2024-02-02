@@ -9,7 +9,7 @@
 # Print the two attributes individually, and then call both methods
 
 class Restaurant:
-    """A class representing or modeling a restaurant"""
+    """A class representing or modelling a restaurant"""
  
     def __init__(self, name, cuisine_type):
         """Initialize the restaurant."""
