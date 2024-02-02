@@ -63,7 +63,7 @@ print(f"Number served: {restaurant.number_served}")
 
 # Changing the attribute's value via a method:
 
-restaurant.set_number_served(1257) # calling the new function 
+restaurant.set_number_served(1257) # Calling the new function 
 print(f"\nNumbers served: {restaurant.number_served}")
 print()
 
