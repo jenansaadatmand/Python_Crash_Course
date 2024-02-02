@@ -1,5 +1,5 @@
 # Random module contains the randint() 
-#ranint() takes two integer arguments and return a randomly selected integer between (and including) those numbers.
+#ranint() takes two integer arguments and returns a randomly selected integer between (and including) those numbers.
 
 # How to generate a random number between 1 and 6:
 
