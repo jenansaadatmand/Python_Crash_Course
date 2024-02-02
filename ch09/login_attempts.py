@@ -67,6 +67,3 @@ print("\nResetting login attempts...")
 
 jimmy.reset_login_attempts()
 print(f"\nlogin attempts: {jimmy.login_attempts}")
-
-
-
