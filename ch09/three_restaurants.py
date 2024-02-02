@@ -20,7 +20,7 @@ class Restaurant:
     def open_restaurant(self):
         """Displays or simulates the restaurant is open."""
         print(f"{self.name} is open.")
-        # alternatively you can use this code:
+        # Alternatively you can use this code:
         msg = f"{self.name} is open. Come on in."
         print(f"\n{msg}")
 
