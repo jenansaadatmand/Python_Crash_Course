@@ -1,5 +1,5 @@
 # Privileges: write a separate privileges class 
-# The class should have one attribute, privileges, that stores a list of strings as described in excersize 9-7.
+# The class should have one attribute, privileges, that stores a list of strings as described in exercise 9-7.
 # Move the show_privileges() method to this class.
 # Make a privileges instance as an attribute in the Admin class.
 # Create a new instance of Admin and use your method to show its privileges
