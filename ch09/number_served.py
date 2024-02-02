@@ -52,7 +52,7 @@ print()
 
 
 # Changing the Attribute's value directly:
-#print(f"\nCustomers served: {restaurant.number_customers_served}") # printing the number of customers the restaurant has served
+#print(f"\nCustomers served: {restaurant.number_customers_served}") # Printing the number of customers the restaurant has served
 #restaurant.number_served = 50  # Change the number of customers the restaurant has served directly by accessing the attribute from 0 to 23
 #print(f"Customers served: {restaurant.number_customers_served}") # Printing the value of customers served again
 
