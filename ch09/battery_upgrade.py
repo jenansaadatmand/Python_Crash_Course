@@ -83,7 +83,7 @@ class ElectricCar(Car): # Define child class, the name of the parent class must 
         Then initializa attributes specific to an electric car.
         """
         super().__init__(make, model, year) # inheritance, super().__init__() function allows to call a method from the parent class, tells Python to call the __init__() method from Car, which gives an ElectricCar instance all the attributes defined in that method. Superclass (Parent class) and subclass (child class) conversion. no: at the end
-        self.battery = Battery()  # Add a new attribute called self.battery, this line tells Python to create a new instance of Battery (with a default size of 75, because we're not specifying a value) and assing that instance to the attribute self.battery. eg of an instance from another class used as an attribute
+        self.battery = Battery()  # Add a new attribute called self.battery, this line tells Python to create a new instance of Battery (with a default size of 75, because we're not specifying a value) and assign that instance to the attribute self.battery. eg of an instance from another class used as an attribute
         # attribute = instance # Assign that instance Battery() to the attribute self.battery. This happens everytime the __init__() method is called, any ElectricCar instance will now have a Battery instance created automatically
     
     def fill_gas_tank(self):
