@@ -67,7 +67,7 @@ restaurant.set_number_served(1257) # calling the new function
 print(f"\nNumbers served: {restaurant.number_served}")
 print()
 
-#restaurant.set_number_served(-1) # setting a negative number
+#restaurant.set_number_served(-1) # Setting a negative number
 #print(f"\nNumbers served: {restaurant.number_customers_served}")
 
 # Incrementing the attribute's value
