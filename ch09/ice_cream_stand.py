@@ -58,7 +58,7 @@ class IceCreamStand(Restaurant): # Inheretance
         for flavor in self.flavors: # a for loop to loop through the list flavors
             print(f"- {flavor.title()}")
 
-ice_cream = IceCreamStand('Gelato', 'ice cream')  # an ice_cream_stand instance is created
+ice_cream = IceCreamStand('Gelato', 'ice cream')  # An ice_cream_stand instance is created
 #ice_cream.flavors = ['strawberries', 'blueberries', 'raspberries'] # creating a list of ice cream flavors, defining the list flavors.  Alternatively, we can add the flavors inside line 53 instead of an empty list
 
 ice_cream.describe_restaurant()  # Calling the method that describes the restaurant information
