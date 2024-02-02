@@ -21,7 +21,7 @@ class Car:  # Start with defining the parent class, which must appear in the cur
         return long_name.title()  
 
     def read_odometer(self):
-        """Prints a statement showing the cars mileage."""
+        """Prints a statement showing the car's mileage."""
         print(f"This car has {self.odometer_reading} miles on it.")
 
     def update_odometer(self, mileage):
