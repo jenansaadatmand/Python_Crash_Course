@@ -1,7 +1,7 @@
 # Creating and using a class
 # You can model anything using classes
 # Writing a simple class, Dog that represents any god
-# We know that all dogs have information such as name and age, and behaviors such as sit and roll over.
+# We know that all dogs have information such as name and age, and behaviours such as sit and roll over.
 # This class will tell Python how to make an object representing a dog.
 # First we write the class, and then we use it to make individual instances, each of which represents one specific dog
 # Every method call associated with an instance automatically passes self, which is a reference to the instance itself, it gives the individual instance access to the attributes and methods in the class
