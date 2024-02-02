@@ -1,7 +1,7 @@
 # Working with classes and instances, p162
 # Modifying attributes associated with instances in a class
 # You can modify attributes of an instance directly or write methods that update attributes in specific ways
-# New class representing car. Car will store information about the kind of the car and it will have a method that summarizes this information
+# New class representing car. The car will store information about the kind of the car and it will have a method that summarizes this information
 
 
 #class Car:
