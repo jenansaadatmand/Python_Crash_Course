@@ -74,7 +74,7 @@ print()
 
 print("\nAdding privileges...")
 
-jenan_privileges = [                # Notice the variable with underscore
+jenan_privileges = [                # Notice the variable with an underscore
     'can reset passwords', 
     'can moderate discussions',
     'can suspend accounts', 
