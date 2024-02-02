@@ -101,7 +101,3 @@ print()
 # See code line 55-62 and line 103
 
 my_tesla.battery.get_range() # When we want to use this method, we again call it through the car's battery attribute 
-
-
-
-
