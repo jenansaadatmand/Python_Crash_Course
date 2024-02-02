@@ -5,7 +5,7 @@
 # This class will tell Python how to make an object representing a dog.
 # First we write the class, and then we use it to make individual instances, each of which represents one specific dog
 # Every method call associated with an instance automatically passes self, which is a reference to the instance itself, it gives the individual instance access to the attributes and methods in the class
-# _init_() method, a function that is part of a class called method, python runs, automatically when we create a new instance based on the Dog class, has two leading underscores and two trailing underscores, two underscores on each side of the init, takes three parameters: self(required and must come first), name and age. Pythons call this method to create an instance of class and automatically pass the self-argument
+# _init_() method, a function that is part of a class called method, Python runs, automatically when we create a new instance based on the Dog class, has two leading underscores and two trailing underscores, two underscores on each side of the init, takes three parameters: self(required and must come first), name and age. Pythons call this method to create an instance of class and automatically pass the self-argument
 # First, creating the Dog class
 # Each instance created from the dog class will store a name and an age, and we'll give each dog the ability to sit() and roll_over():
 
