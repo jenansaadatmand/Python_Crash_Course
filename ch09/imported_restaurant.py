@@ -3,5 +3,3 @@
 # Make a separate file that imports Restaurant
 # Make a Restaurant instance, 
 # And call one of Restaurant's methods to show that the import statement is working properly
-
-  
