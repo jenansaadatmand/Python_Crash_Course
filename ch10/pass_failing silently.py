@@ -19,5 +19,5 @@ filenames = ['text_files/alice.txt', 'text_files/siddhartha.txt', 'text_files/mo
 for filename in filenames: 
     count_words(filename)
 
-# The pass statement also acts as a placeholder. reminder that you are choosing to do nothing at a specific point in your program's execution and that you might want to do something there later
+# The pass statement also acts as a placeholder. a reminder that you are choosing to do nothing at a specific point in your program's execution and that you might want to do something there later
 # eg: later you might decide to write any missing filenames to a file called missing_files.txt. users will not see this file, but we will be able to read the file and deal with any missing texts.
