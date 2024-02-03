@@ -37,6 +37,3 @@ with open(filename) as f:
     lines = f.readlines() # Automatically stores the lines in the list
 for line in lines: 
     print(line.strip())
-
-
-
