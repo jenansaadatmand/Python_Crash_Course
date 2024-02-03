@@ -13,4 +13,3 @@ if birthday in pi_string: # check if that string is in pi
     print("Your birthday appears in the first million digits of pi!")
 else:
     print("Your birthday does not appear in the first million digits of pi.")
-
