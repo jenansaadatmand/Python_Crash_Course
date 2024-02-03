@@ -7,3 +7,4 @@ A popular Python programming book to learn Python programming. The book covers t
 
 
 ![81py-nCTfrL _SL1500_](https://github.com/jenansaadatmand/Python_Crash_Course/assets/153618882/a659ed69-846a-4b57-94e6-773de0e58e89)
+https://a.co/d/iWJmMRB
