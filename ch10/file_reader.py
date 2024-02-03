@@ -1,5 +1,5 @@
 # Write a program that reads in the contents of a text file and rewrites the file with formatting that allows a browser to display it.
-# Work with information in a text file, first step to read the file into memory. read entire file or one line at a time
+# Work with information in a text file, first step to read the file into memory. read the entire file or one line at a time
 # Reading an entire file
 # Opens a file contains pi to 30 decimal places, with 10 decimal places per line
 # Reader program opens the file, reads it, and prints the content of the file to the screen
