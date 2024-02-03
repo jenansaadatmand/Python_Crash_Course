@@ -22,4 +22,4 @@ def greet_user(): # We are using a function now, greeting the user and retrievin
 greet_user()
 
 # The UnboundLocalError: local variable referenced before assignment error is raised when you try to assign a value to a local variable before it has been declared. You can solve this error by ensuring that a local variable is declared before you assign it a value.
-# I used or referenced username in line 20 in else block but I did not declare it in line 13 as username variable = json.load(f)
+# I used or referenced username in line 20 in the else block but I did not declare it in line 13 as username variable = json.load(f)
