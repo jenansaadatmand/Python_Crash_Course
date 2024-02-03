@@ -87,4 +87,3 @@ jenan_privileges = [                # Notice the variable with an underscore
 jenan.privileges.privileges = jenan_privileges  # Pay attention to this line !
 
 jenan.privileges.show_privileges()
-
