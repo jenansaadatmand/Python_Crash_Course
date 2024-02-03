@@ -50,6 +50,3 @@ def count_common_words(filename, word):
 filename = 'text_files/dracula.txt'
 count_common_words(filename, 'the')
 count_common_words(filename, 'the ')
-
-
-
