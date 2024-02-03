@@ -1,6 +1,6 @@
 # Exercise 9-3 Users: make a class called user
 # Create two attributes called first_name and last_name,
-# and then create several other attributes that are typically stored in a user profile.
+# And then create several other attributes that are typically stored in a user profile.
 # Make a method called describe_user() that
 # Print a summary of the user's information.
 # Make another method called greet_user() that
