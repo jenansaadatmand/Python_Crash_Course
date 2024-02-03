@@ -5,7 +5,7 @@
 # So let's move all of our existing code into a function called greet_user()
 
 import json
-def greet_user(): # We are using a function now, greeting the user and retrieving a stored username if one exist and prompting for a new username if one doesn't exist
+def greet_user(): # We are using a function now, greeting the user and retrieving a stored username if one exists and prompting for a new username if one doesn't exist
     """Greet the user by name."""
     filename = 'username.json'
     try:
