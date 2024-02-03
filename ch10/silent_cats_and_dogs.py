@@ -13,4 +13,4 @@ for filename in filenames:
         print(f"\nReading file: {filename}")
         print(contents)
 
-# Remove one or both files from the same directory to check if exception is handled
+# Remove one or both files from the same directory to check if an exception is handled
