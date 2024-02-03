@@ -16,7 +16,7 @@ def get_stored_username(): # Retrieving a stored username if one exists
 
 def get_new_username(): # Prompting for a new username if one doesn't exist
     """Prompt for a new username."""
-    username = input("Waht is your name? ")
+    username = input("What is your name? ")
     filename = 'username.json'
     with open(filename, 'w') as f:
         json.dump(username, f)
