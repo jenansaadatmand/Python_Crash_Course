@@ -3,7 +3,7 @@
 # Move the code of retrieving a stored username to a separate function
 
 import json
-def get_stored_username(): # Retrieving a stored username if one exist 
+def get_stored_username(): # Retrieving a stored username if one exists 
     """Get stored username if available.""" # docstring
     filename = 'username.json'
     try:
