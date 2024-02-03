@@ -3,7 +3,7 @@
 
 # How to generate a random number between 1 and 6:
 
-from random import randint  # ranint() function takes in a two integer numbers and returns a number in between (and including) those numbers
+from random import randint  # ranint() function takes in two integer numbers and returns a number in between (and including) those numbers
 print(randint(1,6))
 
 print()
