@@ -39,7 +39,3 @@ for filename in filenames:
             print(contents)
     except FileNotFoundError:
         print(f"Sorry, the file {filename} does not exist.")
-
-
-
-
