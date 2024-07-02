@@ -24,4 +24,3 @@ print(f"I know your favorite number! it's {num}.")
 
 
 
-
