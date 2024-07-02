@@ -23,4 +23,3 @@ print(f"I know your favorite number! it's {num}.")
 # If you forgot the f before " and it did not replace the number in line 21 when printed
 
 
-
