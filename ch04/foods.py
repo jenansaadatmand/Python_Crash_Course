@@ -14,3 +14,7 @@ print("\nMy favorite foods are:")
 print(my_foods)
 print("\nMy friend's favorite food are:")
 print(friend_foods)
+
+
+
+
