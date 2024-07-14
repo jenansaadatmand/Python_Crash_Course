@@ -16,4 +16,3 @@ print("\nMy friend's favorite food are:")
 print(friend_foods)
 
 
-
