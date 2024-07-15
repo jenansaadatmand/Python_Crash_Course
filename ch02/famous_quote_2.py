@@ -7,4 +7,3 @@ print(f'{famous_person.title()} once said, "{message}"')
 
 
 
-
