@@ -8,4 +8,3 @@ print(age) # Python returns a string "number", representing the numerical value 
 print(f"You are {age} years old!")
 
 
-
