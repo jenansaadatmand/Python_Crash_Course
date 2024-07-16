@@ -7,4 +7,3 @@ age = int(age) # Converts input string to a numerical value
 print(age) # Python returns a string "number", representing the numerical value entered
 print(f"You are {age} years old!")
 
-
