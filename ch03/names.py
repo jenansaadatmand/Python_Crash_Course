@@ -9,4 +9,3 @@ print(names[3].title())
 print(names[-1].title())
 
 
-
