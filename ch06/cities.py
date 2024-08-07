@@ -38,4 +38,3 @@ for city, city_info in cities.items():
     print(f" THe {'fact'} mountains are nearby")
 
 
-
