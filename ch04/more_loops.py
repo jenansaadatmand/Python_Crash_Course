@@ -16,4 +16,3 @@ for item in friend_foods:
 
 
 
-
