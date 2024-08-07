@@ -12,3 +12,8 @@ for item in my_foods:
 print("\nMy friend's favourite foods are:")
 for item in friend_foods:
     print(f"- {item}".title())
+
+
+
+
+
