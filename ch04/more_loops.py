@@ -14,4 +14,3 @@ for item in friend_foods:
     print(f"- {item}".title())
 
 
-
