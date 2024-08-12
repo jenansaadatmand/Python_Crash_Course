@@ -17,4 +17,3 @@ for sandwich in finished_sandwiches:
 # Extra step to verify what is inside the finished_sandwiches list    
 print(finished_sandwiches)
 
-
