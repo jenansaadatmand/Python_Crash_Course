@@ -25,4 +25,3 @@ for item in menu_items:
 
 
 
-
