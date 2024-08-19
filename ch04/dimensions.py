@@ -30,3 +30,6 @@ dimensions = (400, 100) # Associate a new tuple with the variable dimensions
 print("unmodified dimensions:")
 for dimension in dimensions:
     print(dimension)
+
+
+
