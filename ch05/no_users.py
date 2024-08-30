@@ -34,4 +34,3 @@ if usernames:
 else:
     print("We need to find some users!")
 
-
