@@ -10,4 +10,3 @@ print(f"Hello {names[3].title()}, you are invited to my party !")
 
 
 
-
