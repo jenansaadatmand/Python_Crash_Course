@@ -10,4 +10,3 @@
 # len(list) displays the length of the list
 
 
-
