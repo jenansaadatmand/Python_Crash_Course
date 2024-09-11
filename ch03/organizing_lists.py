@@ -8,4 +8,3 @@
 # Using reverse() method (not in alphabetical order)
 # Apply reverse() method a second time to revert to the original order in the list from the reversed order in the list
 # len(list) displays the length of the list
-
