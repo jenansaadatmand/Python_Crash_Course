@@ -27,4 +27,3 @@ print(f'{msg}{mode_transport[4].title()}')
 print(f'{msg}{mode_transport[5].title()}')
 
 
-
