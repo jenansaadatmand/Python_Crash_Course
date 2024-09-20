@@ -14,4 +14,3 @@ for animal in animals:
 print("Any of these animals would make a great pet!")
 
 
-
