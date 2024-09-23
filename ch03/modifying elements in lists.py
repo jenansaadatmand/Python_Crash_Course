@@ -64,4 +64,3 @@ moto.remove(too_expensive) # Use variable to tell python which value to remove f
 print(moto) # Remove 'ducati' and give it a reason for removing it from the list
 print(f"\nA {too_expensive.title()} is too expensive for me.") # \n for new line to be printed before the statement
 
-
