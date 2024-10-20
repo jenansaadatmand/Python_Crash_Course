@@ -40,4 +40,3 @@ else:
     print("You just earned 15 points!")
 
 
-
