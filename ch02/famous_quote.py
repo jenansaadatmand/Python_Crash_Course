@@ -13,4 +13,3 @@ quote = '"If you can’t explain it simply, you don’t understand it well enoug
 print(f"Albert Einstein once said, {quote}")
 
 
-
