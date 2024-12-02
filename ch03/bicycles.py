@@ -8,3 +8,6 @@ print(bicycles[3])
 print(bicycles[-1])
 # You can use title(), lower(), and upper() methods on lists items
 print(bicycles[0].title())
+
+
+
