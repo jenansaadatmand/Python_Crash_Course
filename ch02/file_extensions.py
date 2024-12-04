@@ -9,4 +9,3 @@ no_ext_file = file_name.removesuffix('.txt')
 print(no_ext_file)
 
 
-
