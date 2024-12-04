@@ -7,5 +7,3 @@
 file_name = 'python_notes.txt'
 no_ext_file = file_name.removesuffix('.txt')
 print(no_ext_file)
-
-
