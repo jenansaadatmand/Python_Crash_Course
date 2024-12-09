@@ -8,4 +8,3 @@ for x in cubes:
     cubes = x ** 3
     print(cubes)
 
-
