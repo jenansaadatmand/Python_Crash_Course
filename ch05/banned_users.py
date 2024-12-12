@@ -6,4 +6,3 @@ else:
     print('You cannot post.')
     
 
-
