@@ -3,3 +3,6 @@
 bicycles = ['trek', 'cannondale', 'reline', 'specialized']
 message = f"My first bicycle was {bicycles[0].title()}."
 print(message)
+
+
+
