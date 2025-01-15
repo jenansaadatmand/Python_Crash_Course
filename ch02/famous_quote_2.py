@@ -6,4 +6,3 @@ message = "The greatest glory in living lies not in never falling, but in rising
 print(f'{famous_person.title()} once said, "{message}"')
 
 
-
