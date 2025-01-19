@@ -44,4 +44,3 @@ print(cars)
 
 # Finding the length of a list
 print(len(cars))
-
