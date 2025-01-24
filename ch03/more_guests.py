@@ -29,4 +29,3 @@ print()
 print(len(guest_list))
 
 
-
