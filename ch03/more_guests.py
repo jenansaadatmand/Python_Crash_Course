@@ -27,3 +27,6 @@ for guest in guest_list:
     print(f"Hello {guest.title()}, you are invited to diner.")
 print()
 print(len(guest_list))
+
+
+
