@@ -28,4 +28,3 @@ for guest in guest_list:
 print()
 print(len(guest_list))
 
-
