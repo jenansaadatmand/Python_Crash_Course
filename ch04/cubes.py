@@ -9,4 +9,3 @@ for x in cubes:
     print(cubes)
 
 
-
