@@ -15,3 +15,5 @@ print(f'\nThe number of guests invited to dinner: {num_guests}')
 
 # Solution 2:
 print(f'\nThe number of guests invited to dinner: {len(guests)}')
+
+
