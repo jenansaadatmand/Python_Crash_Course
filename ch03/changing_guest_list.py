@@ -33,4 +33,3 @@ for guest in guest_list:
     print(f"Hello {guest}, you are still invited to dinner.")
 
 
-
