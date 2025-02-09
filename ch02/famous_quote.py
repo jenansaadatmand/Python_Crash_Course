@@ -11,3 +11,5 @@ print(f'{author.title()} once said, "{quote}"')
 # Solution 2:
 quote = '"If you can’t explain it simply, you don’t understand it well enough."'
 print(f"Albert Einstein once said, {quote}")
+
+
