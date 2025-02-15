@@ -26,4 +26,3 @@ print()
 # Pulling the first bicycle from the list and composing a message using that value
 message = f"My first bicycle was a {bicycles[0].title()}."
 print(message)
-
