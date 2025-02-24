@@ -55,4 +55,3 @@ print(guest_list) # confirming that the list is empty
 print()
 print(len(guest_list))
 
-
