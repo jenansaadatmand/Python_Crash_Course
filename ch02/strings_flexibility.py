@@ -83,3 +83,5 @@ print("Languages:\n\tPython\n\tC\n\tJavaScript")
 favourite_language = 'python '  # Value of a variable contains extra whitespace at the end of the string
 print(favourite_language)
 favourite_language.rstrip() # Action of stripping whitespace from the right of the string can only be seen in the terminal 
+
+
