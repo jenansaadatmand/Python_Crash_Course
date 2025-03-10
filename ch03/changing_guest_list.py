@@ -1,4 +1,3 @@
-
 # Exercise 3-5: Changing Guest List: you just heard that one of your guests can't make the dinner
 # So you need to send out a new set of invitations. you"'ll have to think of someone else to invite
 # Start with your program from exercises 3-4.
