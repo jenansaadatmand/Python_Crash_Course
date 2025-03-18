@@ -47,7 +47,6 @@ def make_car(manufacturer, model, **options):
 
 my_out_back = make_car('sabaru', 'outback', color='blue', tow_package=True) # True is a default value. convention: no spaces should before or after the = sign.
 print(my_out_back)
-
 print("\n")
 
 my_old_accord = make_car('honda', 'accord', year=1991, color='white', headlights = 'popup')
