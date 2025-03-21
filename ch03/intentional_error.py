@@ -14,3 +14,6 @@ print(f"Hello {guests[1]}, you are invited to dinner.")
 print(f"Hello {guests[2]}, you are invited to dinner.")
 print(f"Hello {guests[3]}, you are invited to dinner.")
 print(f"\nThe number of guests invited to dinner is {len(guests)}.")
+
+
+
