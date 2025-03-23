@@ -47,4 +47,3 @@ print("...")
 # Show how many aliens have been created
 print(f"Total number of aliens: {len(aliens)}")  # Print the length of the list to proove we generated 30 aliens
 print()
-
