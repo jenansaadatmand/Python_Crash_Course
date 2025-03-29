@@ -22,4 +22,3 @@ print("You can choose from the following items:")
 for item in menu_items:
     print(f"- {item}".title())
 
-
