@@ -16,4 +16,3 @@ print(f"You ordered a {pizza['crust']}-crust pizza"
 # To print the toppings, we use a for loop and access the dictionary using the key toppings
 for topping in pizza['toppings']:
     print("\t" + topping)
-
