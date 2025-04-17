@@ -9,4 +9,3 @@ else:
     print("Sorry, you are too young to vote.")
     print("Please register to vote as soon as you turn 18!")
 
-
