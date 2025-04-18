@@ -4,4 +4,3 @@ if user not in banned_users:
     print(f"{user.title()}, you can post if you wish.")
 else:
     print('You cannot post.')
-
