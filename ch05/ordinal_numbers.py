@@ -15,4 +15,3 @@ for number in numbers:
         print(f"{number}rd")
     else:
         print(f"{number}th")
-
