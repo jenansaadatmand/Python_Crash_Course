@@ -16,4 +16,3 @@ for number in numbers:
     else:
         print(f"{number}th")
 
-
