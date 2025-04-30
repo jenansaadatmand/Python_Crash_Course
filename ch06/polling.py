@@ -23,4 +23,3 @@ for coder in coders:
     else:
         print(f"{coder.title()} what's your favourite programming language?")
 print()
-
