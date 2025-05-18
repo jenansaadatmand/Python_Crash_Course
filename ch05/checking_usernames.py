@@ -18,4 +18,3 @@ for new_user in new_users:
     else:
         print(f"{new_user} username is available")
 
-
