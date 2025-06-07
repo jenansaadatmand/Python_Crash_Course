@@ -17,4 +17,3 @@ if 'pomegranates' in favourite_fruits:
 if 'mandarines' in favourite_fruits:
     print("You really like mandarines!")
 
-
