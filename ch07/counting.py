@@ -11,4 +11,3 @@ while current_number <=5: # set while loop to keep running as long as the value 
 # Python repeats the loop as long as the condition current_number <= 5 is true.
 # Once the value of current_number is greater than 5, the loop stops running and the program ends
 
-
