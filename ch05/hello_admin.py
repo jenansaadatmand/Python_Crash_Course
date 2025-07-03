@@ -14,4 +14,3 @@ for username in usernames:
     else: 
         print(f"Hello {username.title()}, thank you for logginh in again!")
 
-
