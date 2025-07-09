@@ -78,4 +78,3 @@ jenan.show_privileges()
 
 # If you forget the () brackets after the method, you are not executing the method so you get a bound error
 
-
