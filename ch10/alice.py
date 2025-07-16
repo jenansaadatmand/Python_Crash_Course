@@ -16,4 +16,3 @@ try:  # The code in the try block produces an error so Python looks for an excep
         f.read()
 except FileNotFoundError: # Python runs the except block to handle the error
     print(f"sorry, the file {filename} doesn't exist.") # Result in friendly error message is printed to the user instead of the traceback
-
