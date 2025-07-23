@@ -23,4 +23,3 @@ def describe_city(city, country='chile'):
 describe_city('santiago')
 describe_city('reykjavik', 'Iceland')
 describe_city('punta arenas')
-
