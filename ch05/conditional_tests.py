@@ -29,3 +29,4 @@ print("\nmotorcycle == 'haya busa' ? I predict False.")
 print(motorcycle == 'haya busa')
 print("motorcycle != 'haya busa' ? I predict True.")
 print(motorcycle != 'haya busa')
+
