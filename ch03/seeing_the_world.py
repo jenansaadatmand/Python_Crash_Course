@@ -4,7 +4,6 @@
 # Use sorted() to print your list in alphabetical order without modifying the actual list
  
 
-
 places = ['turkey', 'bahamas', 'italy', 'norway']
 print("\nHere is the original list:")
 print(places)
