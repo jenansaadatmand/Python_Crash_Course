@@ -2,7 +2,7 @@
 # Store the locations in a list. Make sure the list is not in alphabetical order
 # Print your list in its original order. Don't worry about printing the list neatly; just print it as a raw Python list
 # Use sorted() to print your list in alphabetical order without modifying the actual list
- 
+
 
 places = ['turkey', 'bahamas', 'italy', 'norway']
 print("\nHere is the original list:")
