@@ -38,7 +38,6 @@ class User:  # From Exercise 9-5 (page 167)
         """Resets user's login_attempts to 0."""
         self.login_attempts = 0
     
-
 class Admin(User):
     """Represents a user with administrative privileges."""
     
