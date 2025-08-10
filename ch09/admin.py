@@ -60,7 +60,6 @@ class Admin(User):
 
 #jimmy = User('jimmy', 'saadatmand', 'jimsaad', 'jimmysaad@yahoo.com', 'canada')
 
-
 #jimmy.describe_user()
 #jimmy.greet_user()
 #print()
