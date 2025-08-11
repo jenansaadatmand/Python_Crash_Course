@@ -11,6 +11,7 @@
 # Look closely at your results, and make sure you understand why each line evaluates to True or False
 # Create at least ten tests. 
 # Have at least five tests evaluate to True and another five tests evaluate to False
+
 motorcycle = 'suzuki'
 print("Is motorcycle == 'suzuki'? I predict True.")
 print(motorcycle == 'suzuki')
