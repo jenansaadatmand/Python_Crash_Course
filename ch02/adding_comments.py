@@ -7,6 +7,5 @@
 # Answer 1: 
 # This is a comment and all the above are a comment
 
-
 # Answer 2:
 print("Hello World!.") # Print call with an argument to print on the screen, this is an inline comment
