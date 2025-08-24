@@ -26,6 +26,7 @@ for name in cities.items():
     for key, value in cities.items():
         print(f"{key}{value}")
 print()
+
 # Solution 2: 
 
 for city, city_info in cities.items():
