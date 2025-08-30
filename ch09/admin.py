@@ -66,7 +66,6 @@ class Admin(User):
 
 # Create an instance of Admin and call the method
 
-
 jenan = Admin('jenan', 'saadatmand', 'jsaad', 'jenansaad@yahoo.com', 'canada') 
 
 jenan.describe_user()
