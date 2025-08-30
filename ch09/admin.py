@@ -9,7 +9,7 @@ class User:  # From Exercise 9-5 (page 167)
 
     def __init__(self, first_name, last_name, username, email, location):
         """Initialize the User."""
-
+        
         self.first_name = first_name.title()
         self.last_name = last_name.title()
         self.username = username
