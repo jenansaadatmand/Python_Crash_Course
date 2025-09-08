@@ -4,7 +4,6 @@
 # That prints a random number between 1 and the number of sides the die has
 # Make a 6-sided die and roll it 10 times
 
-
 from random import randint
 
 class Die:
