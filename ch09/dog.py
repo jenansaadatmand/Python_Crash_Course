@@ -45,7 +45,6 @@ print(my_dog.name)
 my_dog.age
 print(my_dog.age)
 
-
 # Third, calling methods, after creating an instance from the class Dog, using dot notation to call any method defined in the Dog class
 # syntax: instance name.method
 # Let's make our dog sit and rollover
