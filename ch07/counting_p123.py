@@ -1,7 +1,6 @@
 # Avoiding infinite loops, the program keeps running forever
 # CTRL + C to stop an infinite loop
 # Program counting loop from 1 to 5 
-
 x = 1
 while x <= 5:
     print(x)
