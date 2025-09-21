@@ -22,6 +22,7 @@ print(bicycles[-2])
 print(bicycles[-3])
 print()
 
+
 # Using individual values from a list, f-strings format method
 # Pulling the first bicycle from the list and composing a message using that value
 message = f"My first bicycle was a {bicycles[0].title()}."
