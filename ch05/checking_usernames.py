@@ -9,6 +9,7 @@
 
 # Make sure your comparison is case-sensitive
 
+
 # If 'John' has been used, 'JOHN' should not be accepted
 # ( To do this, you'll need to make a copy of current_users containing the lowercase versions of all existing users.)
 
