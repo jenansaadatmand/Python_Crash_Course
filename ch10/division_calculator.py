@@ -19,3 +19,4 @@ except ZeroDivisionError:  # If the code in the try block causes an error, tell 
     print("You can't divide by zero!") # The user sees a friendly error message on the screen instead of a traceback
 # If more code is added after the try-except block, the program continues running because we told python how to handle the error
     print("program is still active!")    
+
