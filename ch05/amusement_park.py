@@ -4,7 +4,6 @@
 # Admission for anyone age 18 or older is $40
 # Admission for seniors with discount > 65 is $20 
 
-
 age = 12
 if age < 4:
     print("Your admission cost is $0.")
