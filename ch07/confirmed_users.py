@@ -6,7 +6,6 @@
 # List of newly registered but unverified users of a website
 # After we verify the users, we move them to a separate list of confirmed users by using a while loop to pull users from the list of unconfirmed users as we verify them and then add them to a separate list of confirmed users
 
-
 # Start with users that need to be verified,
 # And an empty list to hold confirmed users.
 unconfirmed_users = ['alice', 'brian', 'candace']  # Begin with a list of unconfirmed users
