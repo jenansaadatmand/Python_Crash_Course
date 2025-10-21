@@ -16,6 +16,7 @@ print(my_t)
 print(my_t[0])
 print()
 
+
 # Looping overall values in a tuple using a for loop
 dimensions= (200, 50)
 for dimension in dimensions: 
