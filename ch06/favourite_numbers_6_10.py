@@ -10,7 +10,6 @@
 # Print each person's name and their favourite number
 # For even more fun, poll a few friends and get some actual data for your program
 
-
 # Nesting using a list as value to a key in a dictionary
 
 favourite_numbers = {
