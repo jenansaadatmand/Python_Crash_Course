@@ -7,7 +7,8 @@
 
 class Restaurant: # Excersize 9-1 (page 162)
     """A class representing or modelling a restaurant"""
- 
+
+    
     def __init__(self, name, cuisine_type):
         """Initialize the restaurant."""
         self.name = name.title()
