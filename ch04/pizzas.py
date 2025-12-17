@@ -10,7 +10,6 @@
 # The output should consist of three or more lines about the kinds 
 # of pizza you like and then an additional sentence, such as I really love pizza!
 
-
 pizzas = ["pepperoni", "vegi", "mexicain"]
 for pizza in pizzas: # a for loop
     print(pizza.title())
