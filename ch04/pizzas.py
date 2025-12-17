@@ -16,3 +16,4 @@ for pizza in pizzas: # a for loop
     print(pizza.title())
     print(f"I like {pizza.title()} pizza")
 print(f"I like {pizzas[0]} pizza, \nI like {pizzas[1]} pizza, \nI like {pizzas[2]} pizza, \nI really love pizza!")
+
