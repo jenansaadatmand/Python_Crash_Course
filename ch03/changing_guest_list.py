@@ -5,7 +5,6 @@
 # Modify your list, replacing the name of the guest who can't make it with the name of the new person you are inviting
 # Print a second set of invitation messages, one for each person who is still on your list
 
-
 guest_list = ['jimmy', 'tiffany', 'spoiler']
 print(guest_list)
 print(f"Hello {guest_list[0].title()}, you are invited to dinner.")
