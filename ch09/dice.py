@@ -6,7 +6,6 @@
 
 from random import randint
 
-
 class Die:
     """Represent a Die, which can be rolled."""
 
