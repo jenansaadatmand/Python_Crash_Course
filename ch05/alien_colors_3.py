@@ -6,7 +6,6 @@
 # Write three versions of this program
 # Making sure each message is printed for the appropriate color alien
 
-
 # Version if runs  
 
 alien_colors = 'green'
