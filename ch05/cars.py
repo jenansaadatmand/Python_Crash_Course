@@ -12,7 +12,6 @@ cars.sort(reverse=True)
 print(cars)
 print()
 
-
 # Sorting a list temporarily and without affecting the original order
 # Use sorted() function
 
