@@ -14,7 +14,6 @@ print(favourite_languages['phil'])
 language = favourite_languages['sarah'].title()
 print(f"Sarah's favourite language is {language}.")
 print()
-
 # Looping through all key-value pairs using the items() method
 
 for name, language in favourite_languages.items():
