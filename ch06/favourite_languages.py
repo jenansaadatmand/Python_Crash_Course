@@ -31,6 +31,7 @@ for name in favourite_languages:
     print(name.title())
 print()
 
+
 # Looping through a dictionary to access a value that is associated with the current key
 # Print a message to friends about the language they choose
 friends = ['phil', 'sarah'] # Make a list of friends that we want to print a message to
