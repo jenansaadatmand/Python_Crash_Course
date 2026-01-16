@@ -10,7 +10,6 @@
 # Adding a flag to parrot.py
 # Flag called active, will monitor whether or not the program should continue running
 
-
 prompt = "\nTell me something, and I will repeat it back to you: "
 prompt += "\nEnter 'quit' to end the program."
 
