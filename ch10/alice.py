@@ -11,6 +11,7 @@
 # Traceback reports a FileNotFoundError exception is created when Python cannot find the file it's trying to open
 filename = 'alice.txt'
 
+
 try:  # The code in the try block produces an error so Python looks for an except block that matches the error
     with open(filename, encoding = 'utf-8'):
         f.read()
