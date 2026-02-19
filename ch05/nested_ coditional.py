@@ -15,3 +15,4 @@ for i in cars:
         print(i.upper())
     else:
         print(i.lower())
+
