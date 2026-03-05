@@ -3,7 +3,6 @@
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 print(bicycles)     # This isn't the output you want your user to see, proceed to access individual items in a list
 
-
 # Accessing elements in a list or ordered collections by instructing Python the position, or index, of the desired item
 # Index positions start at 0, Not 1
 # To access an element in a list, write the name of the list followed by the index of the item enclosed in square brackets
