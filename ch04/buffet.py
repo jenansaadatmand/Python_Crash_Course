@@ -6,7 +6,6 @@
 # Add a line that writes the tuple
 # And then use a for loop to print each of the items on the revised menu
 
-
 menu_items = ("pizza", "curry", "fish", "chicken", "meat")
 print("You can choose from the following menu items:")
 for item in menu_items:
