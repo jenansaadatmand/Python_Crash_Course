@@ -11,7 +11,6 @@ print(squares)
 print("\n\n")
 print()
 
-
 # Solution 2: To write this code more concisely, omit the temporary variable square and append each new value directly to the list
 
 squares = []
