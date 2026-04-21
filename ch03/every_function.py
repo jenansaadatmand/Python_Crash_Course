@@ -3,7 +3,6 @@
 # Write a program that creates a list containing these items and n uses each function 
 # In this chapter at least once
 
-
 languages= ['english', 'french', 'arabic', 'persian', 'german', 'turkish']
 print("Here is the original list:")
 print(languages)
