@@ -5,6 +5,7 @@ print(dimensions)
 print(dimensions[0]) # Call first index in tuple
 print(dimensions[1]) # Call second index in tuple
 
+
 # Trying to change one item in a tuple, is impossible
 # dimensions[0] = 250
 # Print(dimensions)  # You get error
