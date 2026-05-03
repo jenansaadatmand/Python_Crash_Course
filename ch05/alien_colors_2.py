@@ -6,7 +6,6 @@
 
 # Version if block runs:
 
-
 alien_colors = 'green'
 if alien_colors == 'green':
     print("You just earned 5 points!")
