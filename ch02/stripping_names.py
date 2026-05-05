@@ -5,6 +5,7 @@
 # Then print the name using each of the three stripping functions, 
 # lstrip(), rstrip(), strip()
 
+
 name = "\tjimmy\n\t "
 print(name)
 print(name.lstrip())
