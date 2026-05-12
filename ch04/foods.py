@@ -3,7 +3,6 @@
 my_foods = ['pizza', 'falafel', 'carrot cake']
 friend_foods = my_foods[:] # making a slice of the entire list to copy the list
 
-
 print("My favourite foods are:")
 print(my_foods)
 print("\nMy friend's foods are:")
