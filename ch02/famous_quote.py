@@ -4,6 +4,7 @@
 # Alber Einstein once said, "A person who never made a mistake never tried anything new." 
 
 # Solution 1:
+
 quote = "The greatest glory in living lies not in never falling, but in rising every time we fall."
 author = "albert einstein"
 print(f'{author.title()} once said, "{quote}"')
