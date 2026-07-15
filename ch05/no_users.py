@@ -12,6 +12,7 @@ else:
     print("We need to find some users!")
 print()
 
+
 # Solution 2
 
 usernames = ['john']  # make list empty to execute else statement
