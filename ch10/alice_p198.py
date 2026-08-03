@@ -11,4 +11,3 @@ print(title) # output original string
 print(title.split()) # output list of words from a string
 print(list_of_words) # output list of words from a string
 print(len(list_of_words))  # output count of words
-
