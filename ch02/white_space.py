@@ -4,7 +4,6 @@
 
 print()
 
-
 print("Python")
 
 # To add a tab use \t at the beginning 
