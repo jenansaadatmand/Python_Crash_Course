@@ -8,6 +8,7 @@ cars.sort(reverse=True)
 print(cars)
 print()
 
+
 # Soting list temporarily with sorted() function on lower case values in lists only, to maintain the original order of the list but presented in a sorted order
 # Sorted function lets you display your list in a particular order but does not affect the actual order
 cars = ['bmw', 'audi', 'toyota', 'subaru']
