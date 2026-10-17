@@ -5,4 +5,3 @@ if user not in banned_users:
 else:
     print('You cannot post.')
 
-
