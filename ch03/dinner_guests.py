@@ -9,7 +9,6 @@ print(f'{guests[1].title()}, you are invited to dinner!')
 print(f'{guests[2].title()}, you are invited to dinner!')
 print() 
 
-
 # Solution 1:
 num_guests = len(guests)
 print(f'\nThe number of guests invited to dinner: {num_guests}')
