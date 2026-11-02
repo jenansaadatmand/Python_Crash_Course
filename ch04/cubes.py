@@ -7,3 +7,4 @@ cubes = list(range(1, 11))
 for x in cubes: 
     cubes = x ** 3
     print(cubes)
+
