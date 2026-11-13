@@ -13,7 +13,6 @@ else:
     print("You just earned 10 points!")
 print()
 
-
 # Version else block runs :
 
 alien_colors = 'yellow'
