@@ -15,6 +15,7 @@ else:
     print("Your admission cost is $20.")
 print()    
 
+
 # Alternative cleaner more efficient revised code which is easier to modify
 
 age = 70
