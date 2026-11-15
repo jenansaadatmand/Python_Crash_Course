@@ -7,6 +7,7 @@ languages= ['english', 'french', 'arabic', 'persian', 'german', 'turkish']
 print("Here is the original list:")
 print(languages)
 print()
+
 # Use each function introduced in Chapter 3 at least once:
 # Accessing elements in a list using their index
 print(f"Item at index 5 is: {languages [5].title()}")
