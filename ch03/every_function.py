@@ -19,6 +19,7 @@ print()
 print("Using f-string to build sentences:")
 print(f"My first language was {languages[2].title()}")
 print()
+
 # Modifying elements in the list
 # Changing the values and replacing elements, the first item at index 0, replacing english with italian
 print("Replacing items using index:")
