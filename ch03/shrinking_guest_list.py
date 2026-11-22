@@ -9,6 +9,7 @@
 # Use del to remove the last two names from your list, so you have an empty list
 # Print your list to make sure you have an empty list at the end of your program 
 
+
 guest_list = ['jimmy', 'tiffany', 'spoiler']
 for guest in guest_list: 
     print(f"Hello {guest.title()}, you are invited for diner") 
