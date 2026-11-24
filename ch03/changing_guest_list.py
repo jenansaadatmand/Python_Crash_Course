@@ -12,7 +12,6 @@ print(f"Hello {guest_list[1].title()}, you are invited to dinner.")
 print(f"Hello {guest_list[2].title()}, you are invited to dinner.")
 print()
 
-
 print(f"Hello everone, sadly Spoiler cannot make it for dinner.")
 # Modify element by replacement at index 
 guest_list[2]= 'nana' 
