@@ -2,7 +2,6 @@
 # List comprehension in one line of code, it combines for loop and the creation of new elements into one line and automatically appends each new element
 # Square numbers are presented as value ** 2
 
-
 squares = [value**2 for value in range(1, 11)]
 print(squares)
 print("\n")
